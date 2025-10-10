@@ -1,0 +1,119 @@
+Nome do Produto: N/A
+Link do Produto: https://www.gigabarato.com.br/utilidades-domesticas/
+Preço do Produto: N/A
+Preço com Promoção: N/A
+EAM: ** 40583 (O `item_id` ou ID interno do produto é `1135659944`)
+
+==================================================
+Nome do Produto: N/A
+Link do Produto: https://www.gigabarato.com.br/utilidades-domesticas/
+Preço do Produto: N/A
+Preço com Promoção: N/A
+EAM: ** 40583
+
+==================================================
+Nome do Produto: N/A
+Link do Produto: https://www.gigabarato.com.br/utilidades-domesticas/
+Preço do Produto: N/A
+Preço com Promoção: N/A
+EAM: N/A
+
+==================================================
+Nome do Produto: N/A
+Link do Produto: https://www.gigabarato.com.br/casa-moveis-e-decoracao/
+Preço do Produto: N/A
+Preço com Promoção: N/A
+EAM: N/A
+
+==================================================
+Nome do Produto: N/A
+Link do Produto: https://www.gigabarato.com.br/casa-moveis-e-decoracao/
+Preço do Produto: N/A
+Preço com Promoção: N/A
+EAM: ** 44140
+
+==================================================
+Nome do Produto: N/A
+Link do Produto: https://www.gigabarato.com.br/casa-moveis-e-decoracao/
+Preço do Produto: N/A
+Preço com Promoção: N/A
+EAM: N/A
+
+==================================================
+Nome do Produto: N/A
+Link do Produto: https://www.gigabarato.com.br/beleza-e-cuidado-pessoal/
+Preço do Produto: N/A
+Preço com Promoção: N/A
+EAM: N/A
+
+==================================================
+Nome do Produto: N/A
+Link do Produto: https://www.gigabarato.com.br/beleza-e-cuidado-pessoal/
+Preço do Produto: N/A
+Preço com Promoção: N/A
+EAM: ** 51375
+
+==================================================
+Nome do Produto: N/A
+Link do Produto: https://www.gigabarato.com.br/beleza-e-cuidado-pessoal/
+Preço do Produto: N/A
+Preço com Promoção: N/A
+EAM: ** **Não é possível determinar** a partir deste script.
+
+==================================================
+Nome do Produto: N/A
+Link do Produto: https://www.gigabarato.com.br/ferramentas/
+Preço do Produto: N/A
+Preço com Promoção: N/A
+EAM: N/A
+
+==================================================
+Nome do Produto: N/A
+Link do Produto: https://www.gigabarato.com.br/ferramentas/
+Preço do Produto: N/A
+Preço com Promoção: N/A
+EAM: ** 14675
+
+==================================================
+Nome do Produto: N/A
+Link do Produto: https://www.gigabarato.com.br/ferramentas/
+Preço do Produto: N/A
+Preço com Promoção: N/A
+EAM: N/A
+
+==================================================
+Nome do Produto: N/A
+Link do Produto: https://www.gigabarato.com.br/brinquedos/
+Preço do Produto: N/A
+Preço com Promoção: N/A
+EAM: ** 50166
+
+==================================================
+Nome do Produto: N/A
+Link do Produto: https://www.gigabarato.com.br/brinquedos/
+Preço do Produto: N/A
+Preço com Promoção: N/A
+EAM: ** 44618
+
+==================================================
+Nome do Produto: N/A
+Link do Produto: https://www.gigabarato.com.br/brinquedos/
+Preço do Produto: N/A
+Preço com Promoção: N/A
+EAM: N/A
+
+==================================================
+Nome do Produto: N/A
+Link do Produto: https://www.gigabarato.com.br/decoracao/
+Preço do Produto: N/A
+Preço com Promoção: N/A
+EAM: ** 38997
+
+==================================================
+Nome do Produto: N/A
+Link do Produto: https://www.gigabarato.com.br/decoracao/
+Preço do Produto: N/A
+Preço com Promoção: N/A
+EAM: ** 40506
+
+==================================================

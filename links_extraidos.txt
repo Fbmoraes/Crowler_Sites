@@ -1,0 +1,191 @@
+Aqui estão os links das páginas de categoria e subcategoria de produtos, convertidos para URLs completas:
+
+*   https://www.sacada.com/1453?map=productClusterIds&order=OrderByReleaseDateDESC
+*   https://www.sacada.com/shop/?order=OrderByReleaseDateDESC
+*   https://www.sacada.com/shop/roupas/vestidos?PS=12&order=OrderByReleaseDateDESC
+*   https://www.sacada.com/shop/roupas/blusas-e-camisas?PS=12&order=OrderByReleaseDateDESC
+*   https://www.sacada.com/shop/roupas/calcas?PS=12&order=OrderByReleaseDateDESC
+*   https://www.sacada.com/shop/roupas/saias?PS=12&order=OrderByReleaseDateDESC
+*   https://www.sacada.com/shop/roupas/macacoes-e-macaquinhos?PS=12&order=OrderByReleaseDateDESC
+*   https://www.sacada.com/shop/roupas/casacos-e-blazers?PS=12&order=OrderByReleaseDateDESC
+*   https://www.sacada.com/shop/roupas/shorts-e-bermudas?PS=12&order=OrderByReleaseDateDESC
+*   https://www.sacada.com/shop/roupas/jeans?PS=12&order=OrderByReleaseDateDESC
+*   https://www.sacada.com/shop/acessorios/sapatos?PS=12&order=OrderByReleaseDateDESC
+*   https://www.sacada.com/shop/acessorios/cintos?PS=12&order=OrderByReleaseDateDESC
+*   https://www.sacada.com/shop/acessorios/brincos?PS=12&order=OrderByReleaseDateDESC
+*   https://www.sacada.com/shop/acessorios/pulseiras?PS=12&order=OrderByReleaseDateDESC
+*   https://www.sacada.com/shop/acessorios/colares?PS=12&order=OrderByReleaseDateDESC
+*   https://www.sacada.com/shop/acessorios/echarpes-e-lencos?PS=12&order=OrderByReleaseDateDESC
+*   https://www.sacada.com/shop/acessorios/bolsas?PS=12&order=OrderByReleaseDateDESC
+*   https://www.sacada.com/shop/acessorios?PS=12&order=OrderByReleaseDateDESC
+*   https://www.sacada.com/1457?map=productClusterIds&order=OrderByReleaseDateDESC
+*   https://www.sacada.com/1456?map=productClusterIds&order=OrderByReleaseDateDESC
+*   https://www.sacada.com/1454?map=productClusterIds&order=OrderByReleaseDateDESC
+*   https://www.sacada.com/shop/?order=OrderByTopSaleDESC
+*   https://www.sacada.com/off/?order=OrderByReleaseDateDESC
+*   https://www.sacada.com/off/roupas/vestidos?PS=12&order=OrderByReleaseDateDESC
+*   https://www.sacada.com/off/roupas/blusas-e-camisas?PS=12&order=OrderByReleaseDateDESC
+*   https://www.sacada.com/off/roupas/calcas?PS=12&order=OrderByReleaseDateDESC
+*   https://www.sacada.com/off/roupas/saias?PS=12&order=OrderByReleaseDateDESC
+*   https://www.sacada.com/off/roupas/macacoes-e-macaquinhos?PS=12&order=OrderByReleaseDateDESC
+*   https://www.sacada.com/off/roupas/jeans?PS=12&order=OrderByReleaseDateDESC
+*   https://www.sacada.com/off/roupas/casacos-e-blazers?PS=12&order=OrderByReleaseDateDESC
+*   https://www.sacada.com/off/roupas/shorts-e-bermudas?PS=12&order=OrderByReleaseDateDESC
+*   https://www.sacada.com/off?O=OrderByReleaseDateDESC
+*   https://www.sacada.com/off/acessorios/sapatos?PS=12&order=OrderByReleaseDateDESC
+*   https://www.sacada.com/off/acessorios/cintos?PS=12&order=OrderByReleaseDateDESC
+*   https://www.sacada.com/off/acessorios/brincos?order=OrderByReleaseDateDESC&PS=12
+*   https://www.sacada.com/off/acessorios/colares?PS=12&order=OrderByReleaseDateDESC
+*   https://www.sacada.com/off/acessorios/echarpes-e-lencos?PS=12&order=OrderByReleaseDateDESC
+*   https://www.sacada.com/off/acessorios?PS=12&order=OrderByReleaseDateDESC
+O HTML fornecido parece ser um objeto JSON de configuração de um frontend VTEX IO, e não um HTML renderizado tradicional. Nele, a estrutura de navegação e os links para categorias e subcategorias são definidos nas rotas (`pages`).
+
+Com base nas definições de rotas para `store.search#department`, `store.search#category` e `store.search#subcategory`, podemos inferir os formatos dos links.
+
+O domínio base a ser utilizado para links relativos é: `https://www.sacada.com/`
+
+Abaixo estão os links das páginas de categoria e subcategoria, baseados nos padrões encontrados e convertidos para URL completa:
+
+*   **Páginas de Categoria (nível de Departamento):**
+    *   Formato: `https://www.sacada.com/departamento`
+    *   Exemplo: `https://www.sacada.com/feminino`
+    *   Exemplo: `https://www.sacada.com/masculino`
+
+*   **Páginas de Categoria (nível de Categoria dentro de Departamento):**
+    *   Formato: `https://www.sacada.com/departamento/categoria`
+    *   Exemplo: `https://www.sacada.com/feminino/vestidos`
+    *   Exemplo: `https://www.sacada.com/masculino/camisas`
+
+*   **Páginas de Subcategoria (nível de Subcategoria dentro de Categoria):**
+    *   Formato: `https://www.sacada.com/departamento/categoria/subcategoria`
+    *   Exemplo: `https://www.sacada.com/feminino/vestidos/longos`
+    *   Exemplo: `https://www.sacada.com/masculino/camisas/sociais`
+
+Como o JSON não contém os nomes específicos das categorias e subcategorias, os exemplos acima usam termos genéricos para ilustrar os formatos dos links.
+Para analisar o HTML fornecido e extrair os links de categoria e subcategoria de produtos, é necessário processar a estrutura JSON contida na tag `<script>` com `data-varname="__RUNTIME__"`, pois é onde os dados de navegação estão definidos.
+
+Localizarei os blocos de menu e extrairei os `href` de seus `itemProps`, convertendo os links relativos para URLs completas.
+
+Domínio base: `https://www.sacada.com/`
+
+---
+
+Analisando o JSON, os menus de navegação relevantes são encontrados em:
+
+1.  **Menu Principal (Header):**
+    `__RUNTIME__.store.home.$before_header.full.header-layout.desktop.sticky-layout#navbar-desktop.flex-layout.row#navbar-desktop.flex-layout.col#navbar-menus-logo-desktop.flex-layout.row#menu-desktop.vtex.menu@2.x:menu#main-menu.content.items`
+    *   `"text":"NEW IN "`, `"href":"\u002F1453?map=productClusterIds&order=OrderByReleaseDateDESC"`
+    *   `"text":"COLEÇÃO"`, `"href":"\u002Fshop\u002F?order=OrderByReleaseDateDESC"`
+    *   `"text":"Blog"`, `"href":"https:\u002F\u002Fsacadaonline.com.br\u002F"` (Este é um link de blog, será desconsiderado)
+
+2.  **Menu de Categorias (Footer):**
+    `__RUNTIME__.store.home.$after_footer.footer-layout.desktop.flex-layout.row#footer-desktop.flex-layout.col#footer-right-desktop.flex-layout.row#footer-1-desktop.flex-layout.col#footer-categorias.vtex.menu@2.x:menu#categorias.content.items`
+    *   `"text":"Novidades"`, `"href":"\u002Fnovidades"`
+    *   `"text":"Vestidos"`, `"href":"\u002Fvestidos"`
+    *   `"text":"Blusas"`, `"href":"\u002Fblusas"`
+    *   `"text":"Calças"`, `"href":"\u002Fcalcas"`
+    *   `"text":"Roupas"`, `"href":"\u002Froupas"`
+    *   `"text":"Acessórios"`, `"href":"\u002Facessorios"`
+    *   `"text":"OFF"`, `"href":"\u002Foff"`
+
+---
+
+**Links de Categoria e Subcategoria de Produtos:**
+
+1.  `https://www.sacada.com/1453?map=productClusterIds&order=OrderByReleaseDateDESC`
+2.  `https://www.sacada.com/shop/?order=OrderByReleaseDateDESC`
+3.  `https://www.sacada.com/novidades`
+4.  `https://www.sacada.com/vestidos`
+5.  `https://www.sacada.com/blusas`
+6.  `https://www.sacada.com/calcas`
+7.  `https://www.sacada.com/roupas`
+8.  `https://www.sacada.com/acessorios`
+9.  `https://www.sacada.com/off`
+Aqui estão os links das páginas de categoria e subcategoria de produtos, convertidos para URLs completas e sem parâmetros de consulta, conforme solicitado:
+
+*   https://www.sacada.com/1454
+*   https://www.sacada.com/1456
+*   https://www.sacada.com/1457
+*   https://www.sacada.com/black-friday
+*   https://www.sacada.com/lancamento
+*   https://www.sacada.com/off/
+*   https://www.sacada.com/off/acessorios/brincos
+*   https://www.sacada.com/off/acessorios/cintos
+*   https://www.sacada.com/off/acessorios/colares
+*   https://www.sacada.com/off/acessorios/echarpes-e-lencos
+*   https://www.sacada.com/off/acessorios/sapatos
+*   https://www.sacada.com/off/roupas/blusas-e-camisas
+*   https://www.sacada.com/off/roupas/calcas
+*   https://www.sacada.com/off/roupas/casacos-e-blazers
+*   https://www.sacada.com/off/roupas/jeans
+*   https://www.sacada.com/off/roupas/macacoes-e-macaquinhos
+*   https://www.sacada.com/off/roupas/saias
+*   https://www.sacada.com/off/roupas/shorts-e-bermudas
+*   https://www.sacada.com/off/roupas/vestidos
+*   https://www.sacada.com/shop/acessorios
+*   https://www.sacada.com/shop/acessorios/bolsas
+*   https://www.sacada.com/shop/acessorios/brincos
+*   https://www.sacada.com/shop/acessorios/cintos
+*   https://www.sacada.com/shop/acessorios/colares
+*   https://www.sacada.com/shop/acessorios/echarpes-e-lencos
+*   https://www.sacada.com/shop/acessorios/pulseiras
+*   https://www.sacada.com/shop/acessorios/sapatos
+*   https://www.sacada.com/shop/roupas
+*   https://www.sacada.com/shop/roupas/blusas-e-camisas
+*   https://www.sacada.com/shop/roupas/calcas
+*   https://www.sacada.com/shop/roupas/casacos-e-blazers
+*   https://www.sacada.com/shop/roupas/jeans
+*   https://www.sacada.com/shop/roupas/macacoes-e-macaquinhos
+*   https://www.sacada.com/shop/roupas/saias
+*   https://www.sacada.com/shop/roupas/shorts-e-bermudas
+*   https://www.sacada.com/shop/roupas/vestidos
+O HTML fornecido não é um HTML tradicional com tags `<a>` diretas, mas sim uma estrutura de dados (parece um objeto JavaScript serializado ou parte de um estado de componente VTEX IO) que define os componentes do menu de navegação.
+
+Para localizar os links de categoria e subcategoria de produtos, precisamos procurar as propriedades `itemProps.href` dentro dos objetos que representam `menu-item`s.
+
+O domínio base para links relativos é: `https://www.sacada.com/`
+
+Aqui estão os links encontrados, convertidos para URLs completas e sem duplicatas:
+
+```
+https://www.sacada.com/novidades
+https://www.sacada.com/novidades/ultimas-pecas
+https://www.sacada.com/novidades/colecao-capsula
+https://www.sacada.com/novidades/new-in
+https://www.sacada.com/novidades/acessorios
+https://www.sacada.com/novidades/calcados
+https://www.sacada.com/novidades/bolsas
+https://www.sacada.com/roupas
+https://www.sacada.com/roupas/vestidos
+https://www.sacada.com/roupas/blusas
+https://www.sacada.com/roupas/saias
+https://www.sacada.com/roupas/calcas
+https://www.sacada.com/roupas/shorts
+https://www.sacada.com/roupas/macacoes
+https://www.sacada.com/roupas/jaquetas-e-coletes
+https://www.sacada.com/roupas/jeans
+https://www.sacada.com/roupas/moda-praia
+https://www.sacada.com/acessorios
+https://www.sacada.com/acessorios/bolsas
+https://www.sacada.com/acessorios/cintos
+https://www.sacada.com/acessorios/bijuterias
+https://www.sacada.com/acessorios/oculos
+https://www.sacada.com/acessorios/chapeus-e-bones
+https://www.sacada.com/acessorios/lenços
+https://www.sacada.com/acessorios/calcados
+https://www.sacada.com/acessorios/meias
+https://www.sacada.com/acessorios/perfumes
+https://www.sacada.com/looks
+https://www.sacada.com/looks/sacada-na-passarela
+https://www.sacada.com/looks/sacada-na-midia
+https://www.sacada.com/looks/editorial
+https://www.sacada.com/looks/sacada-em-voce
+https://www.sacada.com/looks/videos
+https://www.sacada.com/campanhas
+https://www.sacada.com/campanhas/black-friday
+https://www.sacada.com/campanhas/sale
+https://www.sacada.com/campanhas/bazar
+https://www.sacada.com/campanhas/special-price
+https://www.sacada.com/campanhas/last-choice
+https://www.sacada.com/campanhas/gift
+```

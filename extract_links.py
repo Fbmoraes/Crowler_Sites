@@ -1,82 +1,56 @@
 import httpx
-from langchain_google_genai import GoogleGenerativeAI
-from dotenv import load_dotenv
 from bs4 import BeautifulSoup
+from urllib.parse import urljoin
+import re
+from urllib.parse import urlparse
 
-# Carregar variáveis de ambiente
-load_dotenv()
-
-# Inicializar o modelo Gemini Flash
-llm = GoogleGenerativeAI(model="gemini-2.5-flash")
-
-# Função principal para extrair links
 def extrair_links_do_site(link_do_site, show_message):
-    # Exibindo a mensagem de início
     show_message("Iniciando a extração dos links...")
+    resp = httpx.get(link_do_site, timeout=30)
+    resp.raise_for_status()
+    html = resp.text
+    with open("agua.txt", "w", encoding="utf-8") as f:
+        f.write(html)
+    soup = BeautifulSoup(html, "html.parser")
 
-    # Obter o HTML do site
-    try:
-        response = httpx.get(link_do_site, timeout=30)
-        response.raise_for_status()
-        soup = BeautifulSoup(response.text, "html.parser")
-    except Exception as e:
-        show_message(f"Erro ao acessar o site: {e}")
-        return f"Erro ao acessar o site: {e}"
+    base_netloc = urlparse(link_do_site).netloc
+    patterns = ("categoria", "categorias", "/c/", "/cat/", "category", "produto", "produtos", "ver-tudo", "ver%20mais")
 
-    # Salvar HTML em arquivo (opcional)
-    with open("agua.txt", "w", encoding="utf-8") as arq:
-        arq.write(soup.prettify())
+    anchors = soup.find_all("a", href=True)
+    found = []
+    for a in anchors:
+        href = a["href"].strip()
+        href_l = href.lower()
+        abs_url = urljoin(link_do_site, href)
+        if urlparse(abs_url).netloc != base_netloc:
+            continue  # apenas links internos
 
-    # Converter HTML em string
-    lista_links = soup.prettify()
+        text = (a.get_text() or "").strip().lower()
 
-    # Definir tamanho máximo por chunk (aprox. limite seguro)
-    MAX_CHARS = 245000
+        # condição: está dentro de nav/header/aside/footer?
+        in_nav = any(p.name in ("nav", "header", "aside", "footer") for p in a.parents)
 
-    # Função para dividir o HTML em partes menores
-    def dividir_html_em_chunks(texto, tamanho_chunk):
-        return [texto[i : i + tamanho_chunk] for i in range(0, len(texto), tamanho_chunk)]
+        # condição: classes/ids com palavras-chave
+        cls_id = " ".join(a.get("class", []) + [a.get("id") or ""])
+        cls_match = bool(re.search(r"(nav|menu|categoria|category|cat|sidebar|list|menu__|menu-)", cls_id, re.I))
 
-    # Dividir HTML em partes se for muito grande
-    html_chunks = dividir_html_em_chunks(lista_links, MAX_CHARS)
-    show_message(f"🔹 Total de partes a serem processadas: {len(html_chunks)}")
+        # condição: href/text contem padrões de categoria
+        pattern_match = any(p in href_l or p in text for p in patterns)
 
-    # Lista para armazenar os resultados de cada parte
-    resultados = []
+        if in_nav or cls_match or pattern_match:
+            found.append(abs_url)
 
-    # Loop sobre cada parte e chamar o modelo
-    for i, chunk in enumerate(html_chunks, start=1):
-        show_message(f"🚀 Processando parte {i}/{len(html_chunks)}...")
+    # remove duplicados preservando ordem
+    seen = set()
+    out = []
+    for u in found:
+        if u not in seen:
+            seen.add(u)
+            out.append(u)
 
-        prompt = f"""
-        Analise esse HTML e localize o menu de navegação.
-        Retorne **somente os links** das páginas de categoria e subcategoria de produtos.
-        Os links podem estar nos formatos:
-        - https://sitedecompra.com.br/categoria
-        - https://sitedecompra.com.br/categoria/
-        - https://sitedecompra.com.br/categoria/subcategoria
-        - Ou relativos como /categoria/ ou /categoria/subcategoria
-
-        Quando o link for relativo, converta para URL completa usando o domínio base:
-        {link_do_site}
-
-        HTML:
-        {chunk}
-        """
-
-        try:
-            response = llm.invoke(prompt)
-            resultados.append(response)
-        except Exception as e:
-            show_message(f"⚠️ Erro ao processar parte {i}: {e}")
-            continue
-
-    # Concatenar os resultados finais
-    resultado_final = "\n".join([r for r in resultados if r])
-
-    # Exibir e salvar resultado
+    resultado = "\n".join(out)
     with open("links_extraidos.txt", "w", encoding="utf-8") as f:
-        f.write(resultado_final)
+        f.write(resultado)
 
     show_message("✅ Extração concluída!")
-    return resultado_final
+    return resultado

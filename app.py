@@ -1,5 +1,5 @@
 import streamlit as st
-from extract_links import extrair_links_do_site  # Certifique-se de importar corretamente
+from extract_linksv3 import extrair_links_do_site  # Certifique-se de importar corretamente
 
 # Configuração da página Streamlit
 st.set_page_config(page_title='Chat_Gemini')

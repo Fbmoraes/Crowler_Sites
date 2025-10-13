@@ -1,0 +1,59 @@
+=== DETALHES DOS PRODUTOS (V4 - PARALELO) ===
+Produtos processados: 5
+Threads utilizadas: 3
+
+--- PRODUTO 1 ---
+URL: https://www.sacada.com/casaco-tricot-retilinea-01042234-0004/p
+Nome: Casaco Tricot Retilínea - Cru
+Nome Limpo: Casaco Tricot Retilínea - Cru
+Preco: 418 BRL
+Marca: Sacada
+Categoria: Casacos e Blazers
+Estoque: None
+Imagens (1):
+  - https://sacada.vtexassets.com/arquivos/ids/297482/01042234_0004_1-CASACO-TRICOT-RETILINEA.jpg?v=638536487468500000
+Descricao: Compre Casaco Tricot Retilínea SACADA, a loja que reflete as grandes tendências e desejos atuais e ainda pague em até 6X com primeira troca grátis!...
+
+--- PRODUTO 2 ---
+URL: https://www.sacada.com/blusa-tricot-com-punho-azul-netuno/p
+Nome: Produto não acessível
+Nome Limpo: N/A
+Preco: None 
+Marca: N/A
+Categoria: N/A
+Estoque: N/A
+ERRO: HTTP 404: Client error '404 Not Found' for url 'https://www.sacada.com/blusa-tricot-com-punho-azul-netuno/p'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404
+
+--- PRODUTO 3 ---
+URL: https://www.sacada.com/calca-tricot-mescla-cru/p
+Nome: Produto não acessível
+Nome Limpo: N/A
+Preco: None 
+Marca: N/A
+Categoria: N/A
+Estoque: N/A
+ERRO: HTTP 404: Client error '404 Not Found' for url 'https://www.sacada.com/calca-tricot-mescla-cru/p'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404
+
+--- PRODUTO 4 ---
+URL: https://www.sacada.com/blusa-tricot-lurex-frente-unica-cobre/p
+Nome: Produto não acessível
+Nome Limpo: N/A
+Preco: None 
+Marca: N/A
+Categoria: N/A
+Estoque: N/A
+ERRO: HTTP 404: Client error '404 Not Found' for url 'https://www.sacada.com/blusa-tricot-lurex-frente-unica-cobre/p'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404
+
+--- PRODUTO 5 ---
+URL: https://www.sacada.com/casaco-tricot-foil-ambar-escuro/p
+Nome: Produto não acessível
+Nome Limpo: N/A
+Preco: None 
+Marca: N/A
+Categoria: N/A
+Estoque: N/A
+ERRO: HTTP 404: Client error '404 Not Found' for url 'https://www.sacada.com/casaco-tricot-foil-ambar-escuro/p'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404

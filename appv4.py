@@ -2,7 +2,7 @@ import csv
 from io import StringIO
 
 import streamlit as st
-from extract_linksv5 import extrair_produtos_rapido
+from extract_linksv7 import extrair_produtos_rapido
 from extract_detailsv4 import extrair_detalhes_paralelo
 
 def main():
@@ -12,7 +12,7 @@ def main():
     )
 
     st.title("Crowler V5")
-    st.markdown("**Extração rápida de produtos do sitemap e análise detalhada com múltiplas threads**")
+    st.markdown("**Extração inteligente com aprendizado de padrões + validação paralela ultra-rápida**")
     # URL input
     url = st.text_input("Digite a URL do site:", placeholder="https://exemplo.com")
     
@@ -63,8 +63,45 @@ def main():
         import time
         start_time = time.time()
         
-        with st.spinner("Extraindo produtos..."):
-            resultado_produtos = extrair_produtos_rapido(url, show_message, max_produtos=None)
+        # UI de progresso
+        progress_text = st.empty()
+        progress_bar = st.progress(0)
+        status_info = st.empty()
+
+        def progress_callback(atual, total, info, tipo):
+            if tipo == "coletando":
+                status_info.text(f"Sitemap: {info} | {atual} URLs")
+                progress_bar.progress(min(0.10, atual / 5000))  # Até 10%
+            
+            elif tipo == "fase_aprendizado":
+                progress_text.text(f"Aprendendo padroes: {atual}/{total}")
+                progress_bar.progress(0.10)  # 10%
+            
+            elif tipo == "aplicando_padrao":
+                # Aplicação instantânea do padrão (SEM HTTP)
+                progress_text.text(f"Filtrando: {atual}/{total} ({int(atual/total*100)}%)")
+                if total and total > 0:
+                    frac = 0.10 + (atual / float(total) * 0.90)  # 10-100%
+                    progress_bar.progress(frac)
+            
+            elif tipo == "validando":
+                # Validação HTTP (fase de aprendizado ou sem padrão)
+                progress_text.text(f"Validando: {atual}/{total} ({int(atual/total*100) if total > 0 else 0}%)")
+                if total and total > 0:
+                    frac = 0.10 + (atual / float(total) * 0.90)  # 10-100%
+                    progress_bar.progress(frac)
+            
+            elif tipo == "produto_validado":
+                status_info.text(f"Produtos: {atual}")
+
+        with st.spinner("Extraindo e validando produtos"):
+            resultado_produtos = extrair_produtos_rapido(
+                url, show_message, max_produtos=None, progress_callback=progress_callback
+            )
+        
+        progress_bar.progress(1.0)
+        status_info.empty()
+        progress_text.empty()
         
         elapsed = time.time() - start_time
         

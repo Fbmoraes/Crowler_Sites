@@ -1,0 +1,16 @@
+{
+  "unique_key": "https://www.matconcasa.com.br/produto/pulverizador-brudden-agricola-dupla-ac-o-das-5l-75-401636",
+  "url": "https://www.matconcasa.com.br/produto/pulverizador-brudden-agricola-dupla-ac-o-das-5l-75-401636",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 3
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": "https://www.matconcasa.com.br/produto/pulverizador-brudden-agricola-dupla-ac-o-das-5l-75-401636",
+  "handled_at": "2025-10-30 12:41:30.819062+00:00"
+}

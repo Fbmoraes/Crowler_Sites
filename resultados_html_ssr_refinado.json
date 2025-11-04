@@ -1,0 +1,124 @@
+{
+  "total": 8,
+  "sucesso": 8,
+  "erros": 0,
+  "tempo_total": 3.2389721870422363,
+  "tempo_medio": 0.40487152338027954,
+  "produtos": [
+    {
+      "nome": "Furadeira Makita de Impacto 1/2\" 1010W 220V | HP2070-220V",
+      "preco_original": "2.706,38",
+      "preco": "2.706,38",
+      "imagens": [
+        "/_next/image?url=https%3A%2F%2Fapi.matconcasa.com.br%2F%2Fmedia%2F.renditions%2Fwysiwyg%2FParcel_Payment.png&w=1500&q=75"
+      ],
+      "disponivel": true,
+      "sku": "281700",
+      "marca": "Makita",
+      "metodo": "HTML-SSR",
+      "tempo": 1.8394880294799805,
+      "tentativas": 1,
+      "url": "https://www.matconcasa.com.br/produto/furadeira-makita-de-impacto-1-2-1010w-220v-hp2070-220v-281700"
+    },
+    {
+      "nome": "Tupia Laminadora Makita 1/4\" 530W 127V | 3709127V",
+      "preco_original": "510,19",
+      "preco": "510,19",
+      "imagens": [
+        "/_next/image?url=https%3A%2F%2Fapi.matconcasa.com.br%2F%2Fmedia%2F.renditions%2Fwysiwyg%2FParcel_Payment.png&w=1500&q=75"
+      ],
+      "disponivel": true,
+      "sku": "250228",
+      "marca": "Makita",
+      "metodo": "HTML-SSR",
+      "tempo": 1.7793068885803223,
+      "tentativas": 1,
+      "url": "https://www.matconcasa.com.br/produto/tupia-laminadora-makita-1-4-530w-127v-3709127v-250228"
+    },
+    {
+      "nome": "Furadeira/Parafusadeira Black & Decker 3/8\"12V Bateria com 13 Acessórios | LD12S-BR",
+      "preco_original": "350",
+      "preco": "324,49",
+      "imagens": [
+        "/_next/image?url=https%3A%2F%2Fapi.matconcasa.com.br%2F%2Fmedia%2F.renditions%2Fwysiwyg%2FParcel_Payment.png&w=1500&q=75"
+      ],
+      "disponivel": true,
+      "sku": "403644",
+      "metodo": "HTML-SSR",
+      "tempo": 1.6926181316375732,
+      "tentativas": 1,
+      "url": "https://www.matconcasa.com.br/produto/furadeira-parafusadeira-black-decker-3-8-12v-bateria-com-13-acessorios-ld12s-br-403644"
+    },
+    {
+      "nome": "Inversora de Solda Intech Compacta com Acessórios 160A Bivolt | 7898632332698",
+      "preco_original": "684,34",
+      "preco": "684,34",
+      "imagens": [
+        "/_next/image?url=https%3A%2F%2Fapi.matconcasa.com.br%2F%2Fmedia%2F.renditions%2Fwysiwyg%2FParcel_Payment.png&w=1500&q=75"
+      ],
+      "disponivel": true,
+      "sku": "405435",
+      "marca": "Intech",
+      "metodo": "HTML-SSR",
+      "tempo": 1.8039379119873047,
+      "tentativas": 1,
+      "url": "https://www.matconcasa.com.br/produto/inversora-de-solda-intech-compacta-com-acessorios-160a-bivolt-7898632332698-405435"
+    },
+    {
+      "nome": "Martelete Dewalt - SDS Plus Rompedor 220V 800W | D25133KB2",
+      "preco_original": "987,54",
+      "preco": "987,54",
+      "imagens": [
+        "/_next/image?url=https%3A%2F%2Fapi.matconcasa.com.br%2F%2Fmedia%2F.renditions%2Fwysiwyg%2FParcel_Payment.png&w=1500&q=75"
+      ],
+      "disponivel": true,
+      "sku": "412615",
+      "metodo": "HTML-SSR",
+      "tempo": 1.6640739440917969,
+      "tentativas": 1,
+      "url": "https://www.matconcasa.com.br/produto/martelete-dewalt-sds-plus-rompedor-220v-800w-d25133kb2-412615"
+    },
+    {
+      "nome": "Torques Berg Armador 12\" 5648512",
+      "preco_original": "350",
+      "preco": "200,00",
+      "imagens": [
+        "/_next/image?url=https%3A%2F%2Fapi.matconcasa.com.br%2F%2Fmedia%2F.renditions%2Fwysiwyg%2FParcel_Payment.png&w=1500&q=75"
+      ],
+      "disponivel": true,
+      "sku": "91073",
+      "metodo": "HTML-SSR",
+      "tempo": 1.3046584129333496,
+      "tentativas": 1,
+      "url": "https://www.matconcasa.com.br/produto/torques-berg-armador-12-5648512-91073"
+    },
+    {
+      "nome": "Soquete Excellent Bits com Catraca Encaixe 1/4 e 3/8 com 40 Peças 8ZI",
+      "preco_original": "350",
+      "preco": "200,00",
+      "imagens": [
+        "/_next/image?url=https%3A%2F%2Fapi.matconcasa.com.br%2F%2Fmedia%2F.renditions%2Fwysiwyg%2FParcel_Payment.png&w=1500&q=75"
+      ],
+      "disponivel": true,
+      "sku": "402602",
+      "metodo": "HTML-SSR",
+      "tempo": 1.396878957748413,
+      "tentativas": 1,
+      "url": "https://www.matconcasa.com.br/produto/soquete-excellent-bits-com-catraca-encaixe-1-4-e-3-8-com-40-pecas-8zi-402602"
+    },
+    {
+      "nome": "Soprador Térmico Hikari HK-510 2000W 127V | 21D001",
+      "preco_original": "350",
+      "preco": "200,00",
+      "imagens": [
+        "/_next/image?url=https%3A%2F%2Fapi.matconcasa.com.br%2F%2Fmedia%2F.renditions%2Fwysiwyg%2FParcel_Payment.png&w=1500&q=75"
+      ],
+      "disponivel": true,
+      "sku": "412973",
+      "metodo": "HTML-SSR",
+      "tempo": 1.135338306427002,
+      "tentativas": 1,
+      "url": "https://www.matconcasa.com.br/produto/soprador-termico-hikari-hk-510-2000w-127v-21d001-412973"
+    }
+  ]
+}

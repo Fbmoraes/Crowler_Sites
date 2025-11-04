@@ -1,0 +1,87 @@
+{
+  "id": [
+    {
+      "id": "qlAMThgAF35y60bOG9Wt4wf9uSusWOPc",
+      "parentId": "0",
+      "vendorName": "MATCON.CASA",
+      "sellerName": "MATCON.CASA"
+    },
+    {
+      "id": "qlAMThgAF35y60bOG9Wt4wf9uSusWOPc",
+      "parentId": "qlAMThgAF35y60bOG9Wt4wf9uSusWOPc",
+      "vendorName": "MATCON.CASA",
+      "sellerName": "MATCON.CASA"
+    }
+  ],
+  "idRoot": "qlAMThgAF35y60bOG9Wt4wf9uSusWOPc",
+  "items": [],
+  "info": [
+    {
+      "grand_total": 0,
+      "subtotal": 0,
+      "discount_amount": 0,
+      "shipping_amount": 0,
+      "base_currency_code": "BRL",
+      "items_qty": 0,
+      "total_segments": [
+        {
+          "code": "subtotal",
+          "title": "Sub-total",
+          "value": 0
+        },
+        {
+          "code": "shipping",
+          "title": "Envio e Manuseio",
+          "value": 0
+        },
+        {
+          "code": "tax",
+          "title": "Taxa",
+          "value": 0
+        },
+        {
+          "code": "grand_total",
+          "title": "Total geral",
+          "value": 0
+        }
+      ],
+      "quote_id": "qlAMThgAF35y60bOG9Wt4wf9uSusWOPc",
+      "vendor_name": "MATCON.CASA",
+      "is_root": false
+    }
+  ],
+  "totalItems": 0,
+  "totals": {
+    "grand_total": 0,
+    "subtotal": 0,
+    "discount_amount": 0,
+    "shipping_amount": 0,
+    "base_currency_code": "BRL",
+    "items_qty": 0,
+    "total_segments": [
+      {
+        "code": "subtotal",
+        "title": "Sub-total",
+        "value": 0
+      },
+      {
+        "code": "shipping",
+        "title": "Envio e Manuseio",
+        "value": 0
+      },
+      {
+        "code": "tax",
+        "title": "Taxa",
+        "value": 0
+      },
+      {
+        "code": "grand_total",
+        "title": "Total geral",
+        "value": 0
+      }
+    ],
+    "quote_id": "qlAMThgAF35y60bOG9Wt4wf9uSusWOPc",
+    "vendor_name": "MATCON.CASA",
+    "is_root": true
+  }
+}

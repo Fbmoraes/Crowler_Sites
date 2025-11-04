@@ -1,0 +1,17 @@
+{
+  "unique_key": "https://www.matconcasa.com.br/produto/receptaculo-morumbi-lat-o-e-27-451-blister-9030006267400-401270",
+  "url": "https://www.matconcasa.com.br/produto/receptaculo-morumbi-lat-o-e-27-451-blister-9030006267400-401270",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 3,
+      "sessionRotationCount": 2
+    }
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.matconcasa.com.br/produto/receptaculo-morumbi-lat-o-e-27-451-blister-9030006267400-401270",
+  "handled_at": "2025-10-30 12:42:16.608654+00:00"
+}

@@ -1,0 +1,254 @@
+[
+  {
+    "store_id": "7",
+    "code": "matcon_sp",
+    "website_id": "2",
+    "group_id": "2",
+    "name": "Matcon SP",
+    "sort_order": "0",
+    "is_active": "1",
+    "is_cnpj_available": "1",
+    "sigla": "",
+    "mensagem": null
+  },
+  [
+    {
+      "seller_id": "1",
+      "name": "Matcon.casa",
+      "postcode": "03527000",
+      "priority": "1",
+      "position": 20473000
+    },
+    {
+      "seller_id": "2",
+      "name": "Casa da Lavoura",
+      "postcode": "37640000",
+      "priority": "1",
+      "position": 13640000
+    },
+    {
+      "seller_id": "3",
+      "name": "Casa Safira",
+      "postcode": "03822000",
+      "priority": "1",
+      "position": 20178000
+    },
+    {
+      "seller_id": "4",
+      "name": "Santos Comercial",
+      "postcode": "17013000",
+      "priority": "1",
+      "position": 6987000
+    },
+    {
+      "seller_id": "5",
+      "name": "Claumar Materiais",
+      "postcode": "14055090",
+      "priority": "1",
+      "position": 9944910
+    },
+    {
+      "seller_id": "6",
+      "name": "Estrutural de Bauru",
+      "postcode": "17031462",
+      "priority": "1",
+      "position": 6968538
+    },
+    {
+      "seller_id": "8",
+      "name": "Okinalar Nordestina",
+      "postcode": "08431410",
+      "priority": "1",
+      "position": 15568590
+    },
+    {
+      "seller_id": "9",
+      "name": "Okinalar Águia de Haia",
+      "postcode": "03889100",
+      "priority": "1",
+      "position": 20110900
+    },
+    {
+      "seller_id": "10",
+      "name": "Elétrica ON",
+      "postcode": "14020610",
+      "priority": "1",
+      "position": 9979390
+    },
+    {
+      "seller_id": "11",
+      "name": "Gilfer",
+      "postcode": "17030023",
+      "priority": "1",
+      "position": 6969977
+    },
+    {
+      "seller_id": "12",
+      "name": "Okinalar Inoue",
+      "postcode": "03374001",
+      "priority": "1",
+      "position": 20625999
+    },
+    {
+      "seller_id": "13",
+      "name": "Cafer Comercial",
+      "postcode": "03911000",
+      "priority": "1",
+      "position": 20089000
+    },
+    {
+      "seller_id": "14",
+      "name": "Okinalar Tokusey ",
+      "postcode": "02866170",
+      "priority": "1",
+      "position": 21133830
+    },
+    {
+      "seller_id": "15",
+      "name": "Irmãos Yogui",
+      "postcode": "02465000",
+      "priority": "1",
+      "position": 21535000
+    },
+    {
+      "seller_id": "16",
+      "name": "R.T Comércio",
+      "postcode": "03808050",
+      "priority": "1",
+      "position": 20191950
+    },
+    {
+      "seller_id": "17",
+      "name": "Okinalar S.Komesu",
+      "postcode": "02306002",
+      "priority": "1",
+      "position": 21693998
+    },
+    {
+      "seller_id": "18",
+      "name": "Okinalar Claker",
+      "postcode": "03933070",
+      "priority": "1",
+      "position": 20066930
+    },
+    {
+      "seller_id": "20",
+      "name": "Okinalar Yervant",
+      "postcode": "04428000",
+      "priority": "1",
+      "position": 19572000
+    },
+    {
+      "seller_id": "21",
+      "name": "Okinalar Uehara",
+      "postcode": "04915065",
+      "priority": "1",
+      "position": 19084935
+    },
+    {
+      "seller_id": "22",
+      "name": "Okinalar Largo 13",
+      "postcode": "04743060",
+      "priority": "1",
+      "position": 19256940
+    },
+    {
+      "seller_id": "23",
+      "name": "Kiyodai",
+      "postcode": "06097070",
+      "priority": "1",
+      "position": 17902930
+    },
+    {
+      "seller_id": "24",
+      "name": "Okinalar Brás",
+      "postcode": "03002000",
+      "priority": "1",
+      "position": 20998000
+    },
+    {
+      "seller_id": "25",
+      "name": "Okinalar Eldorado",
+      "postcode": "09972385",
+      "priority": "1",
+      "position": 14027615
+    },
+    {
+      "seller_id": "26",
+      "name": "Okinalar Santo Amaro",
+      "postcode": "04754000",
+      "priority": "1",
+      "position": 19246000
+    },
+    {
+      "seller_id": "27",
+      "name": "Okinalar Inamar",
+      "postcode": "09970160",
+      "priority": "1",
+      "position": 14029840
+    },
+    {
+      "seller_id": "28",
+      "name": "Palhoça Materiais",
+      "postcode": "06816155",
+      "priority": "1",
+      "position": 17183845
+    },
+    {
+      "seller_id": "29",
+      "name": "FOX - EPIs",
+      "postcode": "11721000",
+      "priority": "1",
+      "position": 12279000
+    },
+    {
+      "seller_id": "30",
+      "name": "Sátiro",
+      "postcode": "11730000",
+      "priority": "1",
+      "position": 12270000
+    },
+    {
+      "seller_id": "31",
+      "name": "Okinalar São Gonçalo",
+      "postcode": "02870000",
+      "priority": "1",
+      "position": 21130000
+    },
+    {
+      "seller_id": "32",
+      "name": "Okinalar Itaquá",
+      "postcode": "08598100",
+      "priority": "1",
+      "position": 15401900
+    },
+    {
+      "seller_id": "33",
+      "name": "Casa Amarela",
+      "postcode": "13031440",
+      "priority": "1",
+      "position": 10968560
+    },
+    {
+      "seller_id": "34",
+      "name": "São Bento lar",
+      "postcode": "08599515",
+      "priority": "1",
+      "position": 15400485
+    },
+    {
+      "seller_id": "35",
+      "name": "Casa de Ferragens Paulista",
+      "postcode": "17800000",
+      "priority": "1",
+      "position": 6200000
+    },
+    {
+      "seller_id": "36",
+      "name": "Okinalar Ekodama",
+      "postcode": "04905022",
+      "priority": "1",
+      "position": 19094978
+    }
+  ]
+]

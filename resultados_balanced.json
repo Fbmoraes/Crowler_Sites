@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "data_extracao": "2025-10-22T16:41:17.754170",
+    "tempo_total_segundos": 8.89,
+    "tempo_medio_por_produto": 0,
+    "total_produtos": 0,
+    "total_erros": 0,
+    "taxa_sucesso": 0,
+    "metodo": "balanced_fast"
+  },
+  "produtos": [],
+  "erros": []
+}

@@ -1,0 +1,17 @@
+{
+  "unique_key": "https://www.matconcasa.com.br/produto/mangueira-polietileno-majestic-ponta-azul-com-faixa-branca-a-1-2-x-2-5-100m-0080250001-412156",
+  "url": "https://www.matconcasa.com.br/produto/mangueira-polietileno-majestic-ponta-azul-com-faixa-branca-a-1-2-x-2-5-100m-0080250001-412156",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 3,
+      "sessionRotationCount": 9
+    }
+  },
+  "retry_count": 2,
+  "no_retry": false,
+  "loaded_url": "https://www.matconcasa.com.br/produto/mangueira-polietileno-majestic-ponta-azul-com-faixa-branca-a-1-2-x-2-5-100m-0080250001-412156",
+  "handled_at": "2025-10-30 12:42:57.925470+00:00"
+}

@@ -1,0 +1,16 @@
+{
+  "unique_key": "https://www.matconcasa.com.br/produto/fio-cabo-pp-megatron-4x-4-00mm-500v-100m-9785-404281",
+  "url": "https://www.matconcasa.com.br/produto/fio-cabo-pp-megatron-4x-4-00mm-500v-100m-9785-404281",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 3
+    }
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.matconcasa.com.br/produto/fio-cabo-pp-megatron-4x-4-00mm-500v-100m-9785-404281",
+  "handled_at": "2025-10-30 12:41:48.844351+00:00"
+}

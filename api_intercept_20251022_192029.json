@@ -1,0 +1,54 @@
+{
+  "url": "https://www.matconcasa.com.br/produto/furadeira-makita-de-impacto-1-2-1010w-220v-hp2070-220v-281700",
+  "timestamp": "2025-10-22T19:20:29.831703",
+  "api_calls": [
+    {
+      "url": "https://www.matconcasa.com.br/api/product/basic",
+      "method": "POST",
+      "headers": {
+        "accept-language": "pt-BR",
+        "origin": "https://www.matconcasa.com.br",
+        "referer": "https://www.matconcasa.com.br/produto/furadeira-makita-de-impacto-1-2-1010w-220v-hp2070-220v-281700",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "accept": "application/json",
+        "content-type": "application/json",
+        "newrelic": "eyJ2IjpbMCwxXSwiZCI6eyJ0eSI6IkJyb3dzZXIiLCJhYyI6IjYzMzg1NDIiLCJhcCI6IjYwMTUzMjE2NiIsImlkIjoiMjViNzIzZDI2OWVlYzIyZCIsInRyIjoiZTgyOWY5NDU1NGZjY2EzN2E1YWY5ZTJhZTAyMjliYjciLCJ0aSI6MTc2MTE3MTYwMDc3OX19",
+        "sec-ch-ua": "\"Not=A?Brand\";v=\"24\", \"Chromium\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"Windows\"",
+        "traceparent": "00-e829f94554fcca37a5af9e2ae0229bb7-25b723d269eec22d-01",
+        "tracestate": "6338542@nr=0-1-6338542-601532166-25b723d269eec22d----1761171600779"
+      },
+      "post_data": "{\"params\":{\"searchCriteria\":{\"filter_groups\":[{\"filters\":[{\"condition_type\":\"in\",\"field\":\"category_id\",\"value\":\"3421\"}]}],\"pageSize\":30,\"currentPage\":1,\"sortOrders\":[{\"field\":\"position\",\"direction\":\"asc\"}]}},\"tags\":[\"hall\"]}",
+      "post_data_json": {
+        "params": {
+          "searchCriteria": {
+            "filter_groups": [
+              {
+                "filters": [
+                  {
+                    "condition_type": "in",
+                    "field": "category_id",
+                    "value": "3421"
+                  }
+                ]
+              }
+            ],
+            "pageSize": 30,
+            "currentPage": 1,
+            "sortOrders": [
+              {
+                "field": "position",
+                "direction": "asc"
+              }
+            ]
+          }
+        },
+        "tags": [
+          "hall"
+        ]
+      }
+    }
+  ],
+  "cookies": []
+}

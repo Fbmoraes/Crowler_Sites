@@ -1,0 +1,17 @@
+{
+  "unique_key": "https://www.matconcasa.com.br/produto/ventilador-de-teto-venti-delta-com-luminaria-led-new-light-6000k-3-pas-branco-127v-383182-412522",
+  "url": "https://www.matconcasa.com.br/produto/ventilador-de-teto-venti-delta-com-luminaria-led-new-light-6000k-3-pas-branco-127v-383182-412522",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 3,
+      "sessionRotationCount": 1
+    }
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.matconcasa.com.br/produto/ventilador-de-teto-venti-delta-com-luminaria-led-new-light-6000k-3-pas-branco-127v-383182-412522",
+  "handled_at": "2025-10-30 12:42:11.922014+00:00"
+}

@@ -1,0 +1,17 @@
+{
+  "unique_key": "https://www.matconcasa.com.br/produto/lavadora-karcher-k3-alta-press-o-force-turbo-220v-1815-libras-19941930-411234",
+  "url": "https://www.matconcasa.com.br/produto/lavadora-karcher-k3-alta-press-o-force-turbo-220v-1815-libras-19941930-411234",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 3,
+      "sessionRotationCount": 1
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": "https://www.matconcasa.com.br/produto/lavadora-karcher-k3-alta-press-o-force-turbo-220v-1815-libras-19941930-411234",
+  "handled_at": "2025-10-30 12:42:02.580312+00:00"
+}

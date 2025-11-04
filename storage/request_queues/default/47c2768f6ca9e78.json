@@ -1,0 +1,17 @@
+{
+  "unique_key": "https://www.matconcasa.com.br/produto/furadeira-bancada-intech-machine-com-mandril-1-2cv-127v-db13-127v-405439",
+  "url": "https://www.matconcasa.com.br/produto/furadeira-bancada-intech-machine-com-mandril-1-2cv-127v-db13-127v-405439",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 3,
+      "sessionRotationCount": 2
+    }
+  },
+  "retry_count": 2,
+  "no_retry": false,
+  "loaded_url": "https://www.matconcasa.com.br/produto/furadeira-bancada-intech-machine-com-mandril-1-2cv-127v-db13-127v-405439",
+  "handled_at": "2025-10-30 12:42:29.229296+00:00"
+}

@@ -1,0 +1,17 @@
+{
+  "unique_key": "https://www.matconcasa.com.br/produto/chave-combinada-robust-6-a-32mm-com-25-pecas-3370081-412808",
+  "url": "https://www.matconcasa.com.br/produto/chave-combinada-robust-6-a-32mm-com-25-pecas-3370081-412808",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 3,
+      "sessionRotationCount": 3
+    }
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.matconcasa.com.br/produto/chave-combinada-robust-6-a-32mm-com-25-pecas-3370081-412808",
+  "handled_at": "2025-10-30 12:42:16.620692+00:00"
+}

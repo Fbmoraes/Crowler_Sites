@@ -1,0 +1,16 @@
+{
+  "unique_key": "https://www.matconcasa.com.br/produto/ventilador-teto-ventidelta-comercial-3-pas-cinza-220v-36-3206-412515",
+  "url": "https://www.matconcasa.com.br/produto/ventilador-teto-ventidelta-comercial-3-pas-cinza-220v-36-3206-412515",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 3
+    }
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.matconcasa.com.br/produto/ventilador-teto-ventidelta-comercial-3-pas-cinza-220v-36-3206-412515",
+  "handled_at": "2025-10-30 12:41:55.730759+00:00"
+}

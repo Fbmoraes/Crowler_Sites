@@ -1,0 +1,17 @@
+{
+  "unique_key": "https://www.matconcasa.com.br/produto/assento-sanitario-herc-prime-almofadado-cinza-claro-universal-2386-331287",
+  "url": "https://www.matconcasa.com.br/produto/assento-sanitario-herc-prime-almofadado-cinza-claro-universal-2386-331287",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 3,
+      "sessionRotationCount": 8
+    }
+  },
+  "retry_count": 2,
+  "no_retry": false,
+  "loaded_url": "https://www.matconcasa.com.br/produto/assento-sanitario-herc-prime-almofadado-cinza-claro-universal-2386-331287",
+  "handled_at": "2025-10-30 12:42:54.455509+00:00"
+}

@@ -1,0 +1,17 @@
+{
+  "unique_key": "https://www.matconcasa.com.br/produto/furadeira-parafusadeira-stanley-impacto-1-2-20v-2baterias-1-5ah-com-100-acessorios-sbd715c2ka-br-412583",
+  "url": "https://www.matconcasa.com.br/produto/furadeira-parafusadeira-stanley-impacto-1-2-20v-2baterias-1-5ah-com-100-acessorios-sbd715c2ka-br-412583",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 3,
+      "sessionRotationCount": 6
+    }
+  },
+  "retry_count": 2,
+  "no_retry": false,
+  "loaded_url": "https://www.matconcasa.com.br/produto/furadeira-parafusadeira-stanley-impacto-1-2-20v-2baterias-1-5ah-com-100-acessorios-sbd715c2ka-br-412583",
+  "handled_at": "2025-10-30 12:42:48.848335+00:00"
+}

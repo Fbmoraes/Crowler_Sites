@@ -1,0 +1,17 @@
+{
+  "unique_key": "https://www.matconcasa.com.br/produto/chave-nh-cebel-seccionadora-com-carga-03-630a-100014-224421",
+  "url": "https://www.matconcasa.com.br/produto/chave-nh-cebel-seccionadora-com-carga-03-630a-100014-224421",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 3,
+      "sessionRotationCount": 3
+    }
+  },
+  "retry_count": 2,
+  "no_retry": false,
+  "loaded_url": "https://www.matconcasa.com.br/produto/chave-nh-cebel-seccionadora-com-carga-03-630a-100014-224421",
+  "handled_at": "2025-10-30 12:42:35.048562+00:00"
+}

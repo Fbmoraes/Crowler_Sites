@@ -1,0 +1,109 @@
+{
+  "stats": {
+    "total": 5,
+    "sucesso": 5,
+    "duracao_segundos": 28.703005,
+    "velocidade_media": 5.740601,
+    "jsonld": 0,
+    "api_json": 0,
+    "dom": 5,
+    "erro": 0
+  },
+  "produtos": [
+    {
+      "url": "https://www.matconcasa.com.br/produto/furadeira-makita-de-impacto-1-2-1010w-220v-hp2070-220v-281700",
+      "index": 1,
+      "nome": "Furadeira Makita de Impacto 1/2\" 1010W 220V | HP2070-220V",
+      "preco": "2.463,73",
+      "preco_original": "2.706,38",
+      "disponivel": true,
+      "marca": null,
+      "imagens": [
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fweb.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fmobile.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F088381051644.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F088381051644_1.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F088381051644_2.jpg&w=1500&q=100"
+      ],
+      "sku": null,
+      "metodo": "DOM",
+      "erro": null
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/tupia-laminadora-makita-1-4-530w-127v-3709127v-250228",
+      "index": 2,
+      "nome": "Tupia Laminadora Makita 1/4\" 530W 127V | 3709127V",
+      "preco": "137,00",
+      "preco_original": "176,97",
+      "disponivel": true,
+      "marca": null,
+      "imagens": [
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fweb.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fmobile.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F88381067805.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F88381067805_1.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F88381067805.jpg&w=1500&q=100"
+      ],
+      "sku": null,
+      "metodo": "DOM",
+      "erro": null
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/furadeira-parafusadeira-black-decker-3-8-12v-bateria-com-13-acessorios-ld12s-br-403644",
+      "index": 3,
+      "nome": "Furadeira/Parafusadeira Black & Decker 3/8\"12V Bateria com 13 Acessórios | LD12S-BR",
+      "preco": "266,30",
+      "preco_original": "324,49",
+      "disponivel": true,
+      "marca": null,
+      "imagens": [
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fweb.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fmobile.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F0885911563536.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F0885911563536.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fcatalog%2Fproduct%2Fcache%2F263d3b7f14768baaeafe0b82c213dc1f%2F7%2F8%2F7897186029870.jpg&w=1500&q=50"
+      ],
+      "sku": null,
+      "metodo": "DOM",
+      "erro": null
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/inversora-de-solda-intech-compacta-com-acessorios-160a-bivolt-7898632332698-405435",
+      "index": 4,
+      "nome": "Inversora de Solda Intech Compacta com Acessórios 160A Bivolt | 7898632332698",
+      "preco": "137,00",
+      "preco_original": "176,97",
+      "disponivel": true,
+      "marca": null,
+      "imagens": [
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fweb.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fmobile.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7898632332698.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7898632332698.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fcatalog%2Fproduct%2Fcache%2F263d3b7f14768baaeafe0b82c213dc1f%2F7%2F8%2F7897186029870.jpg&w=1500&q=50"
+      ],
+      "sku": null,
+      "metodo": "DOM",
+      "erro": null
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/martelete-dewalt-sds-plus-rompedor-220v-800w-d25133kb2-412615",
+      "index": 5,
+      "nome": "Martelete Dewalt - SDS Plus Rompedor 220V 800W | D25133KB2",
+      "preco": "899,00",
+      "preco_original": "987,54",
+      "disponivel": true,
+      "marca": null,
+      "imagens": [
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fweb.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fmobile.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F0885911387101.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F0885911387101_1.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F0885911387101.jpg&w=1500&q=100"
+      ],
+      "sku": null,
+      "metodo": "DOM",
+      "erro": null
+    }
+  ]
+}

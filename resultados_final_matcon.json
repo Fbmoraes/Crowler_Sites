@@ -1,0 +1,1675 @@
+{
+  "metadata": {
+    "site": "matconcasa.com.br",
+    "total_urls": 82,
+    "total_processado": 92,
+    "sucesso": 92,
+    "erro": 0,
+    "taxa_sucesso": "100.0%",
+    "tempo_total_segundos": 124.017164,
+    "tempo_total_minutos": 2.07,
+    "velocidade_media_segundos": 1.348,
+    "inicio": "2025-10-22T16:19:21.658030",
+    "fim": "2025-10-22T16:21:25.675194",
+    "metodo": "playwright_optimized",
+    "concorrencia": 30
+  },
+  "produtos": [
+    {
+      "url": "https://www.matconcasa.com.br/produto/furadeira-makita-de-impacto-1-2-1010w-220v-hp2070-220v-281700",
+      "nome": "Furadeira Makita de Impacto 1/2\" 1010W 220V | HP2070-220V",
+      "preco": "2463.73",
+      "preco_original": "2706.38",
+      "marca": null,
+      "categoria": null,
+      "subcategoria": null,
+      "imagens": [
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fweb.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fmobile.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F088381051644.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F088381051644_1.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F088381051644_2.jpg&w=1500&q=100"
+      ],
+      "disponivel": true,
+      "extraido_em": "2025-10-22T16:19:38.427454"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/tupia-laminadora-makita-1-4-530w-127v-3709127v-250228",
+      "nome": "Tupia Laminadora Makita 1/4\" 530W 127V | 3709127V",
+      "preco": "510.19",
+      "preco_original": null,
+      "marca": null,
+      "categoria": null,
+      "subcategoria": null,
+      "imagens": [
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fweb.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fmobile.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F88381067805.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F88381067805_1.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F88381067805.jpg&w=1500&q=100"
+      ],
+      "disponivel": true,
+      "extraido_em": "2025-10-22T16:19:40.434461"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/soprador-termico-hikari-hk-510-2000w-127v-21d001-412973",
+      "nome": "Soprador Térmico Hikari HK-510 2000W 127V | 21D001",
+      "preco": "191.06",
+      "preco_original": null,
+      "marca": null,
+      "categoria": null,
+      "subcategoria": null,
+      "imagens": [
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fweb.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fmobile.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7899810415660.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7899810415660.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fapi.matconcasa.com.br%2F%2Fmedia%2F.renditions%2Fwysiwyg%2FWEBP_to_PNG_Site_Seguro.png&w=1500&q=75"
+      ],
+      "disponivel": true,
+      "extraido_em": "2025-10-22T16:19:40.512867"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/soquete-excellent-bits-com-catraca-encaixe-1-4-e-3-8-com-40-pecas-8zi-402602",
+      "nome": "Soquete Excellent Bits com Catraca Encaixe 1/4 e 3/8 com 40 Peças 8ZI",
+      "preco": "61.72",
+      "preco_original": "74.29",
+      "marca": null,
+      "categoria": null,
+      "subcategoria": null,
+      "imagens": [
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fweb.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fmobile.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7895315011406.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7895315011406.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fapi.matconcasa.com.br%2F%2Fmedia%2F.renditions%2Fwysiwyg%2FWEBP_to_PNG_Site_Seguro.png&w=1500&q=75"
+      ],
+      "disponivel": true,
+      "extraido_em": "2025-10-22T16:19:40.519937"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/furadeira-parafusadeira-black-decker-3-8-12v-bateria-com-13-acessorios-ld12s-br-403644",
+      "nome": "Furadeira/Parafusadeira Black & Decker 3/8\"12V Bateria com 13 Acessórios | LD12S-BR",
+      "preco": "266.30",
+      "preco_original": "324.49",
+      "marca": null,
+      "categoria": null,
+      "subcategoria": null,
+      "imagens": [
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fweb.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fmobile.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F0885911563536.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F0885911563536.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fapi.matconcasa.com.br%2F%2Fmedia%2F.renditions%2Fwysiwyg%2FWEBP_to_PNG_Site_Seguro.png&w=1500&q=75"
+      ],
+      "disponivel": true,
+      "extraido_em": "2025-10-22T16:19:40.672893"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/inversora-de-solda-intech-compacta-com-acessorios-160a-bivolt-7898632332698-405435",
+      "nome": "Inversora de Solda Intech Compacta com Acessórios 160A Bivolt | 7898632332698",
+      "preco": "684.34",
+      "preco_original": null,
+      "marca": null,
+      "categoria": null,
+      "subcategoria": null,
+      "imagens": [
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fweb.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fmobile.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7898632332698.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7898632332698.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fapi.matconcasa.com.br%2F%2Fmedia%2F.renditions%2Fwysiwyg%2FWEBP_to_PNG_Site_Seguro.png&w=1500&q=75"
+      ],
+      "disponivel": true,
+      "extraido_em": "2025-10-22T16:19:40.675904"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/kit-ferramenta-eda-maleta-com-117-pecas-8sh-403725",
+      "nome": "Kit Ferramenta Eda Maleta com 117 PEÇAS | 8SH",
+      "preco": "344.73",
+      "preco_original": null,
+      "marca": null,
+      "categoria": null,
+      "subcategoria": null,
+      "imagens": [
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fweb.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fmobile.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7895315009489.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7895315009489.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fapi.matconcasa.com.br%2F%2Fmedia%2F.renditions%2Fwysiwyg%2FWEBP_to_PNG_Site_Seguro.png&w=1500&q=75"
+      ],
+      "disponivel": true,
+      "extraido_em": "2025-10-22T16:19:40.937030"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/martelete-dewalt-sds-plus-rompedor-220v-800w-d25133kb2-412615",
+      "nome": "Martelete Dewalt - SDS Plus Rompedor 220V 800W | D25133KB2",
+      "preco": "899.00",
+      "preco_original": "987.54",
+      "marca": null,
+      "categoria": null,
+      "subcategoria": null,
+      "imagens": [
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fweb.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fmobile.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F0885911387101.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F0885911387101_1.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F0885911387101.jpg&w=1500&q=100"
+      ],
+      "disponivel": true,
+      "extraido_em": "2025-10-22T16:19:40.948704"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/pistola-arprex-modelo-alfa-4-aerografo-bico-3-0mm-10133000-140368",
+      "nome": "Pistola Arprex Modelo Alfa 4 Aerógrafo \"Bico 3.0mm\" 10133000",
+      "preco": "899.72",
+      "preco_original": "1058.49",
+      "marca": null,
+      "categoria": null,
+      "subcategoria": null,
+      "imagens": [
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fweb.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fmobile.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7897547201846.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7897547201846.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fapi.matconcasa.com.br%2F%2Fmedia%2F.renditions%2Fwysiwyg%2FWEBP_to_PNG_Site_Seguro.png&w=1500&q=75"
+      ],
+      "disponivel": true,
+      "extraido_em": "2025-10-22T16:19:41.109791"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/ducha-lorenzetti-relax-branca-cromada-3t-220v-5500w-7540115-240389",
+      "nome": "Ducha Lorenzetti - Relax Branca/Cromada 3T 220V 5500W | 7540115",
+      "preco": "129.95",
+      "preco_original": "158.34",
+      "marca": null,
+      "categoria": null,
+      "subcategoria": null,
+      "imagens": [
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fweb.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fmobile.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7896451826800.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7896451826800_1.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7896451826800.jpg&w=1500&q=100"
+      ],
+      "disponivel": true,
+      "extraido_em": "2025-10-22T16:19:41.195631"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/plaina-makita-220v-620w-kp0800-220v-kp0800-220v-86037",
+      "nome": "Plaina Makita 220V 620W KP0800-220V | KP0800-220V",
+      "preco": "1045.56",
+      "preco_original": null,
+      "marca": null,
+      "categoria": null,
+      "subcategoria": null,
+      "imagens": [
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fweb.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fmobile.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F88381603966.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F88381603966.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fapi.matconcasa.com.br%2F%2Fmedia%2F.renditions%2Fwysiwyg%2FWEBP_to_PNG_Site_Seguro.png&w=1500&q=75"
+      ],
+      "disponivel": true,
+      "extraido_em": "2025-10-22T16:19:41.203329"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/fio-solido-sil-6-0mm-preto-100m-00001020002106-37583",
+      "nome": "Fio Sólido SIL 6.0mm Preto 100m | 00001020002106",
+      "preco": "861.50",
+      "preco_original": null,
+      "marca": null,
+      "categoria": null,
+      "subcategoria": null,
+      "imagens": [
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fweb.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fmobile.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7897381600157.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7897381600157.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fapi.matconcasa.com.br%2F%2Fmedia%2F.renditions%2Fwysiwyg%2FWEBP_to_PNG_Site_Seguro.png&w=1500&q=75"
+      ],
+      "disponivel": true,
+      "extraido_em": "2025-10-22T16:19:41.211058"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/ferro-soldar-hikari-machadinha-250x220v-21k023-283940",
+      "nome": "Ferro Soldar Hikari Machadinha 250x220V 21K023",
+      "preco": "329.55",
+      "preco_original": null,
+      "marca": null,
+      "categoria": null,
+      "subcategoria": null,
+      "imagens": [
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fweb.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fmobile.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7899810401496.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7899810401496.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fapi.matconcasa.com.br%2F%2Fmedia%2F.renditions%2Fwysiwyg%2FWEBP_to_PNG_Site_Seguro.png&w=1500&q=75"
+      ],
+      "disponivel": true,
+      "extraido_em": "2025-10-22T16:19:41.214130"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/ventilador-parede-ventisol-60cm-preto-127v-147w-490-333336",
+      "nome": "Ventilador Parede Ventisol 60cm Preto 127V 147W | 490",
+      "preco": "259.40",
+      "preco_original": "324.25",
+      "marca": null,
+      "categoria": null,
+      "subcategoria": null,
+      "imagens": [
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fweb.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fmobile.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7898461963025.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7898461963025_1.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7898461963025.jpg&w=1500&q=100"
+      ],
+      "disponivel": true,
+      "extraido_em": "2025-10-22T16:19:41.217768"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/lixadeira-makita-industrial-7-2200w-127v-sa7021127v-299650",
+      "nome": "Lixadeira Makita Industrial 7\" 2200W 127V | SA7021127V",
+      "preco": "1212.76",
+      "preco_original": null,
+      "marca": null,
+      "categoria": null,
+      "subcategoria": null,
+      "imagens": [
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fweb.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fmobile.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F088381075039.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F088381075039_1.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F088381075039_2.jpg&w=1500&q=100"
+      ],
+      "disponivel": true,
+      "extraido_em": "2025-10-22T16:19:41.387058"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/torques-berg-armador-12-5648512-91073",
+      "nome": "Torques Berg Armador 12\" 5648512",
+      "preco": "49.37",
+      "preco_original": "61.71",
+      "marca": null,
+      "categoria": null,
+      "subcategoria": null,
+      "imagens": [
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fweb.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fmobile.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7896673168702.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7896673168702.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fapi.matconcasa.com.br%2F%2Fmedia%2F.renditions%2Fwysiwyg%2FWEBP_to_PNG_Site_Seguro.png&w=1500&q=75"
+      ],
+      "disponivel": true,
+      "extraido_em": "2025-10-22T16:19:41.913862"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/chave-nh-cebel-seccionadora-sem-carga-02-400a-100010-41769",
+      "nome": "Chave Nh Cebel Seccionadora sem Carga 02/400A 100010",
+      "preco": "1830.63",
+      "preco_original": "2086.70",
+      "marca": null,
+      "categoria": null,
+      "subcategoria": null,
+      "imagens": [
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fweb.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fmobile.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7898552820060.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7898552820060.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fapi.matconcasa.com.br%2F%2Fmedia%2F.renditions%2Fwysiwyg%2FWEBP_to_PNG_Site_Seguro.png&w=1500&q=75"
+      ],
+      "disponivel": true,
+      "extraido_em": "2025-10-22T16:19:41.924969"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/serra-marmore-makita-220v-1300w-sem-maleta-4100nh3z-220v-344516",
+      "nome": "Serra Marmore Makita 220V 1300W sem Maleta 4100NH3Z-220V",
+      "preco": "633.62",
+      "preco_original": null,
+      "marca": null,
+      "categoria": null,
+      "subcategoria": null,
+      "imagens": [
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fweb.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fmobile.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F88381647649.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F88381647649.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fapi.matconcasa.com.br%2F%2Fmedia%2F.renditions%2Fwysiwyg%2FWEBP_to_PNG_Site_Seguro.png&w=1500&q=75"
+      ],
+      "disponivel": true,
+      "extraido_em": "2025-10-22T16:19:41.931289"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/bateria-makita-universal-12v-4-0ah-li-ion-1974070-404929",
+      "nome": "Bateria Makita Universal 12V 4.0Ah Li-Ion | 1974070",
+      "preco": "559.67",
+      "preco_original": null,
+      "marca": null,
+      "categoria": null,
+      "subcategoria": null,
+      "imagens": [
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fweb.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fmobile.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fapi.matconcasa.com.br%2F%2Fmedia%2F.renditions%2Fwysiwyg%2FWEBP_to_PNG_Site_Seguro.png&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fapi.matconcasa.com.br%2F%2Fmedia%2F.renditions%2Fwysiwyg%2FFrete_from_Matcon_Casa.png&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fapi.matconcasa.com.br%2F%2Fmedia%2F.renditions%2Fwysiwyg%2FPix_from_Matcon_Casa_1.png&w=1500&q=75"
+      ],
+      "disponivel": true,
+      "extraido_em": "2025-10-22T16:19:41.934466"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/furadeira-dewalt-impacto-1-2-220v-710w-dwd502b2-403672",
+      "nome": "Furadeira Dewalt Impacto 1/2\" 220V 710W DWD502B2",
+      "preco": "399.00",
+      "preco_original": "486.18",
+      "marca": null,
+      "categoria": null,
+      "subcategoria": null,
+      "imagens": [
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fweb.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fmobile.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F885911219334.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F885911219334_1.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F885911219334_2.jpg&w=1500&q=100"
+      ],
+      "disponivel": true,
+      "extraido_em": "2025-10-22T16:19:41.943362"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/estilete-irwin-retratil-standard-2082101-233129",
+      "nome": "Estilete Irwin Retrátil Standard 2082101",
+      "preco": "75.11",
+      "preco_original": "93.89",
+      "marca": null,
+      "categoria": null,
+      "subcategoria": null,
+      "imagens": [
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fweb.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fmobile.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F38548102375.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F38548102375.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fcatalog%2Fproduct%2Fcache%2F263d3b7f14768baaeafe0b82c213dc1f%2F7%2F8%2F7897186029870.jpg&w=1500&q=50"
+      ],
+      "disponivel": true,
+      "extraido_em": "2025-10-22T16:19:46.808334"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/esmerilhadeira-makita-4-5-127v-720w-ga4530-127v-85820",
+      "nome": "Esmerilhadeira Makita 4.5\" 127V 720W | GA4530-127V",
+      "preco": "435.59",
+      "preco_original": "518.75",
+      "marca": null,
+      "categoria": null,
+      "subcategoria": null,
+      "imagens": [
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fweb.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fmobile.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F88381096973.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F88381096973.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fapi.matconcasa.com.br%2F%2Fmedia%2F.renditions%2Fwysiwyg%2FWEBP_to_PNG_Site_Seguro.png&w=1500&q=75"
+      ],
+      "disponivel": true,
+      "extraido_em": "2025-10-22T16:19:55.950420"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/porta-shampoo-retangular-10595-358266",
+      "nome": "Porta Shampoo Retangular | 10595",
+      "preco": "60.66",
+      "preco_original": "68.68",
+      "marca": null,
+      "categoria": null,
+      "subcategoria": null,
+      "imagens": [
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fweb.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fmobile.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7898006104944.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7898006104944.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fapi.matconcasa.com.br%2F%2Fmedia%2F.renditions%2Fwysiwyg%2FWEBP_to_PNG_Site_Seguro.png&w=1500&q=75"
+      ],
+      "disponivel": true,
+      "extraido_em": "2025-10-22T16:19:57.623065"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/aspirador-de-po-para-carro-western-12v-60w-branco-azul-ap-13-401025",
+      "nome": "Aspirador de Pó para Carro Western 12V 60W Branco/Azul | AP-13",
+      "preco": "76.20",
+      "preco_original": null,
+      "marca": null,
+      "categoria": null,
+      "subcategoria": null,
+      "imagens": [
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fweb.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fmobile.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7897186029870.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7897186029870_1.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7897186029870_2.jpg&w=1500&q=100"
+      ],
+      "disponivel": true,
+      "extraido_em": "2025-10-22T16:19:59.465914"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/martelete-makita-rotativo-rompedor-2-bateria-bivolt-dhr202rfe-401360",
+      "nome": "Martelete Makita Rotativo Rompedor 2 Bateria Bivolt | DHR202RFE",
+      "preco": "4665.30",
+      "preco_original": null,
+      "marca": null,
+      "categoria": null,
+      "subcategoria": null,
+      "imagens": [
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fweb.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fmobile.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F0088381820813.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F0088381820813_1.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F0088381820813.jpg&w=1500&q=100"
+      ],
+      "disponivel": true,
+      "extraido_em": "2025-10-22T16:19:59.697717"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/ducha-lorenzetti-acqua-duo-ultra-pr-cr-127v-5500w-preto-com-cromado-7510106-402398",
+      "nome": "Ducha Lorenzetti Acqua Duo Ultra PR/CR 127V 5500W Preto com Cromado | 7510106",
+      "preco": "654.07",
+      "preco_original": "718.49",
+      "marca": null,
+      "categoria": null,
+      "subcategoria": null,
+      "imagens": [
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fweb.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fmobile.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7896451870018.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7896451870018_1.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7896451870018_2.jpg&w=1500&q=100"
+      ],
+      "disponivel": true,
+      "extraido_em": "2025-10-22T16:20:00.084371"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/torneira-lorenzetti-acquabela-abs-bica-movel-com-filtro-de-parede-1-4-de-volta-cromada-7411812-331040",
+      "nome": "Torneira Lorenzetti Acquabela ABS Bica Móvel com Filtro de Parede 1/4 de Volta Cromada | 7411812",
+      "preco": "169.90",
+      "preco_original": "283.17",
+      "marca": null,
+      "categoria": null,
+      "subcategoria": null,
+      "imagens": [
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fweb.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fmobile.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7896451842589.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7896451842589.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fapi.matconcasa.com.br%2F%2Fmedia%2F.renditions%2Fwysiwyg%2FWEBP_to_PNG_Site_Seguro.png&w=1500&q=75"
+      ],
+      "disponivel": true,
+      "extraido_em": "2025-10-22T16:20:00.094290"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/manta-liquida-vedapren-parede-branca-20kg-lata-112860-410411",
+      "nome": "Manta Líquida Vedapren Parede Branca 20KG Lata | 112860",
+      "preco": "372.23",
+      "preco_original": "572.66",
+      "marca": null,
+      "categoria": null,
+      "subcategoria": null,
+      "imagens": [
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fweb.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fmobile.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7897321128604.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7897321128604.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fapi.matconcasa.com.br%2F%2Fmedia%2F.renditions%2Fwysiwyg%2FWEBP_to_PNG_Site_Seguro.png&w=1500&q=75"
+      ],
+      "disponivel": true,
+      "extraido_em": "2025-10-22T16:20:00.226056"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/esmerilhadeira-dewalt-angular-4-1-2-220v-900w-dwe4120b2b-412611",
+      "nome": "Esmerilhadeira Dewalt Angular 4.1/2\" 220V 900W | DWE4120B2B",
+      "preco": "571.20",
+      "preco_original": "714.00",
+      "marca": null,
+      "categoria": null,
+      "subcategoria": null,
+      "imagens": [
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fweb.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fmobile.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7896525096283.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7896525096283_1.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7896525096283_2.jpg&w=1500&q=100"
+      ],
+      "disponivel": true,
+      "extraido_em": "2025-10-22T16:20:00.231178"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/kit-churrasco-simonaggio-3-pecas-caixa-3503039055400-368440",
+      "nome": "Kit Churrasco Simonaggio - 3 Peças Caixa | 3503039055400",
+      "preco": "110.72",
+      "preco_original": "170.34",
+      "marca": null,
+      "categoria": null,
+      "subcategoria": null,
+      "imagens": [
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fweb.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fmobile.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7896211847175.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7896211847175_1.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7896211847175.jpg&w=1500&q=100"
+      ],
+      "disponivel": true,
+      "extraido_em": "2025-10-22T16:20:00.233768"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/martelete-makita-sds-220v-800w-hr2470-220v-257443",
+      "nome": "Martelete Makita SDS - 220V 800W - HR2470-220V",
+      "preco": "1218.26",
+      "preco_original": null,
+      "marca": null,
+      "categoria": null,
+      "subcategoria": null,
+      "imagens": [
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fweb.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fmobile.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F088381081658.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F088381081658_1.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F088381081658_2.jpg&w=1500&q=100"
+      ],
+      "disponivel": true,
+      "extraido_em": "2025-10-22T16:20:01.811529"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/serra-sabre-makita-1010w-220v-jr3051tk-220v-407998",
+      "nome": "Serra Sabre Makita 1010W 220V | JR3051TK-220V",
+      "preco": "2340.29",
+      "preco_original": "2570.79",
+      "marca": null,
+      "categoria": null,
+      "subcategoria": null,
+      "imagens": [
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fweb.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fmobile.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F0088381891905.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F0088381891905_1.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F0088381891905_2.jpg&w=1500&q=100"
+      ],
+      "disponivel": true,
+      "extraido_em": "2025-10-22T16:20:01.832171"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/cuba-embutir-quadrada-deca-louca-40cm-branco-l3104017-413318",
+      "nome": "Cuba Embutir Quadrada Deca Louça - 40cm Branco | L3104017",
+      "preco": "528.83",
+      "preco_original": null,
+      "marca": null,
+      "categoria": null,
+      "subcategoria": null,
+      "imagens": [
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fweb.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fmobile.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7894202013943.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7894202013943_1.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7894202013943_2.jpg&w=1500&q=100"
+      ],
+      "disponivel": true,
+      "extraido_em": "2025-10-22T16:20:01.886629"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/esmerilhadeira-black-decker-angular-4-1-2-g650-220v-560w-g650-b2-403658",
+      "nome": "Esmerilhadeira Black & Decker Angular 4.1/2\"G650 220V 560W G650-B2",
+      "preco": "214.40",
+      "preco_original": "257.11",
+      "marca": null,
+      "categoria": null,
+      "subcategoria": null,
+      "imagens": [
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fweb.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fmobile.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F0885911528153.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F0885911528153_1.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F0885911528153_2.jpg&w=1500&q=100"
+      ],
+      "disponivel": true,
+      "extraido_em": "2025-10-22T16:20:06.791491"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/trava-papaiz-quadrupla-140-cromada-300767cr-39675",
+      "nome": "Trava Papaiz Quadrupla 140 Cromada | 300767CR",
+      "preco": "99.90",
+      "preco_original": "118.57",
+      "marca": null,
+      "categoria": null,
+      "subcategoria": null,
+      "imagens": [
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fweb.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fmobile.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7891194280742.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7891194280742.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fcatalog%2Fproduct%2Fcache%2F263d3b7f14768baaeafe0b82c213dc1f%2F7%2F8%2F7897186029870.jpg&w=1500&q=50"
+      ],
+      "disponivel": true,
+      "extraido_em": "2025-10-22T16:20:06.933456"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/cloro-genco-granulado-3x1-multipla-ac-o-10kg-405248a-405271",
+      "nome": "Cloro Genco Granulado 3X1 Múltipla Ação 10KG | 405248A",
+      "preco": "210.00",
+      "preco_original": "233.43",
+      "marca": null,
+      "categoria": null,
+      "subcategoria": null,
+      "imagens": [
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fweb.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fmobile.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F78965444021336.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F78965444021336.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fcatalog%2Fproduct%2Fcache%2F263d3b7f14768baaeafe0b82c213dc1f%2F7%2F8%2F7897186029870.jpg&w=1500&q=50"
+      ],
+      "disponivel": true,
+      "extraido_em": "2025-10-22T16:20:07.101442"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/fio-cabo-rede-megatron-cat5e-4-pares-100m-azul-2579-281255",
+      "nome": "Fio Cabo Rede Megatron Cat5e 4 Pares - 100m Azul | 2579",
+      "preco": "137.00",
+      "preco_original": "176.97",
+      "marca": null,
+      "categoria": null,
+      "subcategoria": null,
+      "imagens": [
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fweb.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fmobile.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7899278923028.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7899278923028_1.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7899278923028.jpg&w=1500&q=100"
+      ],
+      "disponivel": true,
+      "extraido_em": "2025-10-22T16:20:07.103835"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/compressor-schulz-csi-8-5-25l-127v-1500w-1-5hp-9150399-0-404980",
+      "nome": "Compressor Schulz CSI 8.5/25L - 127V 1500W 1,5HP | 9150399-0",
+      "preco": "137.00",
+      "preco_original": "176.97",
+      "marca": null,
+      "categoria": null,
+      "subcategoria": null,
+      "imagens": [
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fweb.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fmobile.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7896166494493.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7896166494493_1.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7896166494493_2.jpg&w=1500&q=100"
+      ],
+      "disponivel": true,
+      "extraido_em": "2025-10-22T16:20:07.104771"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/chave-combinada-brasfort-6a22mm-12-pecas-6034-267538",
+      "nome": "Chave Combinada Brasfort 6a22mm 12 Peças 6034",
+      "preco": "119.99",
+      "preco_original": "145.18",
+      "marca": null,
+      "categoria": null,
+      "subcategoria": null,
+      "imagens": [
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fweb.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fmobile.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7898094331574.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7898094331574.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fcatalog%2Fproduct%2Fcache%2F263d3b7f14768baaeafe0b82c213dc1f%2F7%2F8%2F7897186029870.jpg&w=1500&q=50"
+      ],
+      "disponivel": true,
+      "extraido_em": "2025-10-22T16:20:07.106174"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/mangueira-polietileno-majestic-ponta-azul-com-faixa-branca-a-1-2-x-2-5-100m-0080250001-412156",
+      "nome": "Mangueira Polietileno Majestic Ponta Azul com Faixa Branca (A)1/2 X 2.5 100M | 0080250001",
+      "preco": "137.00",
+      "preco_original": "176.97",
+      "marca": null,
+      "categoria": null,
+      "subcategoria": null,
+      "imagens": [
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fweb.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fmobile.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F618341687615.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F618341687615.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fcatalog%2Fproduct%2Fcache%2F263d3b7f14768baaeafe0b82c213dc1f%2F7%2F8%2F7897186029870.jpg&w=1500&q=50"
+      ],
+      "disponivel": true,
+      "extraido_em": "2025-10-22T16:20:07.108382"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/camera-externa-inteligente-wi-fi-full-hd-intelbras-im5sc-branca-4565511-410419",
+      "nome": "Câmera Externa Inteligente Wi-Fi Full HD Intelbras iM5SC Branca | 4565511",
+      "preco": "546.96",
+      "preco_original": "631.95",
+      "marca": null,
+      "categoria": null,
+      "subcategoria": null,
+      "imagens": [
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fweb.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fmobile.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7899298633402.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7899298633402_2.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7899298633402_3.jpg&w=1500&q=100"
+      ],
+      "disponivel": true,
+      "extraido_em": "2025-10-22T16:20:07.112473"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/serra-tico-tico-hammer-220v-500w-gyst500-220-397814",
+      "nome": "Serra Tico-Tico Hammer 220V 500W | GYST500 220",
+      "preco": "137.00",
+      "preco_original": "176.97",
+      "marca": null,
+      "categoria": null,
+      "subcategoria": null,
+      "imagens": [
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fweb.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fmobile.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7897181960666.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7897181960666_1.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7897181960666_2.jpg&w=1500&q=100"
+      ],
+      "disponivel": true,
+      "extraido_em": "2025-10-22T16:20:07.131706"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/politriz-stanley-sstgp612k-b2-5-220v-600w-com-maleta-10713441-410360",
+      "nome": "Politriz Stanley SSTGP612K-B2 5\" 220V 600W com Maleta | 10713441",
+      "preco": "753.01",
+      "preco_original": null,
+      "marca": null,
+      "categoria": null,
+      "subcategoria": null,
+      "imagens": [
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fweb.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fmobile.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F0885911408622.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F0885911408622_1.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F0885911408622.jpg&w=1500&q=100"
+      ],
+      "disponivel": true,
+      "extraido_em": "2025-10-22T16:20:16.416649"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/martelete-dewalt-sds-max-combinado-220v-1050w-d25481k-b2-412605",
+      "nome": "Martelete Dewalt SDS Max Combinado 220V 1050W | D25481K-B2",
+      "preco": "3617.60",
+      "preco_original": "4408.05",
+      "marca": null,
+      "categoria": null,
+      "subcategoria": null,
+      "imagens": [
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fweb.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fmobile.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F0885911484763.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F0885911484763_1.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F0885911484763.jpg&w=1500&q=100"
+      ],
+      "disponivel": true,
+      "extraido_em": "2025-10-22T16:20:16.730852"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/serra-circular-makita-9-220v-2000w-5902b-220v-85995",
+      "nome": "Serra Circular Makita 9\" 220V 2000W 5902B-220V",
+      "preco": "1989.00",
+      "preco_original": "2425.61",
+      "marca": null,
+      "categoria": null,
+      "subcategoria": null,
+      "imagens": [
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fweb.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fmobile.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F088381033855.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F088381033855_1.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F088381033855.jpg&w=1500&q=100"
+      ],
+      "disponivel": true,
+      "extraido_em": "2025-10-22T16:20:18.357544"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/lavadora-karcher-k3-alta-press-o-force-turbo-220v-1815-libras-19941930-411234",
+      "nome": "Lavadora Karcher K3 - Alta Pressão Force Turbo 220V 1815 Libras | 19941930",
+      "preco": "1142.95",
+      "preco_original": null,
+      "marca": null,
+      "categoria": null,
+      "subcategoria": null,
+      "imagens": [
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fweb.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fmobile.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7891374106893.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7891374106893_1.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7891374106893_2.jpg&w=1500&q=100"
+      ],
+      "disponivel": true,
+      "extraido_em": "2025-10-22T16:20:19.027377"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/pulverizador-brudden-agricola-dupla-ac-o-das-5l-75-401636",
+      "nome": "Pulverizador Brudden Agrícola Dupla Ação DAS 5L | 75",
+      "preco": "137.00",
+      "preco_original": "176.97",
+      "marca": null,
+      "categoria": null,
+      "subcategoria": null,
+      "imagens": [
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fweb.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fmobile.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7896692148310.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7896692148310.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fapi.matconcasa.com.br%2F%2Fmedia%2F.renditions%2Fwysiwyg%2FWEBP_to_PNG_Site_Seguro.png&w=1500&q=75"
+      ],
+      "disponivel": true,
+      "extraido_em": "2025-10-22T16:20:19.036889"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/cadeado-segredo-stam-25mm-zamac-3-digitos-501-44385",
+      "nome": "Cadeado Segredo Stam 25mm Zamac 3 Dígitos | 501",
+      "preco": "20.24",
+      "preco_original": "30.72",
+      "marca": null,
+      "categoria": null,
+      "subcategoria": null,
+      "imagens": [
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fweb.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fmobile.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7893858005012.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7893858005012.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fapi.matconcasa.com.br%2F%2Fmedia%2F.renditions%2Fwysiwyg%2FWEBP_to_PNG_Site_Seguro.png&w=1500&q=75"
+      ],
+      "disponivel": true,
+      "extraido_em": "2025-10-22T16:20:19.174284"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/chave-de-impacto-pneumatica-waft-6183-1-2-67kgf-14-pecas-6183-270660",
+      "nome": "Chave de Impacto Pneumática Waft 6183 1/2\" 67KGF 14 Peças | 6183",
+      "preco": "691.12",
+      "preco_original": "793.07",
+      "marca": null,
+      "categoria": null,
+      "subcategoria": null,
+      "imagens": [
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fweb.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fmobile.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7898464731461.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7898464731461_1.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7898464731461_3.jpg&w=1500&q=100"
+      ],
+      "disponivel": true,
+      "extraido_em": "2025-10-22T16:20:20.163656"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/bateria-makita-universal-12v-4-0ah-li-ion-1974070-404929",
+      "nome": "Bateria Makita Universal 12V 4.0Ah Li-Ion | 1974070",
+      "preco": "559.67",
+      "preco_original": null,
+      "marca": null,
+      "categoria": null,
+      "subcategoria": null,
+      "imagens": [
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fweb.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fmobile.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fapi.matconcasa.com.br%2F%2Fmedia%2F.renditions%2Fwysiwyg%2FWEBP_to_PNG_Site_Seguro.png&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fapi.matconcasa.com.br%2F%2Fmedia%2F.renditions%2Fwysiwyg%2FFrete_from_Matcon_Casa.png&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fapi.matconcasa.com.br%2F%2Fmedia%2F.renditions%2Fwysiwyg%2FPix_from_Matcon_Casa_1.png&w=1500&q=75"
+      ],
+      "disponivel": true,
+      "extraido_em": "2025-10-22T16:20:20.229986"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/serra-marmore-makita-220v-1300w-sem-maleta-4100nh3z-220v-344516",
+      "nome": "Serra Marmore Makita 220V 1300W sem Maleta 4100NH3Z-220V",
+      "preco": "633.62",
+      "preco_original": null,
+      "marca": null,
+      "categoria": null,
+      "subcategoria": null,
+      "imagens": [
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fweb.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fmobile.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F88381647649.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F88381647649.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fapi.matconcasa.com.br%2F%2Fmedia%2F.renditions%2Fwysiwyg%2FWEBP_to_PNG_Site_Seguro.png&w=1500&q=75"
+      ],
+      "disponivel": true,
+      "extraido_em": "2025-10-22T16:20:20.234313"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/ducha-lorenzetti-duo-black-cromada-220v-7800w-7510104-402400",
+      "nome": "Ducha Lorenzetti Duo Black Cromada 220V 7800W | 7510104",
+      "preco": "749.50",
+      "preco_original": "913.27",
+      "marca": null,
+      "categoria": null,
+      "subcategoria": null,
+      "imagens": [
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fweb.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fmobile.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7896451869951.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7896451869951_1.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7896451869951_2.jpg&w=1500&q=100"
+      ],
+      "disponivel": true,
+      "extraido_em": "2025-10-22T16:20:20.237222"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/torneira-eletrica-sintex-teb144-mesa-alta-branca-127v-4400w-bica-360-3-temperaturas-10713415-389595",
+      "nome": "Torneira Elétrica Sintex TEB144 Mesa Alta Branca 127V 4400W Bica 360° 3 Temperaturas | 10713415",
+      "preco": "119.90",
+      "preco_original": "131.70",
+      "marca": null,
+      "categoria": null,
+      "subcategoria": null,
+      "imagens": [
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fweb.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fmobile.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7896697802231.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7896697802231_1.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7896697802231_2.jpg&w=1500&q=100"
+      ],
+      "disponivel": true,
+      "extraido_em": "2025-10-22T16:20:20.242696"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/furadeira-parafusadeira-makita-12v-compacta-com-kit-e-carregador-clx228sax-404931",
+      "nome": "Furadeira/Parafusadeira Makita 12V Compacta com Kit e Carregador | CLX228SAX",
+      "preco": "1813.42",
+      "preco_original": null,
+      "marca": null,
+      "categoria": null,
+      "subcategoria": null,
+      "imagens": [
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fweb.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fmobile.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F088381882842.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F088381882842.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fapi.matconcasa.com.br%2F%2Fmedia%2F.renditions%2Fwysiwyg%2FWEBP_to_PNG_Site_Seguro.png&w=1500&q=75"
+      ],
+      "disponivel": true,
+      "extraido_em": "2025-10-22T16:20:20.244849"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/furadeira-parafusadeira-black-decker-3-8-8v-bateria-litio-ld008-br-403643",
+      "nome": "Furadeira/Parafusadeira Black & Decker 3/8\" 8V Bateria Lítio | LD008-BR",
+      "preco": "137.00",
+      "preco_original": "176.97",
+      "marca": null,
+      "categoria": null,
+      "subcategoria": null,
+      "imagens": [
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fweb.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fmobile.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F0885911484879.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F0885911484879_1.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F0885911484879_2.jpg&w=1500&q=100"
+      ],
+      "disponivel": true,
+      "extraido_em": "2025-10-22T16:20:20.247295"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/serra-marmore-makita-220v-1450w-sem-maleta-4100nh2z-220v-292508",
+      "nome": "Serra Mármore Makita 220V 1450W sem Maleta | 4100NH2Z-220V",
+      "preco": "498.00",
+      "preco_original": "606.81",
+      "marca": null,
+      "categoria": null,
+      "subcategoria": null,
+      "imagens": [
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fweb.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fmobile.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F088381633451.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F088381633451_1.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F088381633451_2.jpg&w=1500&q=100"
+      ],
+      "disponivel": true,
+      "extraido_em": "2025-10-22T16:20:20.262039"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/cuba-embutir-quadrada-deca-louca-30cm-branco-l3103017-413319",
+      "nome": "Cuba Embutir Quadrada Deca Louça - 30cm Branco | L3103017",
+      "preco": "137.00",
+      "preco_original": "176.97",
+      "marca": null,
+      "categoria": null,
+      "subcategoria": null,
+      "imagens": [
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fweb.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fmobile.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7894202013936.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7894202013936_1.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7894202013936_2.jpg&w=1500&q=100"
+      ],
+      "disponivel": true,
+      "extraido_em": "2025-10-22T16:20:20.267557"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/fio-cabo-pp-sil-4x-6-00mm-1kv-100m-00049039002106-179051",
+      "nome": "Fio Cabo PP Sil 4X 6.00MM 1KV 100M | 00049039002106",
+      "preco": "3484.76",
+      "preco_original": null,
+      "marca": null,
+      "categoria": null,
+      "subcategoria": null,
+      "imagens": [
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fweb.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fmobile.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7897381618275.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7897381618275.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fapi.matconcasa.com.br%2F%2Fmedia%2F.renditions%2Fwysiwyg%2FWEBP_to_PNG_Site_Seguro.png&w=1500&q=75"
+      ],
+      "disponivel": true,
+      "extraido_em": "2025-10-22T16:20:20.270100"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/ducha-hydra-optima-8-temperaturas-5500w-127v-dpop-8-551br-362905",
+      "nome": "Ducha Hydra Optima 8 Temperaturas 5500W 127V | DPOP.8.551BR",
+      "preco": "177.37",
+      "preco_original": "305.87",
+      "marca": null,
+      "categoria": null,
+      "subcategoria": null,
+      "imagens": [
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fweb.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fmobile.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7896650402027.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7896650402027.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fapi.matconcasa.com.br%2F%2Fmedia%2F.renditions%2Fwysiwyg%2FWEBP_to_PNG_Site_Seguro.png&w=1500&q=75"
+      ],
+      "disponivel": true,
+      "extraido_em": "2025-10-22T16:20:20.314811"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/lampada-led-bulbo-taschibra-50w-6500k-e27-bivolt-11080397-a-lampada-led-bulbo-taschibra-50w-6500k-e27-e-perfeita-para-quem-busca-iluminac-o-intensa-economica-e-duravel-com-potencia-de-50w-e-temperatura-de-cor-6500k-branco-frio-oferece-excelente-claridade-",
+      "nome": "Lâmpada LED Bulbo Taschibra 50W 6500K E27 Bivolt | 11080397\t\n\nA Lâmpada LED Bulbo Taschibra 50W 6500K E27 é perfeita para quem busca iluminação intensa, econômica e durável. Com potência de 50W e temperatura de cor 6500K (branco frio), oferece excelente c",
+      "preco": "25.83",
+      "preco_original": null,
+      "marca": null,
+      "categoria": null,
+      "subcategoria": null,
+      "imagens": [
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fweb.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fmobile.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7897079076691.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7897079076691_1.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7897079076691_2.jpg&w=1500&q=100"
+      ],
+      "disponivel": true,
+      "extraido_em": "2025-10-22T16:20:20.335654"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/alicate-universal-belzer-isolado-8-219022bbr-411707",
+      "nome": "Alicate Universal Belzer Isolado - 8\" | 219022BBR",
+      "preco": "77.61",
+      "preco_original": "129.35",
+      "marca": null,
+      "categoria": null,
+      "subcategoria": null,
+      "imagens": [
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fweb.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fmobile.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7891645021269.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7891645021269.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fapi.matconcasa.com.br%2F%2Fmedia%2F.renditions%2Fwysiwyg%2FWEBP_to_PNG_Site_Seguro.png&w=1500&q=75"
+      ],
+      "disponivel": true,
+      "extraido_em": "2025-10-22T16:20:22.927465"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/alicate-descascador-irwin-descfio-8-2078300-307777",
+      "nome": "Alicate Descascador Irwin Descfio - 8\" | 2078300",
+      "preco": "149.90",
+      "preco_original": "182.65",
+      "marca": null,
+      "categoria": null,
+      "subcategoria": null,
+      "imagens": [
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fweb.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fmobile.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F38548088457.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F38548088457.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fapi.matconcasa.com.br%2F%2Fmedia%2F.renditions%2Fwysiwyg%2FWEBP_to_PNG_Site_Seguro.png&w=1500&q=75"
+      ],
+      "disponivel": true,
+      "extraido_em": "2025-10-22T16:20:22.942735"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/fio-cabo-rede-megatron-cat6-4-pares-100m-cinza-2421-410948",
+      "nome": "Fio Cabo Rede Megatron CAT6 4 Pares 100M Cinza | 2421",
+      "preco": "497.15",
+      "preco_original": null,
+      "marca": null,
+      "categoria": null,
+      "subcategoria": null,
+      "imagens": [
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fweb.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fmobile.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7899278924216.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7899278924216.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fapi.matconcasa.com.br%2F%2Fmedia%2F.renditions%2Fwysiwyg%2FWEBP_to_PNG_Site_Seguro.png&w=1500&q=75"
+      ],
+      "disponivel": true,
+      "extraido_em": "2025-10-22T16:20:22.946089"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/chave-nh-cebel-seccionadora-sem-carga-02-400a-100010-41769",
+      "nome": "Chave Nh Cebel Seccionadora sem Carga 02/400A 100010",
+      "preco": "1830.63",
+      "preco_original": "2086.70",
+      "marca": null,
+      "categoria": null,
+      "subcategoria": null,
+      "imagens": [
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fweb.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fmobile.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7898552820060.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7898552820060.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fapi.matconcasa.com.br%2F%2Fmedia%2F.renditions%2Fwysiwyg%2FWEBP_to_PNG_Site_Seguro.png&w=1500&q=75"
+      ],
+      "disponivel": true,
+      "extraido_em": "2025-10-22T16:20:22.948541"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/serra-marmore-makita-127v-1300w-4100nh3z-127v-344508",
+      "nome": "Serra Mármore Makita 127V 1300W | 4100NH3Z-127V",
+      "preco": "583.67",
+      "preco_original": "937.69",
+      "marca": null,
+      "categoria": null,
+      "subcategoria": null,
+      "imagens": [
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fweb.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fmobile.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F088381647632.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F088381647632_1.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F088381647632_2.jpg&w=1500&q=100"
+      ],
+      "disponivel": true,
+      "extraido_em": "2025-10-22T16:20:22.996560"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/furadeira-dewalt-impacto-1-2-220v-710w-dwd502b2-403672",
+      "nome": "Furadeira Dewalt Impacto 1/2\" 220V 710W DWD502B2",
+      "preco": "399.00",
+      "preco_original": "486.18",
+      "marca": null,
+      "categoria": null,
+      "subcategoria": null,
+      "imagens": [
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fweb.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fmobile.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F885911219334.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F885911219334_1.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F885911219334_2.jpg&w=1500&q=100"
+      ],
+      "disponivel": true,
+      "extraido_em": "2025-10-22T16:20:23.511513"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/torques-berg-armador-12-5648512-91073",
+      "nome": "Torques Berg Armador 12\" 5648512",
+      "preco": "49.37",
+      "preco_original": "61.71",
+      "marca": null,
+      "categoria": null,
+      "subcategoria": null,
+      "imagens": [
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fweb.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fmobile.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7896673168702.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7896673168702.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fcatalog%2Fproduct%2Fcache%2F263d3b7f14768baaeafe0b82c213dc1f%2F7%2F8%2F7897186029870.jpg&w=1500&q=50"
+      ],
+      "disponivel": true,
+      "extraido_em": "2025-10-22T16:20:23.515594"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/furadeira-parafusadeira-black-decker-3-8-20v-bateria-com-80-acessorios-bcd704c1ka-br-412561",
+      "nome": "Furadeira/Parafusadeira Black & Decker - 3/8\" 20V Bateria com 80 Acessórios | BCD704C1KA-BR",
+      "preco": "741.70",
+      "preco_original": "1241.20",
+      "marca": null,
+      "categoria": null,
+      "subcategoria": null,
+      "imagens": [
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fweb.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fmobile.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F0885911817103.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F0885911817103_1.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F0885911817103_2.jpg&w=1500&q=100"
+      ],
+      "disponivel": true,
+      "extraido_em": "2025-10-22T16:20:23.532185"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/ducha-lorenzetti-maxi-ducha-ultra-3t-220v-5500w-7530115-149861",
+      "nome": "Ducha Lorenzetti Maxi-Ducha Ultra 3T 220V 5500W | 7530115",
+      "preco": "88.58",
+      "preco_original": null,
+      "marca": null,
+      "categoria": null,
+      "subcategoria": null,
+      "imagens": [
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fweb.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fmobile.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7896451824806.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7896451824806.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fapi.matconcasa.com.br%2F%2Fmedia%2F.renditions%2Fwysiwyg%2FWEBP_to_PNG_Site_Seguro.png&w=1500&q=75"
+      ],
+      "disponivel": true,
+      "extraido_em": "2025-10-22T16:20:23.710300"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/aquecedor-de-agua-lorenzetti-maxi-ultra-220v-5500w-7560046-407933",
+      "nome": "Aquecedor de Água Lorenzetti - Maxi Ultra 220V 5500W | 7560046",
+      "preco": "218.70",
+      "preco_original": "266.49",
+      "marca": null,
+      "categoria": null,
+      "subcategoria": null,
+      "imagens": [
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fweb.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fmobile.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7896451875969.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7896451875969_1.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7896451875969.jpg&w=1500&q=100"
+      ],
+      "disponivel": true,
+      "extraido_em": "2025-10-22T16:20:24.716960"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/ventilador-de-teto-ventisol-flow-led-branco-com-controle-remoto-bivolt-14224-410460",
+      "nome": "Ventilador de Teto Ventisol Flow LED Branco com Controle Remoto Bivolt | 14224",
+      "preco": "444.88",
+      "preco_original": "556.10",
+      "marca": null,
+      "categoria": null,
+      "subcategoria": null,
+      "imagens": [
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fweb.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fmobile.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7898461974366.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7898461974366.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fapi.matconcasa.com.br%2F%2Fmedia%2F.renditions%2Fwysiwyg%2FWEBP_to_PNG_Site_Seguro.png&w=1500&q=75"
+      ],
+      "disponivel": true,
+      "extraido_em": "2025-10-22T16:20:24.764346"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/ventilador-de-parede-ventidelta-ventura-50cm-preto-bivolt-79-5425-412505",
+      "nome": "Ventilador de Parede Ventidelta Ventura 50cm Preto Bivolt | 79-5425",
+      "preco": "528.47",
+      "preco_original": "827.60",
+      "marca": null,
+      "categoria": null,
+      "subcategoria": null,
+      "imagens": [
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fweb.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fmobile.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7899121813445.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7899121813445.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fapi.matconcasa.com.br%2F%2Fmedia%2F.renditions%2Fwysiwyg%2FWEBP_to_PNG_Site_Seguro.png&w=1500&q=75"
+      ],
+      "disponivel": true,
+      "extraido_em": "2025-10-22T16:20:24.816074"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/ventilador-de-teto-ventidelta-new-light-led-3-pas-preto-220v-38-3223-412511",
+      "nome": "Ventilador de Teto Ventidelta New Light LED 3 Pás Preto 220V | 38-3223",
+      "preco": "340.99",
+      "preco_original": null,
+      "marca": null,
+      "categoria": null,
+      "subcategoria": null,
+      "imagens": [
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fweb.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fmobile.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7899121834303.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7899121834303.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fapi.matconcasa.com.br%2F%2Fmedia%2F.renditions%2Fwysiwyg%2FWEBP_to_PNG_Site_Seguro.png&w=1500&q=75"
+      ],
+      "disponivel": true,
+      "extraido_em": "2025-10-22T16:20:24.862602"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/martelete-makita-sds-220v-800w-hr2470-220v-257443",
+      "nome": "Martelete Makita SDS - 220V 800W - HR2470-220V",
+      "preco": "1218.26",
+      "preco_original": null,
+      "marca": null,
+      "categoria": null,
+      "subcategoria": null,
+      "imagens": [
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fweb.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fmobile.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F088381081658.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F088381081658_1.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F088381081658_2.jpg&w=1500&q=100"
+      ],
+      "disponivel": true,
+      "extraido_em": "2025-10-22T16:20:25.148843"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/compressor-de-ar-ferrari-megajet-3-2l-bivolt-aac1020007-251658",
+      "nome": "Compressor de Ar FERRARI Megajet 3.2L Bivolt | AAC1020007",
+      "preco": "838.18",
+      "preco_original": null,
+      "marca": null,
+      "categoria": null,
+      "subcategoria": null,
+      "imagens": [
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fweb.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fmobile.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7896902945449.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7896902945449_1.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7896902945449_2.jpg&w=1500&q=100"
+      ],
+      "disponivel": true,
+      "extraido_em": "2025-10-22T16:20:25.230008"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/motosserra-gasolina-intech-machine-saw5200-405433",
+      "nome": "Motosserra Gasolina Intech Machine SAW5200",
+      "preco": "891.46",
+      "preco_original": "1115.37",
+      "marca": null,
+      "categoria": null,
+      "subcategoria": null,
+      "imagens": [
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fweb.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fmobile.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7898632330380.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7898632330380.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fapi.matconcasa.com.br%2F%2Fmedia%2F.renditions%2Fwysiwyg%2FWEBP_to_PNG_Site_Seguro.png&w=1500&q=75"
+      ],
+      "disponivel": true,
+      "extraido_em": "2025-10-22T16:20:45.043398"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/esmerilhadeira-bosch-41-2-gws850-220v-850w-06013775e0-147699",
+      "nome": "Esmerilhadeira Bosch - 41/2\" GWS850 220V 850W | 06013775E0",
+      "preco": "717.70",
+      "preco_original": null,
+      "marca": null,
+      "categoria": null,
+      "subcategoria": null,
+      "imagens": [
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fweb.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fmobile.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F3165140569576.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F3165140569576.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fapi.matconcasa.com.br%2F%2Fmedia%2F.renditions%2Fwysiwyg%2FWEBP_to_PNG_Site_Seguro.png&w=1500&q=75"
+      ],
+      "disponivel": true,
+      "extraido_em": "2025-10-22T16:20:47.075535"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/bateria-makita-universal-12v-4-0ah-li-ion-1974070-404929",
+      "nome": "Bateria Makita Universal 12V 4.0Ah Li-Ion | 1974070",
+      "preco": "559.67",
+      "preco_original": null,
+      "marca": null,
+      "categoria": null,
+      "subcategoria": null,
+      "imagens": [
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fweb.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fmobile.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fapi.matconcasa.com.br%2F%2Fmedia%2F.renditions%2Fwysiwyg%2FWEBP_to_PNG_Site_Seguro.png&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fapi.matconcasa.com.br%2F%2Fmedia%2F.renditions%2Fwysiwyg%2FFrete_from_Matcon_Casa.png&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fapi.matconcasa.com.br%2F%2Fmedia%2F.renditions%2Fwysiwyg%2FPix_from_Matcon_Casa_1.png&w=1500&q=75"
+      ],
+      "disponivel": true,
+      "extraido_em": "2025-10-22T16:20:47.627830"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/furadeira-parafusadeira-black-decker-3-8-20v-bateria-com-80-acessorios-bcd704c1ka-br-412561",
+      "nome": "Furadeira/Parafusadeira Black & Decker - 3/8\" 20V Bateria com 80 Acessórios | BCD704C1KA-BR",
+      "preco": "741.70",
+      "preco_original": "1241.20",
+      "marca": null,
+      "categoria": null,
+      "subcategoria": null,
+      "imagens": [
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fweb.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fmobile.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F0885911817103.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F0885911817103_1.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F0885911817103_2.jpg&w=1500&q=100"
+      ],
+      "disponivel": true,
+      "extraido_em": "2025-10-22T16:20:47.662350"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/piscina-infantil-mor-3000-litros-estruturada-com-lona-pvc-azul-1005-375349",
+      "nome": "Piscina Infantil Mor 3000 Litros Estruturada com Lona PVC Azul | 1005",
+      "preco": "904.50",
+      "preco_original": null,
+      "marca": null,
+      "categoria": null,
+      "subcategoria": null,
+      "imagens": [
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fweb.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fmobile.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7896020610052.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7896020610052.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fapi.matconcasa.com.br%2F%2Fmedia%2F.renditions%2Fwysiwyg%2FWEBP_to_PNG_Site_Seguro.png&w=1500&q=75"
+      ],
+      "disponivel": true,
+      "extraido_em": "2025-10-22T16:20:47.770890"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/kit-ferramenta-eda-maleta-com-78-pecas-9gd-403723",
+      "nome": "Kit Ferramenta Eda Maleta com 78 PEÇAS | 9GD",
+      "preco": "249.79",
+      "preco_original": null,
+      "marca": null,
+      "categoria": null,
+      "subcategoria": null,
+      "imagens": [
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fweb.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fmobile.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7895315012502.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7895315012502.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fapi.matconcasa.com.br%2F%2Fmedia%2F.renditions%2Fwysiwyg%2FWEBP_to_PNG_Site_Seguro.png&w=1500&q=75"
+      ],
+      "disponivel": true,
+      "extraido_em": "2025-10-22T16:20:48.505696"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/serra-sabre-makita-1010w-220v-jr3051tk-220v-407998",
+      "nome": "Serra Sabre Makita 1010W 220V | JR3051TK-220V",
+      "preco": "2340.29",
+      "preco_original": "2570.79",
+      "marca": null,
+      "categoria": null,
+      "subcategoria": null,
+      "imagens": [
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fweb.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fmobile.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F0088381891905.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F0088381891905_1.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F0088381891905_2.jpg&w=1500&q=100"
+      ],
+      "disponivel": true,
+      "extraido_em": "2025-10-22T16:20:48.708564"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/multimetro-digital-hikari-display-grande-hm-1002b-21n278-412971",
+      "nome": "Multimetro Digital Hikari Display Grande HM-1002B 21N278",
+      "preco": "55.82",
+      "preco_original": "93.03",
+      "marca": null,
+      "categoria": null,
+      "subcategoria": null,
+      "imagens": [
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fweb.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fmobile.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7899810415615.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7899810415615.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fapi.matconcasa.com.br%2F%2Fmedia%2F.renditions%2Fwysiwyg%2FWEBP_to_PNG_Site_Seguro.png&w=1500&q=75"
+      ],
+      "disponivel": true,
+      "extraido_em": "2025-10-22T16:20:48.771883"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/camera-de-seguranca-intelbras-wi-fi-hd-im1-4560021-411094",
+      "nome": "Câmera de Segurança Intelbras Wi-Fi Hd IM1 | 4560021",
+      "preco": "308.69",
+      "preco_original": null,
+      "marca": null,
+      "categoria": null,
+      "subcategoria": null,
+      "imagens": [
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fweb.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fmobile.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7899298644736.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7899298644736.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fapi.matconcasa.com.br%2F%2Fmedia%2F.renditions%2Fwysiwyg%2FWEBP_to_PNG_Site_Seguro.png&w=1500&q=75"
+      ],
+      "disponivel": true,
+      "extraido_em": "2025-10-22T16:20:48.822298"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/chave-nh-cebel-seccionadora-sem-carga-02-400a-100010-41769",
+      "nome": "Chave Nh Cebel Seccionadora sem Carga 02/400A 100010",
+      "preco": "1830.63",
+      "preco_original": "2086.70",
+      "marca": null,
+      "categoria": null,
+      "subcategoria": null,
+      "imagens": [
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fweb.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fmobile.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7898552820060.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7898552820060.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fcatalog%2Fproduct%2Fcache%2F263d3b7f14768baaeafe0b82c213dc1f%2F7%2F8%2F7897186029870.jpg&w=1500&q=50"
+      ],
+      "disponivel": true,
+      "extraido_em": "2025-10-22T16:20:55.705935"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/lampada-led-bulbo-taschibra-50w-6500k-e27-bivolt-11080397-a-lampada-led-bulbo-taschibra-50w-6500k-e27-e-perfeita-para-quem-busca-iluminac-o-intensa-economica-e-duravel-com-potencia-de-50w-e-temperatura-de-cor-6500k-branco-frio-oferece-excelente-claridade-",
+      "nome": "Lâmpada LED Bulbo Taschibra 50W 6500K E27 Bivolt | 11080397\t\n\nA Lâmpada LED Bulbo Taschibra 50W 6500K E27 é perfeita para quem busca iluminação intensa, econômica e durável. Com potência de 50W e temperatura de cor 6500K (branco frio), oferece excelente c",
+      "preco": "137.00",
+      "preco_original": "176.97",
+      "marca": null,
+      "categoria": null,
+      "subcategoria": null,
+      "imagens": [
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fweb.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fmobile.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7897079076691.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7897079076691_1.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7897079076691_2.jpg&w=1500&q=100"
+      ],
+      "disponivel": true,
+      "extraido_em": "2025-10-22T16:20:55.707031"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/alicate-descascador-irwin-descfio-8-2078300-307777",
+      "nome": "Alicate Descascador Irwin Descfio - 8\" | 2078300",
+      "preco": "149.90",
+      "preco_original": "182.65",
+      "marca": null,
+      "categoria": null,
+      "subcategoria": null,
+      "imagens": [
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fweb.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fmobile.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F38548088457.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F38548088457.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fcatalog%2Fproduct%2Fcache%2F263d3b7f14768baaeafe0b82c213dc1f%2F7%2F8%2F7897186029870.jpg&w=1500&q=50"
+      ],
+      "disponivel": true,
+      "extraido_em": "2025-10-22T16:20:55.714926"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/fio-cabo-pp-sil-4x-6-00mm-1kv-100m-00049039002106-179051",
+      "nome": "Fio Cabo PP Sil 4X 6.00MM 1KV 100M | 00049039002106",
+      "preco": "137.00",
+      "preco_original": "176.97",
+      "marca": null,
+      "categoria": null,
+      "subcategoria": null,
+      "imagens": [
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fweb.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fmobile.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7897381618275.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7897381618275.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fcatalog%2Fproduct%2Fcache%2F263d3b7f14768baaeafe0b82c213dc1f%2F7%2F8%2F7897186029870.jpg&w=1500&q=50"
+      ],
+      "disponivel": true,
+      "extraido_em": "2025-10-22T16:20:55.716284"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/multimetro-digital-hikari-display-grande-hm-1002b-21n278-412971",
+      "nome": "Multimetro Digital Hikari Display Grande HM-1002B 21N278",
+      "preco": "55.82",
+      "preco_original": "93.03",
+      "marca": null,
+      "categoria": null,
+      "subcategoria": null,
+      "imagens": [
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fweb.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fmobile.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7899810415615.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7899810415615.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fapi.matconcasa.com.br%2F%2Fmedia%2F.renditions%2Fwysiwyg%2FWEBP_to_PNG_Site_Seguro.png&w=1500&q=75"
+      ],
+      "disponivel": true,
+      "extraido_em": "2025-10-22T16:20:59.469259"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/ducha-lorenzetti-maxi-ducha-ultra-3t-220v-5500w-7530115-149861",
+      "nome": "Ducha Lorenzetti Maxi-Ducha Ultra 3T 220V 5500W | 7530115",
+      "preco": "88.58",
+      "preco_original": null,
+      "marca": null,
+      "categoria": null,
+      "subcategoria": null,
+      "imagens": [
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fweb.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fmobile.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7896451824806.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7896451824806.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fapi.matconcasa.com.br%2F%2Fmedia%2F.renditions%2Fwysiwyg%2FWEBP_to_PNG_Site_Seguro.png&w=1500&q=75"
+      ],
+      "disponivel": true,
+      "extraido_em": "2025-10-22T16:20:59.887936"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/furadeira-parafusadeira-black-decker-3-8-8v-bateria-litio-ld008-br-403643",
+      "nome": "Furadeira/Parafusadeira Black & Decker 3/8\" 8V Bateria Lítio | LD008-BR",
+      "preco": "250.40",
+      "preco_original": null,
+      "marca": null,
+      "categoria": null,
+      "subcategoria": null,
+      "imagens": [
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fweb.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fmobile.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F0885911484879.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F0885911484879_1.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F0885911484879_2.jpg&w=1500&q=100"
+      ],
+      "disponivel": true,
+      "extraido_em": "2025-10-22T16:21:09.983213"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/kit-ferramenta-eda-maleta-com-78-pecas-9gd-403723",
+      "nome": "Kit Ferramenta Eda Maleta com 78 PEÇAS | 9GD",
+      "preco": "249.79",
+      "preco_original": null,
+      "marca": null,
+      "categoria": null,
+      "subcategoria": null,
+      "imagens": [
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fweb.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fwysiwyg%2FPDP%2Fmobile.gif&w=1500&q=75",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7895315012502.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio.img.matcon%2Fimg.matcon%2F7895315012502.jpg&w=1500&q=100",
+        "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fapi.matconcasa.com.br%2F%2Fmedia%2F.renditions%2Fwysiwyg%2FWEBP_to_PNG_Site_Seguro.png&w=1500&q=75"
+      ],
+      "disponivel": true,
+      "extraido_em": "2025-10-22T16:21:10.875077"
+    }
+  ]
+}

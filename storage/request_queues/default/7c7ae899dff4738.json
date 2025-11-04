@@ -1,0 +1,16 @@
+{
+  "unique_key": "https://www.matconcasa.com.br/produto/tesoura-funileiro-aviac-o-brasfort-10-reta-8034-231045",
+  "url": "https://www.matconcasa.com.br/produto/tesoura-funileiro-aviac-o-brasfort-10-reta-8034-231045",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 3
+    }
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.matconcasa.com.br/produto/tesoura-funileiro-aviac-o-brasfort-10-reta-8034-231045",
+  "handled_at": "2025-10-30 12:41:48.850770+00:00"
+}

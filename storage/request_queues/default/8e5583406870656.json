@@ -1,0 +1,16 @@
+{
+  "unique_key": "https://www.matconcasa.com.br/produto/churrasqueira-dalben-nobre-inox-30x50x87cm-73218900-406215",
+  "url": "https://www.matconcasa.com.br/produto/churrasqueira-dalben-nobre-inox-30x50x87cm-73218900-406215",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 3
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": "https://www.matconcasa.com.br/produto/churrasqueira-dalben-nobre-inox-30x50x87cm-73218900-406215",
+  "handled_at": "2025-10-30 12:41:30.807884+00:00"
+}

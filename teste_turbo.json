@@ -1,0 +1,42 @@
+[
+  {
+    "pps": 2.5,
+    "label": "2.5 pps (~0.4s entre reqs) - EXTREMO",
+    "taxa_sucesso": 20.0,
+    "sucessos": 4,
+    "total": 20,
+    "erros_429": 16,
+    "tempo_medio": 0.4313719868659973,
+    "estimativa_800": 5.751626491546631
+  },
+  {
+    "pps": 2.0,
+    "label": "2.0 pps (0.5s entre reqs) - MUITO AGRESSIVO",
+    "taxa_sucesso": 25.0,
+    "sucessos": 5,
+    "total": 20,
+    "erros_429": 15,
+    "tempo_medio": 0.5985074043273926,
+    "estimativa_800": 7.980098724365234
+  },
+  {
+    "pps": 1.5,
+    "label": "1.5 pps (~0.67s entre reqs) - AGRESSIVO",
+    "taxa_sucesso": 25.0,
+    "sucessos": 5,
+    "total": 20,
+    "erros_429": 15,
+    "tempo_medio": 0.6735195875167846,
+    "estimativa_800": 8.980261166890463
+  },
+  {
+    "pps": 1.2,
+    "label": "1.2 pps (~0.83s entre reqs) - RAPIDO",
+    "taxa_sucesso": 35.0,
+    "sucessos": 7,
+    "total": 20,
+    "erros_429": 13,
+    "tempo_medio": 0.8040216445922852,
+    "estimativa_800": 10.720288594563803
+  }
+]

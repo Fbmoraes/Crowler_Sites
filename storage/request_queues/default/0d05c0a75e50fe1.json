@@ -1,0 +1,17 @@
+{
+  "unique_key": "https://www.matconcasa.com.br/produto/ducha-lorenzetti-acqua-storm-preta-7800w-220v-7510060-354520",
+  "url": "https://www.matconcasa.com.br/produto/ducha-lorenzetti-acqua-storm-preta-7800w-220v-7510060-354520",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 3,
+      "sessionRotationCount": 5
+    }
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.matconcasa.com.br/produto/ducha-lorenzetti-acqua-storm-preta-7800w-220v-7510060-354520",
+  "handled_at": "2025-10-30 12:42:48.852074+00:00"
+}

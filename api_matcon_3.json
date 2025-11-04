@@ -1,0 +1,9 @@
+{
+  "id": 12,
+  "identifier": "site-banner-antes-footer",
+  "title": "site-banner-antes-footer",
+  "content": "<table style=\"border-collapse: collapse; width: 100%; height: 297.594px;\" border=\"1\">\r\n<tbody>\r\n<tr style=\"height: 67.25px;\">\r\n<td style=\"width: 25.2467%; height: 67.25px;\">Desktop Imagem(1328X363)</td>\r\n<td style=\"width: 11.6657%; height: 67.25px;\">Desktop Mobile(411X188)</td>\r\n<td style=\"width: 13.697%; height: 67.25px;\">Tipo(produto,categoria,link)</td>\r\n<td style=\"width: 24.8404%; height: 67.25px;\">parâmetro(ID categoria ou SKU)</td>\r\n<td style=\"width: 24.5502%; height: 67.25px;\">SKU Destaque(Opcional)</td>\r\n</tr>\r\n<tr style=\"height: 230.344px;\">\r\n<td style=\"width: 25.2467%; height: 230.344px;\"><img src=\"{{media url=&quot;.renditions/wysiwyg/home/Banner_-foother_Aniver-Desktop-Outubro.jpg&quot;}}\" alt=\"\" width=\"1328\" height=\"363\"></td>\r\n<td style=\"width: 11.6657%; height: 230.344px;\"><img src=\"{{media url=&quot;.renditions/wysiwyg/home/Banner-Foother-Aniver-Mobile-Outubro.jpg&quot;}}\" alt=\"\" width=\"411\" height=\"188\"></td>\r\n<td style=\"width: 13.697%; height: 230.344px;\">link</td>\r\n<td style=\"width: 24.8404%; height: 230.344px;\">https://www.matconcasa.com.br/pontos-ecoa</td>\r\n<td style=\"width: 24.5502%; height: 230.344px;\">&nbsp;</td>\r\n</tr>\r\n</tbody>\r\n</table>",
+  "creation_time": "2024-07-02 14:46:45",
+  "update_time": "2025-10-01 18:49:53",
+  "active": true
+}

@@ -1,0 +1,17 @@
+{
+  "unique_key": "https://www.matconcasa.com.br/produto/bacia-sanitaria-convencional-louca-deca-izy-branca-p-11-17-372862",
+  "url": "https://www.matconcasa.com.br/produto/bacia-sanitaria-convencional-louca-deca-izy-branca-p-11-17-372862",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 3,
+      "sessionRotationCount": 2
+    }
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.matconcasa.com.br/produto/bacia-sanitaria-convencional-louca-deca-izy-branca-p-11-17-372862",
+  "handled_at": "2025-10-30 12:42:15.208485+00:00"
+}

@@ -1,0 +1,16 @@
+{
+  "unique_key": "https://www.matconcasa.com.br/produto/alicate-universal-belzer-isolado-8-219022bbr-411707",
+  "url": "https://www.matconcasa.com.br/produto/alicate-universal-belzer-isolado-8-219022bbr-411707",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 3
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": "https://www.matconcasa.com.br/produto/alicate-universal-belzer-isolado-8-219022bbr-411707",
+  "handled_at": "2025-10-30 12:41:48.804374+00:00"
+}

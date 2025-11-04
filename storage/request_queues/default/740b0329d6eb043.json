@@ -1,0 +1,16 @@
+{
+  "unique_key": "https://www.matconcasa.com.br/produto/chave-combinada-brasfort-6a22mm-12-pecas-6034-267538",
+  "url": "https://www.matconcasa.com.br/produto/chave-combinada-brasfort-6a22mm-12-pecas-6034-267538",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 3
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": "https://www.matconcasa.com.br/produto/chave-combinada-brasfort-6a22mm-12-pecas-6034-267538",
+  "handled_at": "2025-10-30 12:41:30.789525+00:00"
+}

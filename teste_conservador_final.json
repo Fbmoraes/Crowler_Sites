@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-10-22T22:37:17.206629",
+  "resultados": [
+    {
+      "pps": 1.0,
+      "descricao": "~1.0s entre reqs - CONSERVADOR",
+      "num_urls": 50,
+      "sucessos": 0,
+      "percentual": 0.0,
+      "erros_429": 0,
+      "tempo_medio": 0,
+      "estimativa_800": 0.0,
+      "avaliacao": "INSUFICIENTE! <70% sucesso"
+    },
+    {
+      "pps": 0.8,
+      "descricao": "~1.25s entre reqs - MUITO CONSERVADOR",
+      "num_urls": 50,
+      "sucessos": 0,
+      "percentual": 0.0,
+      "erros_429": 0,
+      "tempo_medio": 0,
+      "estimativa_800": 0.0,
+      "avaliacao": "INSUFICIENTE! <70% sucesso"
+    },
+    {
+      "pps": 0.6,
+      "descricao": "~1.67s entre reqs - ULTRA CONSERVADOR",
+      "num_urls": 50,
+      "sucessos": 0,
+      "percentual": 0.0,
+      "erros_429": 0,
+      "tempo_medio": 0,
+      "estimativa_800": 0.0,
+      "avaliacao": "INSUFICIENTE! <70% sucesso"
+    }
+  ]
+}

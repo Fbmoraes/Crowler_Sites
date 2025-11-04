@@ -1,0 +1,11 @@
+[
+  {
+    "pps": 1.2,
+    "label": "1.2 pps (~0.83s entre reqs) - MUITO AGRESSIVO",
+    "taxa_sucesso": 100.0,
+    "sucessos": 10,
+    "erros_429": 0,
+    "tempo_medio": 2.0835052490234376,
+    "estimativa_800": 27.780069986979168
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "unique_key": "https://www.matconcasa.com.br/produto/pistola-arprex-modelo-1-alta-press-o-bico-1-8mm-10029000-140376",
+  "url": "https://www.matconcasa.com.br/produto/pistola-arprex-modelo-1-alta-press-o-bico-1-8mm-10029000-140376",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 3,
+      "sessionRotationCount": 1
+    }
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.matconcasa.com.br/produto/pistola-arprex-modelo-1-alta-press-o-bico-1-8mm-10029000-140376",
+  "handled_at": "2025-10-30 12:42:16.606193+00:00"
+}

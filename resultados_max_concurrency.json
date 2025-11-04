@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "site": "matconcasa.com.br",
+    "total_urls": 82,
+    "total_processado": 0,
+    "sucesso": 0,
+    "erro": 0,
+    "taxa_sucesso": "0.0%",
+    "tempo_total_segundos": 13.864088,
+    "tempo_total_minutos": 0.23,
+    "velocidade_media_segundos": null,
+    "inicio": "2025-10-22T16:42:38.338205",
+    "fim": "2025-10-22T16:42:52.202293",
+    "metodo": "max_concurrency_60",
+    "concorrencia": 60
+  },
+  "produtos": []
+}

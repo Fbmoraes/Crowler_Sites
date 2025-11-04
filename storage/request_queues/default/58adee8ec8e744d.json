@@ -1,0 +1,17 @@
+{
+  "unique_key": "https://www.matconcasa.com.br/produto/carregador-para-bateria-makita-dc18rd-220v-196937-8-404927",
+  "url": "https://www.matconcasa.com.br/produto/carregador-para-bateria-makita-dc18rd-220v-196937-8-404927",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 3,
+      "sessionRotationCount": 3
+    }
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.matconcasa.com.br/produto/carregador-para-bateria-makita-dc18rd-220v-196937-8-404927",
+  "handled_at": "2025-10-30 12:42:26.986237+00:00"
+}

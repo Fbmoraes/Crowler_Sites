@@ -1,0 +1,502 @@
+{
+  "url": "https://www.matconcasa.com.br/produto/furadeira-makita-de-impacto-1-2-1010w-220v-hp2070-220v-281700",
+  "timestamp": "2025-10-22T19:10:22.105481",
+  "arquitetura": {
+    "frameworks": [],
+    "rendering": "SSR",
+    "plataforma_ecommerce": "Desconhecida",
+    "tem_next_data": false,
+    "tem_hydration": true
+  },
+  "network": {
+    "total_requests": 158,
+    "total_responses": 153,
+    "apis": [
+      {
+        "url": "https://api.matconcasa.com.br/media/.renditions/wysiwyg/home/icons/ico-rastreio.png",
+        "method": "GET",
+        "type": "image"
+      },
+      {
+        "url": "https://api.matconcasa.com.br/media/.renditions/wysiwyg/home/icons/ico-pix_.png",
+        "method": "GET",
+        "type": "image"
+      },
+      {
+        "url": "https://api.matconcasa.com.br/media/.renditions/wysiwyg/home/icons/ico-parcelamento_.png",
+        "method": "GET",
+        "type": "image"
+      },
+      {
+        "url": "https://api.matconcasa.com.br/media/.renditions/wysiwyg/home/icons/seguranca-branco_.png",
+        "method": "GET",
+        "type": "image"
+      },
+      {
+        "url": "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fapi.matconcasa.com.br%2F%2Fmedia%2F.renditions%2Fwysiwyg%2FWEBP_to_PNG_Site_Seguro.png&w=1500&q=75",
+        "method": "GET",
+        "type": "image"
+      },
+      {
+        "url": "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fapi.matconcasa.com.br%2F%2Fmedia%2F.renditions%2Fwysiwyg%2FFrete_from_Matcon_Casa.png&w=1500&q=75",
+        "method": "GET",
+        "type": "image"
+      },
+      {
+        "url": "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fapi.matconcasa.com.br%2F%2Fmedia%2F.renditions%2Fwysiwyg%2FPix_from_Matcon_Casa_1.png&w=1500&q=75",
+        "method": "GET",
+        "type": "image"
+      },
+      {
+        "url": "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fapi.matconcasa.com.br%2F%2Fmedia%2F.renditions%2Fwysiwyg%2FParcel_Payment.png&w=1500&q=75",
+        "method": "GET",
+        "type": "image"
+      },
+      {
+        "url": "https://www.matconcasa.com.br/api/cart?",
+        "method": "POST",
+        "type": "fetch"
+      },
+      {
+        "url": "https://www.matconcasa.com.br/api/block/site-barra-frete-topo?tags=block-free-shipping",
+        "method": "GET",
+        "type": "fetch"
+      },
+      {
+        "url": "https://www.matconcasa.com.br/api/product/basic",
+        "method": "POST",
+        "type": "fetch"
+      },
+      {
+        "url": "https://www.matconcasa.com.br/api/block/site-banner-antes-footer?tags=banner&tags=site-banner-antes-footer",
+        "method": "GET",
+        "type": "fetch"
+      },
+      {
+        "url": "https://www.matconcasa.com.br/api/region?time=1761171023691",
+        "method": "POST",
+        "type": "fetch"
+      },
+      {
+        "url": "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fapi.matconcasa.com.br%2F%2Fmedia%2F.renditions%2Fwysiwyg%2Fhome%2FBanner_-foother_Aniver-Desktop-Outubro.jpg&w=1500&q=75",
+        "method": "GET",
+        "type": "image"
+      },
+      {
+        "url": "https://www.matconcasa.com.br/api/region/buscar-faixa-cep",
+        "method": "POST",
+        "type": "fetch"
+      },
+      {
+        "url": "https://www.matconcasa.com.br/api/region/buscar-faixa-cep",
+        "method": "POST",
+        "type": "fetch"
+      },
+      {
+        "url": "https://www.matconcasa.com.br/api/product/estimate-shipping",
+        "method": "POST",
+        "type": "fetch"
+      },
+      {
+        "url": "https://ad.doubleclick.net/activity;src=15381297;type=invmedia;cat=pixel00;ord=2660491074790;npa=0;auiddc=1959128758.1761171024;uaa=x86;uab=64;uafvl=Chromium%3B140.0.7339.16%7CNot%253DA%253FBrand%3B24.0.0.0%7CHeadlessChrome%3B140.0.7339.16;uamb=0;uam=;uap=Windows;uapv=10.0;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe5al1v9218870516z89198268456za200zb9198268456zd9198268456xea;gcd=13l3l3l3l1l1;dma=0;dc_fmt=3;tag_exp=101509157~103116026~103200004~103233427~104527906~104528500~104684208~104684211~104948813~115480709~115734856~115734858~115938465~115938468;epver=2;dc_random=1761171024_tehCvZdSX6qPpy0et_s44BE95reRZgniog;~oref=https%3A%2F%2Fwww.matconcasa.com.br%2Fproduto%2Ffuradeira-makita-de-impacto-1-2-1010w-220v-hp2070-220v-281700?",
+        "method": "POST",
+        "type": "fetch"
+      },
+      {
+        "url": "https://15381297.fls.doubleclick.net/activityi;src=15381297;type=invmedia;cat=pixel00;ord=2660491074790;npa=0;auiddc=1959128758.1761171024;uaa=x86;uab=64;uafvl=Chromium%3B140.0.7339.16%7CNot%253DA%253FBrand%3B24.0.0.0%7CHeadlessChrome%3B140.0.7339.16;uamb=0;uam=;uap=Windows;uapv=10.0;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe5al1v9218870516z89198268456za200zb9198268456zd9198268456xea;gcd=13l3l3l3l1l1;dma=0;dc_fmt=2;tag_exp=101509157~103116026~103200004~103233427~104527906~104528500~104684208~104684211~104948813~115480709~115734856~115734858~115938465~115938468;epver=2;dc_random=1761171024_tehCvZdSX6qPpy0et_s44BE95reRZgniog;_dc_test=1;~oref=https%3A%2F%2Fwww.matconcasa.com.br%2Fproduto%2Ffuradeira-makita-de-impacto-1-2-1010w-220v-hp2070-220v-281700?",
+        "method": "GET",
+        "type": "document"
+      },
+      {
+        "url": "https://chatweb-api-4.omnyve.com.br/api/v1/configurations/?channelKey=fadc37a6-e981-4032-92eb-ec6a69a97f2b",
+        "method": "GET",
+        "type": "fetch"
+      }
+    ],
+    "endpoints_json": [
+      "https://www.matconcasa.com.br/cdn-cgi/rum?",
+      "https://www.matconcasa.com.br/api/cart?",
+      "https://www.matconcasa.com.br/api/block/site-barra-frete-topo?tags=block-free-shipping",
+      "https://www.matconcasa.com.br/api/product/basic",
+      "https://www.matconcasa.com.br/api/block/site-banner-antes-footer?tags=banner&tags=site-banner-antes-footer",
+      "https://www.matconcasa.com.br/api/region?time=1761171023691",
+      "https://bam.nr-data.net/1/NRJS-25b1cbc1d4121a1d726?a=497329495&v=1.301.0&to=NgQAYxEAWEJXAUEIVw9ONVIBJ0RQWwdCDkoKNBBeTC9TSUIIRk5/JDVNGBMTWVVDFlpOYwgFMkUMBUNSQj8%3D&rst=1099&ck=0&s=7ecbdd0750a73c29&ref=https://www.matconcasa.com.br/produto/furadeira-makita-de-impacto-1-2-1010w-220v-hp2070-220v-281700&ptid=80d469ca2dfeee05&tt=31db09d7cd968dfd&af=err,spa,xhr,stn,ins&ap=5.473138&be=362&fe=503&dc=440&fsh=1&perf=%7B%22timing%22:%7B%22of%22:1761171022618,%22n%22:0,%22f%22:0,%22dn%22:4,%22dne%22:23,%22c%22:23,%22s%22:36,%22ce%22:58,%22rq%22:59,%22rp%22:362,%22rpe%22:682,%22di%22:685,%22ds%22:802,%22de%22:802,%22dc%22:860,%22l%22:860,%22le%22:865%7D,%22navigation%22:%7B%7D%7D&fp=484&fcp=484",
+      "https://www.matconcasa.com.br/api/region/buscar-faixa-cep",
+      "https://www.matconcasa.com.br/api/region/buscar-faixa-cep",
+      "https://www.matconcasa.com.br/api/product/estimate-shipping",
+      "https://ad.doubleclick.net/activity;src=15381297;type=invmedia;cat=pixel00;ord=2660491074790;npa=0;auiddc=1959128758.1761171024;uaa=x86;uab=64;uafvl=Chromium%3B140.0.7339.16%7CNot%253DA%253FBrand%3B24.0.0.0%7CHeadlessChrome%3B140.0.7339.16;uamb=0;uam=;uap=Windows;uapv=10.0;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe5al1v9218870516z89198268456za200zb9198268456zd9198268456xea;gcd=13l3l3l3l1l1;dma=0;dc_fmt=3;tag_exp=101509157~103116026~103200004~103233427~104527906~104528500~104684208~104684211~104948813~115480709~115734856~115734858~115938465~115938468;epver=2;dc_random=1761171024_tehCvZdSX6qPpy0et_s44BE95reRZgniog;~oref=https%3A%2F%2Fwww.matconcasa.com.br%2Fproduto%2Ffuradeira-makita-de-impacto-1-2-1010w-220v-hp2070-220v-281700?",
+      "https://chatweb-api-4.omnyve.com.br/api/v1/configurations/?channelKey=fadc37a6-e981-4032-92eb-ec6a69a97f2b",
+      "https://www.googleadservices.com/pagead/conversion/16632740553/?random=1761171024346&cv=11&fst=1761171024346&bg=ffffff&guid=ON&async=1&en=purchase&gtm=45be5al1v9204221565z89198268456za200zb9198268456zd9198268456xea&gcd=13l3l3l3l1l1&dma=0&tag_exp=101509157~103116026~103200004~103233427~104527906~104528501~104684208~104684211~104948813~115480709~115938465~115938468&u_w=1920&u_h=1080&url=https%3A%2F%2Fwww.matconcasa.com.br%2Fproduto%2Ffuradeira-makita-de-impacto-1-2-1010w-220v-hp2070-220v-281700&label=WNPOCKiu5OAZEMn1jfs9&frm=0&tiba=Matcon.casa%20%7C%20Materiais%20de%20Constru%C3%A7%C3%A3o%20e%20Ferramentas%20Online%20%7C%20Furadeira%20Makita%20de%20Impacto%201%2F2%22%201010W%20220V%20%7C%20HP2070-220V&bttype=purchase&value=0&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1959128758.1761171024&uaa=x86&uab=64&uafvl=Chromium%3B140.0.7339.16%7CNot%253DA%253FBrand%3B24.0.0.0%7CHeadlessChrome%3B140.0.7339.16&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&ec_mode=m&capi=1&_tu=CA&gcl_ctr=1~0&em=tv.1&fmt=7",
+      "https://analytics.google.com/g/collect?v=2&tid=G-LE3FJYYGXE&gtm=45je5al1v9198273555z89198268456za200zb9198268456zd9198268456&_p=1761171023647&_gaz=1&gcd=13l3l3l3l1l1&npa=0&dma=0&cid=1413711950.1761171024&ecid=143770176&ul=en-150&sr=1920x1080&uaa=x86&uab=64&uafvl=Chromium%3B140.0.7339.16%7CNot%253DA%253FBrand%3B24.0.0.0%7CHeadlessChrome%3B140.0.7339.16&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&are=1&frm=0&pscdl=noapi&ec_mode=a&_s=1&tag_exp=101509157~103116026~103200004~103233427~104527906~104528500~104684208~104684211~104948813~105322304~115480709~115938465~115938468&sid=1761171024&sct=1&seg=0&dl=https%3A%2F%2Fwww.matconcasa.com.br%2Fproduto%2Ffuradeira-makita-de-impacto-1-2-1010w-220v-hp2070-220v-281700&dt=Matcon.casa%20%7C%20Materiais%20de%20Constru%C3%A7%C3%A3o%20e%20Ferramentas%20Online%20%7C%20Furadeira%20Makita%20de%20Impacto%201%2F2%22%201010W%20220V%20%7C%20HP2070-220V&en=page_view&_fv=1&_nsi=1&_ss=1&tfd=1777",
+      "https://z.clarity.ms/collect",
+      "https://rum-collector-2.pingdom.net/img/beacon.gif?id=679a4bc85c6a700012000457&sAW=1920&sAH=1080&bIW=1920&bIH=1080&pD=24&dPR=1&or=landscape-primary&nT=0&rC=0&nS=0&cS=23&cE=58&dLE=23&dLS=4&fS=0&hS=36&rE=-1&rS=-1&reS=59&resS=362&resE=682&uEE=-1&uES=-1&dL=365&dI=685&dCLES=802&dCLEE=802&dC=860&lES=860&lEE=865&s=nt&title=Matcon.casa%20%7C%20Materiais%20de%20Constru%C3%A7%C3%A3o%20e%20Ferramentas%20Online%20%7C%20Furadeira%20Makita%20de%20Impacto%201%2F2%22%201010W%20220V%20%7C%20HP2070-220V&path=https%3A%2F%2Fwww.matconcasa.com.br%2Fproduto%2Ffuradeira-makita-de-impacto-1-2-1010w-220v-hp2070-220v-281700&ref=&sId=6gclux1f&sST=1761171024&sIS=1&rV=0&v=1.4.1",
+      "https://pageview-notify.rdstation.com.br/send",
+      "https://popups.rdstation.com.br/popup/show.json?account_id=966700&uniq=_guau51pe0&ref=aHR0cHM6Ly93d3cubWF0Y29uY2FzYS5jb20uYnIvcHJvZHV0by9mdXJhZGVpcmEtbWFraXRhLWRlLWltcGFjdG8tMS0yLTEwMTB3LTIyMHYtaHAyMDcwLTIyMHYtMjgxNzAw",
+      "https://bat.bing.com/p/insights/c/s",
+      "https://www.matconcasa.com.br/pushnews-sw.js?appId=fedd169f-caab-4d08-b7e3-3741bf775807"
+    ],
+    "headers_importantes": {
+      "nr-rate-limited": [
+        "allowed"
+      ]
+    },
+    "dominios": [
+      "bam.nr-data.net",
+      "www.matconcasa.com.br",
+      "tag.goadopt.io",
+      "demand-collector.precifica.com.br",
+      "z.clarity.ms",
+      "d335luupugsy2.cloudfront.net",
+      "adservice.google.com",
+      "www.googletagmanager.com",
+      "static.cloudflareinsights.com",
+      "scripts.clarity.ms",
+      "cdn.mouseflow.com",
+      "cdn.pagesense.io",
+      "pageview-notify.rdstation.com.br",
+      "matcon-439620.uc.r.appspot.com",
+      "rum-collector-2.pingdom.net",
+      "js-agent.newrelic.com",
+      "analytics.google.com",
+      "s3.amazonaws.com",
+      "googleads.g.doubleclick.net",
+      "www.google.com",
+      "chatweb-ui-4.omnyve.com.br",
+      "popups.rdstation.com.br",
+      "api.matconcasa.com.br",
+      "osp-assets.pn.vg",
+      "www.facebook.com",
+      "cdn.pn.vg",
+      "www.googleadservices.com",
+      "stats.g.doubleclick.net",
+      "rum-static.pingdom.net",
+      "c.clarity.ms",
+      "connect.facebook.net",
+      "cdn-st.adsmurai.com",
+      "ad.doubleclick.net",
+      "15381297.fls.doubleclick.net",
+      "chatweb-api-4.omnyve.com.br",
+      "bat.bing.com",
+      "www.clarity.ms",
+      "www.google.com.br",
+      "c.bing.com"
+    ],
+    "por_tipo": {
+      "document": 3,
+      "other": 1,
+      "font": 4,
+      "stylesheet": 4,
+      "image": 51,
+      "script": 71,
+      "xhr": 7,
+      "fetch": 15,
+      "ping": 2
+    }
+  },
+  "dados_estruturados": {
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "SiteNavigationElement",
+            "@id": "https://www.matconcasa.com.br/#sitenav",
+            "name": [
+              "Home",
+              "Materiais de Construção",
+              "Ferramentas",
+              "Elétrica",
+              "Chuveiro e Acessórios",
+              "Decoração e Iluminação"
+            ],
+            "url": [
+              "https://www.matconcasa.com.br/",
+              "https://www.matconcasa.com.br/materiais-de-construcao",
+              "https://www.matconcasa.com.br/ferramentas",
+              "https://www.matconcasa.com.br/materiais-de-construcao/eletrica",
+              "https://www.matconcasa.com.br/banheiro/chuveiro-e-acessorios",
+              "https://www.matconcasa.com.br/decoracao-e-iluminacao"
+            ]
+          }
+        ]
+      }
+    ],
+    "ogTags": {
+      "og:title": "Matcon.casa | Materiais de Construção e Ferramentas Online | Furadeira Makita de Impacto 1/2\" 1010W 220V | HP2070-220V",
+      "og:description": "Encontre tudo para sua obra em matcon.casa: materiais de construção, ferramentas, elétrica, banheiro, decoração e muito mais. Compre online com segurança e entregue rápido!",
+      "og:image": "https://www.matconcasa.com.br/android-chrome-192x192.png",
+      "og:image:width": "192",
+      "og:image:height": "192",
+      "og:image:alt": "Favicon"
+    },
+    "metaTags": {
+      "viewport": "width=device-width, initial-scale=1",
+      "next-size-adjust": "",
+      "description": "Encontre tudo para sua obra em matcon.casa: materiais de construção, ferramentas, elétrica, banheiro, decoração e muito mais. Compre online com segurança e entregue rápido!",
+      "robots": "follow,index",
+      "adopt-website-id": "dc79c59b-b72b-4774-9a5e-1969b1aa5887",
+      "google-site-verification": "o-IOkWdz8MDs1MIm7l0W8olJwPFLLrxra62Qn93hGPw",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Matcon.casa | Materiais de Construção e Ferramentas Online | Furadeira Makita de Impacto 1/2\" 1010W 220V | HP2070-220V",
+      "twitter:description": "Encontre tudo para sua obra em matcon.casa: materiais de construção, ferramentas, elétrica, banheiro, decoração e muito mais. Compre online com segurança e entregue rápido!",
+      "twitter:image": "https://www.matconcasa.com.br/android-chrome-192x192.png",
+      "twitter:image:width": "192",
+      "twitter:image:height": "192",
+      "twitter:image:alt": "Favicon"
+    }
+  },
+  "protecoes": {
+    "cloudflare": true,
+    "captcha": false,
+    "fingerprinting": [],
+    "rate_limit_headers": [
+      {
+        "header": "nr-rate-limited",
+        "value": "allowed",
+        "url": "https://bam.nr-data.net/1/NRJS-25b1cbc1d4121a1d726?a=497329495&v=1.301.0&to=NgQA"
+      }
+    ],
+    "user_agent_check": false
+  },
+  "dom": {
+    "seletores_produto": {
+      "h1s": [
+        {
+          "text": "Vendido e Entregue em Parceria CASA DE FERRAGENS PAULISTA e MATCON.CASA",
+          "classes": "[strong]:text-primary text-12 text-[#636363] text-16! hidden md:block",
+          "id": ""
+        },
+        {
+          "text": "Furadeira Makita de Impacto 1/2\" 1010W 220V | HP2070-220V",
+          "classes": " text-black font-semibold text-18 pt-2 pb-4 md:pt-6  ",
+          "id": ""
+        },
+        {
+          "text": "Vendido e Entregue em Parceria CASA DE FERRAGENS PAULISTA e MATCON.CASA",
+          "classes": "[strong]:text-primary text-12 text-[#636363] max-w-[220px]",
+          "id": ""
+        }
+      ],
+      "precos": [
+        "R$ 2.706,38",
+        "R$ 2.463,73",
+        "R$ 2.463,73",
+        "R$ 2.463,73",
+        "R$ 2.463,73"
+      ],
+      "imgs": [
+        {
+          "src": "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio",
+          "alt": "Furadeira Makita de Impacto 1/2\" 1010W 220V | HP2070-220V",
+          "classes": "rounded-8 object-contain object-center opacity-100"
+        },
+        {
+          "src": "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio",
+          "alt": "Furadeira Makita de Impacto 1/2\" 1010W 220V | HP2070-220V",
+          "classes": "rounded-8 object-contain object-center opacity-100"
+        },
+        {
+          "src": "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio",
+          "alt": "Furadeira Makita de Impacto 1/2\" 1010W 220V | HP2070-220V",
+          "classes": "rounded-8 object-contain object-center opacity-100"
+        },
+        {
+          "src": "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio",
+          "alt": "Furadeira Makita de Impacto 1/2\" 1010W 220V | HP2070-220V",
+          "classes": "md:!rounded-8 h-[390px] w-full !overflow-hidden object-contain object-center md:h-[444px] md:max-w-[400px] opacity-100"
+        },
+        {
+          "src": "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio",
+          "alt": "Furadeira Makita de Impacto 1/2\" 1010W 220V | HP2070-220V",
+          "classes": "md:!rounded-8 h-[390px] w-full !overflow-hidden object-contain object-center md:h-[444px] md:max-w-[400px] opacity-100"
+        },
+        {
+          "src": "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Frepositorio",
+          "alt": "Furadeira Makita de Impacto 1/2\" 1010W 220V | HP2070-220V",
+          "classes": "md:!rounded-8 h-[390px] w-full !overflow-hidden object-contain object-center md:h-[444px] md:max-w-[400px] opacity-100"
+        },
+        {
+          "src": "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fc",
+          "alt": "product image",
+          "classes": "object-cover"
+        },
+        {
+          "src": "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fc",
+          "alt": "product image",
+          "classes": "object-cover"
+        },
+        {
+          "src": "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fc",
+          "alt": "product image",
+          "classes": "object-cover"
+        },
+        {
+          "src": "https://www.matconcasa.com.br/_next/image?url=https%3A%2F%2Fbackoffice.matconcasa.com.br%2Fmedia%2Fc",
+          "alt": "product image",
+          "classes": "object-cover"
+        }
+      ],
+      "botoes": [
+        {
+          "text": "Entre oucadastre-se",
+          "classes": "flex w-full max-w-[160px] flex-row items-center gap-2 rounded-8 p-2 hover:bg-[#F9FBF3] focus:bg-[#F9FBF3]"
+        },
+        {
+          "text": "",
+          "classes": "p-1 bg-white rounded-8 hover:bg-[#F9FBF3] focus:bg-[#F9FBF3]"
+        },
+        {
+          "text": "",
+          "classes": "p-1 bg-white rounded-8 hover:bg-[#F9FBF3] focus:bg-[#F9FBF3]"
+        },
+        {
+          "text": "",
+          "classes": "p-1 bg-white rounded-8 hover:bg-[#F9FBF3] focus:bg-[#F9FBF3]"
+        },
+        {
+          "text": "",
+          "classes": "p-1 bg-white rounded-8 hover:bg-[#F9FBF3] focus:bg-[#F9FBF3]"
+        },
+        {
+          "text": "Adicionar a Lista de Compras",
+          "classes": " flex flex-row gap-2 items-center h-8 text-14 font-semibold text-black  "
+        },
+        {
+          "text": "",
+          "classes": " w-10 h-10 shrink-0 rounded-full border-[0.36px] border-black transition-all flex justify-center items-center  "
+        },
+        {
+          "text": "",
+          "classes": " w-10 h-10 shrink-0 rounded-full border-[0.36px] border-black transition-all flex justify-center items-center  "
+        },
+        {
+          "text": "Comprar",
+          "classes": "flex shrink-0 transform flex-row items-center justify-center gap-[10px] p-4 font-nunito text-16 font-bold transition-all duration-150 ease-in-out active:scale-95 disabled:pointer-events-none disabled:cursor-none min-h-[56px] text-white bg-primary disabled:bg-gray disabled:text-light-gray rounded-28 flex-1"
+        },
+        {
+          "text": "Adicionar ao Carrinho",
+          "classes": "flex shrink-0 transform flex-row items-center justify-center gap-[10px] p-4 font-nunito text-16 font-bold transition-all duration-150 ease-in-out active:scale-95 disabled:pointer-events-none disabled:cursor-none min-h-[56px] text-black border-black border-[0.5px] disabled:border-gray disabled:text-light-gray rounded-[32px] max-h-[56px] flex-1"
+        }
+      ]
+    },
+    "seletores_preco": [],
+    "seletores_imagem": [],
+    "estrutura_html": {}
+  },
+  "performance": {
+    "tempo_first_paint": 0,
+    "tempo_dom_ready": 0.802,
+    "tempo_load": 0.814985,
+    "recursos_bloqueantes": [],
+    "scripts_pesados": [],
+    "tempo_load_complete": 0.865
+  },
+  "javascript": {
+    "scripts": [
+      "https://cdn.pn.vg/push/ilabspush.min.js",
+      "https://bat.bing.com/p/insights/s/0.8.35",
+      "https://bat.bing.com/p/insights/t/187181182",
+      "https://scripts.clarity.ms/0.8.35/clarity.js",
+      "https://www.clarity.ms/tag/p25fdpcm0k",
+      "https://bat.bing.com/bat.js",
+      "https://cdn.mouseflow.com/projects/55b4cc27-5ba8-45df-8f96-d08889d7291c.js",
+      "https://cdn-st.adsmurai.com/sdk.js?tv=7.3",
+      "https://connect.facebook.net/signals/config/3803774073201519?v=2.9.237&r=stable&domain=www.matconcasa.com.br&hme=0e765f8c1c15e34523a2a1dcfb1e6658bdc64adfdb8a2b463c34752b789aa615&ex_m=90%2C152%2C132%2C19%2C66%2C67%2C125%2C62%2C42%2C126%2C71%2C61%2C139%2C79%2C13%2C89%2C27%2C120%2C111%2C69%2C72%2C119%2C136%2C98%2C141%2C7%2C3%2C4%2C6%2C5%2C2%2C80%2C88%2C142%2C219%2C163%2C56%2C224%2C221%2C222%2C49%2C178%2C26%2C68%2C228%2C227%2C166%2C29%2C55%2C8%2C58%2C84%2C85%2C86%2C91%2C115%2C28%2C25%2C118%2C114%2C113%2C133%2C70%2C135%2C134%2C44%2C116%2C54%2C108%2C12%2C138%2C39%2C208%2C210%2C173%2C22%2C23%2C24%2C16%2C17%2C38%2C34%2C36%2C35%2C75%2C81%2C83%2C96%2C124%2C127%2C40%2C97%2C20%2C18%2C102%2C63%2C32%2C129%2C128%2C130%2C121%2C21%2C31%2C53%2C95%2C137%2C64%2C15%2C131%2C30%2C188%2C159%2C270%2C206%2C150%2C191%2C184%2C160%2C93%2C117%2C74%2C106%2C48%2C41%2C104%2C105%2C110%2C52%2C14%2C112%2C103%2C59%2C43%2C99%2C47%2C50%2C46%2C87%2C140%2C0%2C109%2C11%2C107%2C9%2C1%2C51%2C82%2C57%2C60%2C101%2C78%2C77%2C45%2C122%2C76%2C73%2C65%2C100%2C92%2C37%2C123%2C33%2C94%2C10%2C143",
+      "https://connect.facebook.net/en_US/fbevents.js",
+      "https://www.googletagmanager.com/gtag/js?id=G-LE3FJYYGXE&cx=c&gtm=4e5al1",
+      "https://www.googletagmanager.com/gtag/js?id=AW-16632740553&cx=c&gtm=4e5al1",
+      "https://www.googletagmanager.com/gtag/js?id=DC-15381297&cx=c&gtm=4e5al1",
+      "https://www.googletagmanager.com/gtm.js?id=GTM-NNN9LD95",
+      "https://www.matconcasa.com.br/_next/static/chunks/4bd1b696-cc729d47eba2cee4.js",
+      "https://www.matconcasa.com.br/_next/static/chunks/5964-1bef4b29c2fdd00a.js",
+      "https://www.matconcasa.com.br/_next/static/chunks/main-app-7bd318ff7dcde053.js",
+      "https://www.matconcasa.com.br/_next/static/chunks/8543-9377e93f4d34b3f5.js",
+      "https://www.matconcasa.com.br/_next/static/chunks/7581-1d4fb1c8e4183ebf.js",
+      "https://www.matconcasa.com.br/_next/static/chunks/app/layout-48a00a663b3e4932.js"
+    ],
+    "windowObjects": [
+      "dataLayer",
+      "fbq"
+    ]
+  },
+  "storage": {
+    "cookies": [
+      "@matcon:store=%7B%22establishment%22%3A%7B%22storeId%22%3A7%2C%22code%22%3A%22matcon_sp%22%2C%22websiteId%22%3A2%2C%22isCnpjAvailable%22%3A%221%22%2C%22message%22%3Anull%7D%2C%22zipCode%22%3A%2224000-000%22%2C%22region%22%3A%22Rio%20de%20Janeiro%22%2C%22showAlertModal%22%3Atrue%2C%22date%22%3A%222025-10-22T22%3A10%3A23.978Z%22%7D",
+      "_gcl_au=1.1.1959128758.1761171024",
+      "_fbp=fb.1.1761171024054.2700578614",
+      "_ga_LE3FJYYGXE=GS2.1.s1761171024$o1$g0$t1761171024$j60$l0$h143770176",
+      "_ga=GA1.1.1413711950.1761171024",
+      "_clck=y9e9kz%5E2%5Eg0d%5E0%5E2121",
+      "_uetsid=e885df80af9311f082ee394197e1ba96|1g37df7|2|g0d|0|2121",
+      "__trf.src=encoded_eyJmaXJzdF9zZXNzaW9uIjp7InZhbHVlIjoiKG5vbmUpIiwiZXh0cmFfcGFyYW1zIjp7fX0sImN1cnJlbnRfc2Vzc2lvbiI6eyJ2YWx1ZSI6Iihub25lKSIsImV4dHJhX3BhcmFtcyI6e319LCJjcmVhdGVkX2F0IjoxNzYxMTcxMDI0NzkxfQ==",
+      "@matcon:cart=%5B%7B%22id%22%3A%22LUI1aclDauni0GnEKDogTU4C7qvgfDcb%22%2C%22parentId%22%3A%220%22%2C%22vendorName%22%3A%22MATCON.CASA%22%2C%22sellerName%22%3A%22MATCON.CASA%22%7D%2C%7B%22id%22%3A%22LUI1aclDauni0GnEKDogTU4C7qvgfDcb%22%2C%22parentId%22%3A%22LUI1aclDauni0GnEKDogTU4C7qvgfDcb%22%2C%22vendorName%22%3A%22MATCON.CASA%22%2C%22sellerName%22%3A%22MATCON.CASA%22%7D%5D",
+      "_uetvid=e885f0d0af9311f08f6a9d5af2b62523|135uppm|1761171024949|1|1|bat.bing.com/p/insights/c/s",
+      "_clsk=pqvfx8%5E1761171025039%5E1%5E1%5Ez.clarity.ms%2Fcollect",
+      "rdtrk=%7B%22id%22%3A%22d3a042f1-a7a6-4e43-a0f0-b08742d88ec4%22%7D"
+    ],
+    "localStorage": {
+      "pa": "sid=6gclux1f&sst=1761171024&sis=2&rv=0",
+      "NRBA_SESSION": "{\"value\":\"7ecbdd0750a73c29\",\"inactiveAt\":1761172823709,\"expiresAt\":1761185423709,\"updatedAt\":1761171",
+      "_uetvid_exp": "Mon, 16 Nov 2026 22:10:24 GMT",
+      "userKey": "1761171024960-4ap464wo",
+      "_gcl_ls": "{\"schema\":\"gcl\",\"version\":1,\"gcl_ctr\":{\"value\":{\"value\":1,\"timeouts\":0,\"creationTimeMs\":176117102434",
+      "pnews_debug": "false",
+      "_uetsid": "e885df80af9311f082ee394197e1ba96|1g37df7|2|g0d|0|2121",
+      "lastExternalReferrerTime": "1761171024229",
+      "_uetsid_exp": "Thu, 23 Oct 2025 22:10:24 GMT",
+      "pa_enabled": "1",
+      "pnews_firstVisit": "1761171024858",
+      "_uetvid": "e885f0d0af9311f08f6a9d5af2b62523|135uppm|1761171024949|1|1|bat.bing.com/p/insights/c/s",
+      "lastExternalReferrer": "empty",
+      "pnews_isSubscribed": "false",
+      "pnews_pnid": "\"fedd169f-caab-4d08-b7e3-3741bf775807_95c5d6d6-8c6b-45bb-9fbb-78e4370442c0\""
+    },
+    "sessionStorage": {
+      "_cltk": "1uq64od"
+    }
+  },
+  "recomendacoes": [
+    {
+      "prioridade": "ALTA",
+      "estrategia": "API Direta",
+      "descricao": "Encontradas 2 APIs de produto",
+      "exemplos": [
+        "https://www.matconcasa.com.br/api/product/basic",
+        "https://www.matconcasa.com.br/api/product/estimate-shipping"
+      ],
+      "implementacao": "httpx.AsyncClient() para chamadas HTTP diretas",
+      "velocidade": "⚡⚡⚡ Ultra rápido (~100-300ms/produto)",
+      "codigo": "await client.get(api_url)"
+    },
+    {
+      "prioridade": "MÉDIA",
+      "estrategia": "Bypass Cloudflare",
+      "descricao": "Site protegido por Cloudflare",
+      "implementacao": "User-Agent rotation + delays + cloudscraper library",
+      "codigo": "cloudscraper.create_scraper()"
+    },
+    {
+      "prioridade": "ALTA",
+      "estrategia": "Rate Limiting Inteligente",
+      "descricao": "Site implementa rate limiting via headers",
+      "implementacao": "TokenBucket + Retry com exponential backoff + respeitar Retry-After",
+      "codigo": "asyncio.Semaphore(max_concurrent) + await rate_limiter.acquire()"
+    },
+    {
+      "prioridade": "BAIXA (Fallback)",
+      "estrategia": "Extração via DOM",
+      "descricao": "Última opção: usar Playwright para renderizar e extrair",
+      "implementacao": "Playwright + seletores específicos",
+      "velocidade": "⚡ Lento (~2-5s/produto)",
+      "codigo": "await page.evaluate('() => { ... }')"
+    },
+    {
+      "prioridade": "⭐ RECOMENDADO",
+      "estrategia": "Híbrido com Fallback",
+      "descricao": "Combinar múltiplas estratégias com ordem de prioridade",
+      "ordem": "1. JSON-LD → 2. API → 3. Next.js Data → 4. DOM",
+      "implementacao": "Tentar métodos rápidos primeiro, DOM como fallback",
+      "velocidade": "⚡⚡ Rápido (média 500ms-1s/produto)"
+    }
+  ]
+}

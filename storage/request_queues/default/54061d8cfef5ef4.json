@@ -1,0 +1,17 @@
+{
+  "unique_key": "https://www.matconcasa.com.br/produto/ponteiro-para-martelete-makita-sextavado-30x400-d-15285-334928",
+  "url": "https://www.matconcasa.com.br/produto/ponteiro-para-martelete-makita-sextavado-30x400-d-15285-334928",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 3,
+      "sessionRotationCount": 2
+    }
+  },
+  "retry_count": 2,
+  "no_retry": false,
+  "loaded_url": "https://www.matconcasa.com.br/produto/ponteiro-para-martelete-makita-sextavado-30x400-d-15285-334928",
+  "handled_at": "2025-10-30 12:42:30.249127+00:00"
+}

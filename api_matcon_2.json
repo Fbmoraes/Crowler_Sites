@@ -1,0 +1,3117 @@
+{
+  "total_count": 11,
+  "page_info": {
+    "page_size": 30,
+    "current_page": 1
+  },
+  "items": [
+    {
+      "id": 90014,
+      "sku": "397814_1",
+      "name": "Serra Tico-Tico Hammer 220V 500W | GYST500 220",
+      "stock_status": "IN_STOCK",
+      "url_key": "serra-tico-tico-hammer-220v-500w-gyst500-220-397814",
+      "small_image": {
+        "url": "https://backoffice.matconcasa.com.br/static/version1761251783/frontend/Matcon/matcon/pt_BR/Magento_Catalog/images/product/placeholder/small_image.jpg",
+        "label": "Serra Tico-Tico Hammer 220V 500W | GYST500 220"
+      },
+      "categories": [
+        {
+          "id": 2321,
+          "name": "Ferramentas Elétricas",
+          "url_key": "ferramentas-eletricas-e-pecas"
+        },
+        {
+          "id": 2896,
+          "name": "Ferramentas",
+          "url_key": "ferramentas"
+        },
+        {
+          "id": 3013,
+          "name": "Serra",
+          "url_key": "serra"
+        },
+        {
+          "id": 3421,
+          "name": "Produtos Mais Vendidos - Vitrine",
+          "url_key": "produtos-mais-vendidos"
+        },
+        {
+          "id": 3746,
+          "name": "Esquenta Black Friday Matcon.Casa",
+          "url_key": "esquenta-black-friday"
+        }
+      ],
+      "price_range": {
+        "minimum_price": {
+          "discount": {
+            "percent_off": 0,
+            "amount_off": 0
+          },
+          "regular_price": {
+            "value": 128.52
+          },
+          "final_price": {
+            "value": 128.52,
+            "currency": "BRL"
+          }
+        }
+      },
+      "__typename": "ConfigurableProduct",
+      "variants": [
+        {
+          "product": {
+            "sku": "397814",
+            "small_image": {
+              "url": "https://backoffice.matconcasa.com.br/media/catalog/product/cache/263d3b7f14768baaeafe0b82c213dc1f/7/8/7897181960666.jpg"
+            },
+            "options": [
+              {
+                "option_id": 849831,
+                "title": "Vendor",
+                "required": false,
+                "radioValue": [
+                  {
+                    "sku": "1",
+                    "title": "Matcon.casa",
+                    "price": 0,
+                    "option_type_id": 20377555
+                  },
+                  {
+                    "sku": "2",
+                    "title": "Casa da Lavoura",
+                    "price": 0,
+                    "option_type_id": 20377557
+                  },
+                  {
+                    "sku": "3",
+                    "title": "Casa Safira",
+                    "price": 0,
+                    "option_type_id": 20377559
+                  },
+                  {
+                    "sku": "4",
+                    "title": "Santos Comercial",
+                    "price": 0,
+                    "option_type_id": 20377562
+                  },
+                  {
+                    "sku": "5",
+                    "title": "Claumar Materiais",
+                    "price": 0,
+                    "option_type_id": 20377564
+                  },
+                  {
+                    "sku": "6",
+                    "title": "Estrutural de Bauru",
+                    "price": 0,
+                    "option_type_id": 20377566
+                  },
+                  {
+                    "sku": "8",
+                    "title": "Okinalar Nordestina",
+                    "price": 0,
+                    "option_type_id": 20377568
+                  },
+                  {
+                    "sku": "9",
+                    "title": "Okinalar Águia de Haia",
+                    "price": 0,
+                    "option_type_id": 20377569
+                  },
+                  {
+                    "sku": "10",
+                    "title": "Elétrica ON",
+                    "price": 0,
+                    "option_type_id": 20377571
+                  },
+                  {
+                    "sku": "11",
+                    "title": "Gilfer",
+                    "price": 0,
+                    "option_type_id": 20377574
+                  },
+                  {
+                    "sku": "12",
+                    "title": "Okinalar Inoue",
+                    "price": 0,
+                    "option_type_id": 20377575
+                  },
+                  {
+                    "sku": "13",
+                    "title": "Cafer Comercial",
+                    "price": 0,
+                    "option_type_id": 20377578
+                  },
+                  {
+                    "sku": "14",
+                    "title": "Okinalar Tokusey ",
+                    "price": 0,
+                    "option_type_id": 20377580
+                  },
+                  {
+                    "sku": "15",
+                    "title": "Irmãos Yogui",
+                    "price": 0,
+                    "option_type_id": 20377582
+                  },
+                  {
+                    "sku": "16",
+                    "title": "R.T Comércio",
+                    "price": 0,
+                    "option_type_id": 20377584
+                  },
+                  {
+                    "sku": "17",
+                    "title": "Okinalar S.Komesu",
+                    "price": 0,
+                    "option_type_id": 20377586
+                  },
+                  {
+                    "sku": "18",
+                    "title": "Okinalar Claker",
+                    "price": 0,
+                    "option_type_id": 20377588
+                  },
+                  {
+                    "sku": "19",
+                    "title": "Construpratika",
+                    "price": 0,
+                    "option_type_id": 20377590
+                  },
+                  {
+                    "sku": "20",
+                    "title": "Okinalar Yervant",
+                    "price": 0,
+                    "option_type_id": 20377592
+                  },
+                  {
+                    "sku": "21",
+                    "title": "Okinalar Uehara",
+                    "price": 0,
+                    "option_type_id": 20377594
+                  },
+                  {
+                    "sku": "22",
+                    "title": "Okinalar Largo 13",
+                    "price": 0,
+                    "option_type_id": 20377596
+                  },
+                  {
+                    "sku": "23",
+                    "title": "Kiyodai",
+                    "price": 0,
+                    "option_type_id": 20377598
+                  },
+                  {
+                    "sku": "24",
+                    "title": "Okinalar Brás",
+                    "price": 0,
+                    "option_type_id": 20377600
+                  },
+                  {
+                    "sku": "25",
+                    "title": "Okinalar Eldorado",
+                    "price": 0,
+                    "option_type_id": 20377602
+                  },
+                  {
+                    "sku": "26",
+                    "title": "Okinalar Santo Amaro",
+                    "price": 0,
+                    "option_type_id": 20377604
+                  },
+                  {
+                    "sku": "27",
+                    "title": "Okinalar Inamar",
+                    "price": 0,
+                    "option_type_id": 20377605
+                  },
+                  {
+                    "sku": "28",
+                    "title": "Palhoça Materiais",
+                    "price": 0,
+                    "option_type_id": 20377608
+                  },
+                  {
+                    "sku": "29",
+                    "title": "FOX - EPIs",
+                    "price": 0,
+                    "option_type_id": 20377610
+                  },
+                  {
+                    "sku": "30",
+                    "title": "Sátiro",
+                    "price": 0,
+                    "option_type_id": 20377611
+                  },
+                  {
+                    "sku": "31",
+                    "title": "Okinalar São Gonçalo",
+                    "price": 0,
+                    "option_type_id": 20377613
+                  },
+                  {
+                    "sku": "32",
+                    "title": "Okinalar Itaquá",
+                    "price": 0,
+                    "option_type_id": 20377615
+                  },
+                  {
+                    "sku": "33",
+                    "title": "Casa Amarela",
+                    "price": 0,
+                    "option_type_id": 20377617
+                  },
+                  {
+                    "sku": "34",
+                    "title": "São Bento lar",
+                    "price": 0,
+                    "option_type_id": 20377618
+                  },
+                  {
+                    "sku": "35",
+                    "title": "Casa de Ferragens Paulista",
+                    "price": 0,
+                    "option_type_id": 20377620
+                  },
+                  {
+                    "sku": "36",
+                    "title": "Okinalar Ekodama",
+                    "price": 0,
+                    "option_type_id": 20377622
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": 56467,
+      "sku": "401636_1",
+      "name": "Pulverizador Brudden Agrícola Dupla Ação DAS 5L | 75",
+      "stock_status": "IN_STOCK",
+      "url_key": "pulverizador-brudden-agricola-dupla-ac-o-das-5l-75-401636",
+      "small_image": {
+        "url": "https://backoffice.matconcasa.com.br/static/version1761251783/frontend/Matcon/matcon/pt_BR/Magento_Catalog/images/product/placeholder/small_image.jpg",
+        "label": "Pulverizador Brudden Agrícola Dupla Ação DAS 5L | 75"
+      },
+      "categories": [
+        {
+          "id": 1916,
+          "name": "Limpeza",
+          "url_key": "limpeza"
+        },
+        {
+          "id": 1926,
+          "name": "Pulverizador",
+          "url_key": "pulverizador"
+        },
+        {
+          "id": 2892,
+          "name": "Cozinha e Área Externa",
+          "url_key": "cozinha-e-area-externa"
+        },
+        {
+          "id": 3421,
+          "name": "Produtos Mais Vendidos - Vitrine",
+          "url_key": "produtos-mais-vendidos"
+        },
+        {
+          "id": 3694,
+          "name": "Ofertas da semana",
+          "url_key": "ofertas-da-semana"
+        },
+        {
+          "id": 3731,
+          "name": "Aniversário Matcon.Casa Cuidado com a Casa",
+          "url_key": "aniversario-matcon-casa-cuidado-com-a-casa"
+        }
+      ],
+      "price_range": {
+        "minimum_price": {
+          "discount": {
+            "percent_off": 22.59,
+            "amount_off": 39.97
+          },
+          "regular_price": {
+            "value": 176.97
+          },
+          "final_price": {
+            "value": 137,
+            "currency": "BRL"
+          }
+        }
+      },
+      "__typename": "ConfigurableProduct",
+      "variants": [
+        {
+          "product": {
+            "sku": "401636",
+            "small_image": {
+              "url": "https://backoffice.matconcasa.com.br/media/catalog/product/cache/263d3b7f14768baaeafe0b82c213dc1f/7/8/7896692148310_1.jpg"
+            },
+            "options": [
+              {
+                "option_id": 850246,
+                "title": "Vendor",
+                "required": false,
+                "radioValue": [
+                  {
+                    "sku": "1",
+                    "title": "Matcon.casa",
+                    "price": 0,
+                    "option_type_id": 20392092
+                  },
+                  {
+                    "sku": "2",
+                    "title": "Casa da Lavoura",
+                    "price": 0,
+                    "option_type_id": 20392093
+                  },
+                  {
+                    "sku": "3",
+                    "title": "Casa Safira",
+                    "price": 0,
+                    "option_type_id": 20392094
+                  },
+                  {
+                    "sku": "4",
+                    "title": "Santos Comercial",
+                    "price": 0,
+                    "option_type_id": 20392095
+                  },
+                  {
+                    "sku": "5",
+                    "title": "Claumar Materiais",
+                    "price": 0,
+                    "option_type_id": 20392096
+                  },
+                  {
+                    "sku": "6",
+                    "title": "Estrutural de Bauru",
+                    "price": 0,
+                    "option_type_id": 20392097
+                  },
+                  {
+                    "sku": "8",
+                    "title": "Okinalar Nordestina",
+                    "price": 0,
+                    "option_type_id": 20392098
+                  },
+                  {
+                    "sku": "9",
+                    "title": "Okinalar Águia de Haia",
+                    "price": 0,
+                    "option_type_id": 20392099
+                  },
+                  {
+                    "sku": "10",
+                    "title": "Elétrica ON",
+                    "price": 0,
+                    "option_type_id": 20392100
+                  },
+                  {
+                    "sku": "11",
+                    "title": "Gilfer",
+                    "price": 0,
+                    "option_type_id": 20392101
+                  },
+                  {
+                    "sku": "12",
+                    "title": "Okinalar Inoue",
+                    "price": 0,
+                    "option_type_id": 20392102
+                  },
+                  {
+                    "sku": "13",
+                    "title": "Cafer Comercial",
+                    "price": 0,
+                    "option_type_id": 20392103
+                  },
+                  {
+                    "sku": "14",
+                    "title": "Okinalar Tokusey ",
+                    "price": 0,
+                    "option_type_id": 20392104
+                  },
+                  {
+                    "sku": "15",
+                    "title": "Irmãos Yogui",
+                    "price": 0,
+                    "option_type_id": 20392105
+                  },
+                  {
+                    "sku": "16",
+                    "title": "R.T Comércio",
+                    "price": 0,
+                    "option_type_id": 20392106
+                  },
+                  {
+                    "sku": "17",
+                    "title": "Okinalar S.Komesu",
+                    "price": 0,
+                    "option_type_id": 20392107
+                  },
+                  {
+                    "sku": "18",
+                    "title": "Okinalar Claker",
+                    "price": 0,
+                    "option_type_id": 20392108
+                  },
+                  {
+                    "sku": "19",
+                    "title": "Construpratika",
+                    "price": 0,
+                    "option_type_id": 20392109
+                  },
+                  {
+                    "sku": "20",
+                    "title": "Okinalar Yervant",
+                    "price": 0,
+                    "option_type_id": 20392110
+                  },
+                  {
+                    "sku": "21",
+                    "title": "Okinalar Uehara",
+                    "price": 0,
+                    "option_type_id": 20392111
+                  },
+                  {
+                    "sku": "22",
+                    "title": "Okinalar Largo 13",
+                    "price": 0,
+                    "option_type_id": 20392112
+                  },
+                  {
+                    "sku": "23",
+                    "title": "Kiyodai",
+                    "price": 0,
+                    "option_type_id": 20392113
+                  },
+                  {
+                    "sku": "24",
+                    "title": "Okinalar Brás",
+                    "price": 0,
+                    "option_type_id": 20392114
+                  },
+                  {
+                    "sku": "25",
+                    "title": "Okinalar Eldorado",
+                    "price": 0,
+                    "option_type_id": 20392115
+                  },
+                  {
+                    "sku": "26",
+                    "title": "Okinalar Santo Amaro",
+                    "price": 0,
+                    "option_type_id": 20392116
+                  },
+                  {
+                    "sku": "27",
+                    "title": "Okinalar Inamar",
+                    "price": 0,
+                    "option_type_id": 20392117
+                  },
+                  {
+                    "sku": "28",
+                    "title": "Palhoça Materiais",
+                    "price": 0,
+                    "option_type_id": 20392118
+                  },
+                  {
+                    "sku": "29",
+                    "title": "FOX - EPIs",
+                    "price": 0,
+                    "option_type_id": 20392119
+                  },
+                  {
+                    "sku": "30",
+                    "title": "Sátiro",
+                    "price": 0,
+                    "option_type_id": 20392120
+                  },
+                  {
+                    "sku": "31",
+                    "title": "Okinalar São Gonçalo",
+                    "price": 0,
+                    "option_type_id": 20392121
+                  },
+                  {
+                    "sku": "32",
+                    "title": "Okinalar Itaquá",
+                    "price": 0,
+                    "option_type_id": 20392122
+                  },
+                  {
+                    "sku": "33",
+                    "title": "Casa Amarela",
+                    "price": 0,
+                    "option_type_id": 20392123
+                  },
+                  {
+                    "sku": "34",
+                    "title": "São Bento lar",
+                    "price": 0,
+                    "option_type_id": 20392124
+                  },
+                  {
+                    "sku": "35",
+                    "title": "Casa de Ferragens Paulista",
+                    "price": 0,
+                    "option_type_id": 20392125
+                  },
+                  {
+                    "sku": "36",
+                    "title": "Okinalar Ekodama",
+                    "price": 0,
+                    "option_type_id": 20392126
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": 46613,
+      "sku": "412611_1",
+      "name": "Esmerilhadeira Dewalt Angular 4.1/2\" 220V 900W | DWE4120B2B",
+      "stock_status": "IN_STOCK",
+      "url_key": "esmerilhadeira-dewalt-angular-4-1-2-220v-900w-dwe4120b2b-412611",
+      "small_image": {
+        "url": "https://backoffice.matconcasa.com.br/static/version1761251783/frontend/Matcon/matcon/pt_BR/Magento_Catalog/images/product/placeholder/small_image.jpg",
+        "label": "Esmerilhadeira Dewalt Angular 4.1/2\" 220V 900W | DWE4120B2B"
+      },
+      "categories": [
+        {
+          "id": 2321,
+          "name": "Ferramentas Elétricas",
+          "url_key": "ferramentas-eletricas-e-pecas"
+        },
+        {
+          "id": 2896,
+          "name": "Ferramentas",
+          "url_key": "ferramentas"
+        },
+        {
+          "id": 2993,
+          "name": "Esmerilhadeira",
+          "url_key": "esmerilhadeira"
+        },
+        {
+          "id": 3421,
+          "name": "Produtos Mais Vendidos - Vitrine",
+          "url_key": "produtos-mais-vendidos"
+        },
+        {
+          "id": 3703,
+          "name": "Ferramentas Elétricas",
+          "url_key": "ferramentas-eletricas"
+        },
+        {
+          "id": 3730,
+          "name": "Aniversário Matcon.Casa Tudo Para a Sua Obra",
+          "url_key": "aniversario-matcon-casa-tudo-para-a-sua-obra"
+        }
+      ],
+      "price_range": {
+        "minimum_price": {
+          "discount": {
+            "percent_off": 32.91,
+            "amount_off": 235
+          },
+          "regular_price": {
+            "value": 714
+          },
+          "final_price": {
+            "value": 479,
+            "currency": "BRL"
+          }
+        }
+      },
+      "__typename": "ConfigurableProduct",
+      "variants": [
+        {
+          "product": {
+            "sku": "412611",
+            "small_image": {
+              "url": "https://backoffice.matconcasa.com.br/media/catalog/product/cache/263d3b7f14768baaeafe0b82c213dc1f/7/8/7896525096283.jpg"
+            },
+            "options": [
+              {
+                "option_id": 867710,
+                "title": "Vendor",
+                "required": false,
+                "radioValue": [
+                  {
+                    "sku": "1",
+                    "title": "Matcon.casa",
+                    "price": 0,
+                    "option_type_id": 21003332
+                  },
+                  {
+                    "sku": "2",
+                    "title": "Casa da Lavoura",
+                    "price": 0,
+                    "option_type_id": 21003333
+                  },
+                  {
+                    "sku": "3",
+                    "title": "Casa Safira",
+                    "price": 0,
+                    "option_type_id": 21003334
+                  },
+                  {
+                    "sku": "4",
+                    "title": "Santos Comercial",
+                    "price": 0,
+                    "option_type_id": 21003335
+                  },
+                  {
+                    "sku": "5",
+                    "title": "Claumar Materiais",
+                    "price": 0,
+                    "option_type_id": 21003336
+                  },
+                  {
+                    "sku": "6",
+                    "title": "Estrutural de Bauru",
+                    "price": 0,
+                    "option_type_id": 21003337
+                  },
+                  {
+                    "sku": "8",
+                    "title": "Okinalar Nordestina",
+                    "price": 0,
+                    "option_type_id": 21003338
+                  },
+                  {
+                    "sku": "9",
+                    "title": "Okinalar Águia de Haia",
+                    "price": 0,
+                    "option_type_id": 21003340
+                  },
+                  {
+                    "sku": "10",
+                    "title": "Elétrica ON",
+                    "price": 0,
+                    "option_type_id": 21003342
+                  },
+                  {
+                    "sku": "11",
+                    "title": "Gilfer",
+                    "price": 0,
+                    "option_type_id": 21003344
+                  },
+                  {
+                    "sku": "12",
+                    "title": "Okinalar Inoue",
+                    "price": 0,
+                    "option_type_id": 21003346
+                  },
+                  {
+                    "sku": "13",
+                    "title": "Cafer Comercial",
+                    "price": 0,
+                    "option_type_id": 21003348
+                  },
+                  {
+                    "sku": "14",
+                    "title": "Okinalar Tokusey ",
+                    "price": 0,
+                    "option_type_id": 21003350
+                  },
+                  {
+                    "sku": "15",
+                    "title": "Irmãos Yogui",
+                    "price": 0,
+                    "option_type_id": 21003352
+                  },
+                  {
+                    "sku": "16",
+                    "title": "R.T Comércio",
+                    "price": 0,
+                    "option_type_id": 21003354
+                  },
+                  {
+                    "sku": "17",
+                    "title": "Okinalar S.Komesu",
+                    "price": 0,
+                    "option_type_id": 21003357
+                  },
+                  {
+                    "sku": "18",
+                    "title": "Okinalar Claker",
+                    "price": 0,
+                    "option_type_id": 21003358
+                  },
+                  {
+                    "sku": "19",
+                    "title": "Construpratika",
+                    "price": 0,
+                    "option_type_id": 21003360
+                  },
+                  {
+                    "sku": "20",
+                    "title": "Okinalar Yervant",
+                    "price": 0,
+                    "option_type_id": 21003362
+                  },
+                  {
+                    "sku": "21",
+                    "title": "Okinalar Uehara",
+                    "price": 0,
+                    "option_type_id": 21003364
+                  },
+                  {
+                    "sku": "22",
+                    "title": "Okinalar Largo 13",
+                    "price": 0,
+                    "option_type_id": 21003366
+                  },
+                  {
+                    "sku": "23",
+                    "title": "Kiyodai",
+                    "price": 0,
+                    "option_type_id": 21003368
+                  },
+                  {
+                    "sku": "24",
+                    "title": "Okinalar Brás",
+                    "price": 0,
+                    "option_type_id": 21003370
+                  },
+                  {
+                    "sku": "25",
+                    "title": "Okinalar Eldorado",
+                    "price": 0,
+                    "option_type_id": 21003372
+                  },
+                  {
+                    "sku": "26",
+                    "title": "Okinalar Santo Amaro",
+                    "price": 0,
+                    "option_type_id": 21003374
+                  },
+                  {
+                    "sku": "27",
+                    "title": "Okinalar Inamar",
+                    "price": 0,
+                    "option_type_id": 21003375
+                  },
+                  {
+                    "sku": "28",
+                    "title": "Palhoça Materiais",
+                    "price": 0,
+                    "option_type_id": 21003377
+                  },
+                  {
+                    "sku": "29",
+                    "title": "FOX - EPIs",
+                    "price": 0,
+                    "option_type_id": 21003379
+                  },
+                  {
+                    "sku": "30",
+                    "title": "Sátiro",
+                    "price": 0,
+                    "option_type_id": 21003381
+                  },
+                  {
+                    "sku": "31",
+                    "title": "Okinalar São Gonçalo",
+                    "price": 0,
+                    "option_type_id": 21003383
+                  },
+                  {
+                    "sku": "32",
+                    "title": "Okinalar Itaquá",
+                    "price": 0,
+                    "option_type_id": 21003385
+                  },
+                  {
+                    "sku": "33",
+                    "title": "Casa Amarela",
+                    "price": 0,
+                    "option_type_id": 21003387
+                  },
+                  {
+                    "sku": "34",
+                    "title": "São Bento lar",
+                    "price": 0,
+                    "option_type_id": 21003390
+                  },
+                  {
+                    "sku": "35",
+                    "title": "Casa de Ferragens Paulista",
+                    "price": 0,
+                    "option_type_id": 21003392
+                  },
+                  {
+                    "sku": "36",
+                    "title": "Okinalar Ekodama",
+                    "price": 0,
+                    "option_type_id": 21003394
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": 81511,
+      "sku": "39675_1",
+      "name": "Trava Papaiz Quadrupla 140 Cromada | 300767CR",
+      "stock_status": "IN_STOCK",
+      "url_key": "trava-papaiz-quadrupla-140-cromada-300767cr-39675",
+      "small_image": {
+        "url": "https://backoffice.matconcasa.com.br/static/version1761251783/frontend/Matcon/matcon/pt_BR/Magento_Catalog/images/product/placeholder/small_image.jpg",
+        "label": "Trava Papaiz Quadrupla 140 Cromada | 300767CR"
+      },
+      "categories": [
+        {
+          "id": 1994,
+          "name": "Decoração e Iluminação",
+          "url_key": "decoracao-e-iluminacao"
+        },
+        {
+          "id": 2078,
+          "name": "Segurança",
+          "url_key": "seguranca"
+        },
+        {
+          "id": 2087,
+          "name": "Travas e Cadeado",
+          "url_key": "travas-e-cadeado"
+        },
+        {
+          "id": 3421,
+          "name": "Produtos Mais Vendidos - Vitrine",
+          "url_key": "produtos-mais-vendidos"
+        },
+        {
+          "id": 3694,
+          "name": "Ofertas da semana",
+          "url_key": "ofertas-da-semana"
+        },
+        {
+          "id": 3731,
+          "name": "Aniversário Matcon.Casa Cuidado com a Casa",
+          "url_key": "aniversario-matcon-casa-cuidado-com-a-casa"
+        },
+        {
+          "id": 3735,
+          "name": "Jardim e Área Externa",
+          "url_key": "jardim-e-area-externa"
+        },
+        {
+          "id": 3746,
+          "name": "Esquenta Black Friday Matcon.Casa",
+          "url_key": "esquenta-black-friday"
+        }
+      ],
+      "price_range": {
+        "minimum_price": {
+          "discount": {
+            "percent_off": 15.75,
+            "amount_off": 18.67
+          },
+          "regular_price": {
+            "value": 118.57
+          },
+          "final_price": {
+            "value": 99.9,
+            "currency": "BRL"
+          }
+        }
+      },
+      "__typename": "ConfigurableProduct",
+      "variants": [
+        {
+          "product": {
+            "sku": "39675",
+            "small_image": {
+              "url": "https://backoffice.matconcasa.com.br/media/catalog/product/cache/263d3b7f14768baaeafe0b82c213dc1f/7/8/7891194280742_1.jpg"
+            },
+            "options": [
+              {
+                "option_id": 861226,
+                "title": "Vendor",
+                "required": false,
+                "radioValue": [
+                  {
+                    "sku": "1",
+                    "title": "Matcon.casa",
+                    "price": 0,
+                    "option_type_id": 20776380
+                  },
+                  {
+                    "sku": "2",
+                    "title": "Casa da Lavoura",
+                    "price": 0,
+                    "option_type_id": 20776382
+                  },
+                  {
+                    "sku": "3",
+                    "title": "Casa Safira",
+                    "price": 0,
+                    "option_type_id": 20776384
+                  },
+                  {
+                    "sku": "4",
+                    "title": "Santos Comercial",
+                    "price": 0,
+                    "option_type_id": 20776386
+                  },
+                  {
+                    "sku": "5",
+                    "title": "Claumar Materiais",
+                    "price": 0,
+                    "option_type_id": 20776388
+                  },
+                  {
+                    "sku": "6",
+                    "title": "Estrutural de Bauru",
+                    "price": 0,
+                    "option_type_id": 20776391
+                  },
+                  {
+                    "sku": "8",
+                    "title": "Okinalar Nordestina",
+                    "price": 0,
+                    "option_type_id": 20776392
+                  },
+                  {
+                    "sku": "9",
+                    "title": "Okinalar Águia de Haia",
+                    "price": 0,
+                    "option_type_id": 20776394
+                  },
+                  {
+                    "sku": "10",
+                    "title": "Elétrica ON",
+                    "price": 0,
+                    "option_type_id": 20776396
+                  },
+                  {
+                    "sku": "11",
+                    "title": "Gilfer",
+                    "price": 0,
+                    "option_type_id": 20776398
+                  },
+                  {
+                    "sku": "12",
+                    "title": "Okinalar Inoue",
+                    "price": 0,
+                    "option_type_id": 20776401
+                  },
+                  {
+                    "sku": "13",
+                    "title": "Cafer Comercial",
+                    "price": 0,
+                    "option_type_id": 20776404
+                  },
+                  {
+                    "sku": "14",
+                    "title": "Okinalar Tokusey ",
+                    "price": 0,
+                    "option_type_id": 20776408
+                  },
+                  {
+                    "sku": "15",
+                    "title": "Irmãos Yogui",
+                    "price": 0,
+                    "option_type_id": 20776410
+                  },
+                  {
+                    "sku": "16",
+                    "title": "R.T Comércio",
+                    "price": 0,
+                    "option_type_id": 20776412
+                  },
+                  {
+                    "sku": "17",
+                    "title": "Okinalar S.Komesu",
+                    "price": 0,
+                    "option_type_id": 20776414
+                  },
+                  {
+                    "sku": "18",
+                    "title": "Okinalar Claker",
+                    "price": 0,
+                    "option_type_id": 20776416
+                  },
+                  {
+                    "sku": "19",
+                    "title": "Construpratika",
+                    "price": 0,
+                    "option_type_id": 20776418
+                  },
+                  {
+                    "sku": "20",
+                    "title": "Okinalar Yervant",
+                    "price": 0,
+                    "option_type_id": 20776420
+                  },
+                  {
+                    "sku": "21",
+                    "title": "Okinalar Uehara",
+                    "price": 0,
+                    "option_type_id": 20776422
+                  },
+                  {
+                    "sku": "22",
+                    "title": "Okinalar Largo 13",
+                    "price": 0,
+                    "option_type_id": 20776424
+                  },
+                  {
+                    "sku": "23",
+                    "title": "Kiyodai",
+                    "price": 0,
+                    "option_type_id": 20776426
+                  },
+                  {
+                    "sku": "24",
+                    "title": "Okinalar Brás",
+                    "price": 0,
+                    "option_type_id": 20776428
+                  },
+                  {
+                    "sku": "25",
+                    "title": "Okinalar Eldorado",
+                    "price": 0,
+                    "option_type_id": 20776430
+                  },
+                  {
+                    "sku": "26",
+                    "title": "Okinalar Santo Amaro",
+                    "price": 0,
+                    "option_type_id": 20776433
+                  },
+                  {
+                    "sku": "27",
+                    "title": "Okinalar Inamar",
+                    "price": 0,
+                    "option_type_id": 20776434
+                  },
+                  {
+                    "sku": "28",
+                    "title": "Palhoça Materiais",
+                    "price": 0,
+                    "option_type_id": 20776436
+                  },
+                  {
+                    "sku": "29",
+                    "title": "FOX - EPIs",
+                    "price": 0,
+                    "option_type_id": 20776438
+                  },
+                  {
+                    "sku": "30",
+                    "title": "Sátiro",
+                    "price": 0,
+                    "option_type_id": 20776441
+                  },
+                  {
+                    "sku": "31",
+                    "title": "Okinalar São Gonçalo",
+                    "price": 0,
+                    "option_type_id": 20776443
+                  },
+                  {
+                    "sku": "32",
+                    "title": "Okinalar Itaquá",
+                    "price": 0,
+                    "option_type_id": 20776445
+                  },
+                  {
+                    "sku": "33",
+                    "title": "Casa Amarela",
+                    "price": 0,
+                    "option_type_id": 20776447
+                  },
+                  {
+                    "sku": "34",
+                    "title": "São Bento lar",
+                    "price": 0,
+                    "option_type_id": 20776449
+                  },
+                  {
+                    "sku": "35",
+                    "title": "Casa de Ferragens Paulista",
+                    "price": 0,
+                    "option_type_id": 20776451
+                  },
+                  {
+                    "sku": "36",
+                    "title": "Okinalar Ekodama",
+                    "price": 0,
+                    "option_type_id": 20776453
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": 62764,
+      "sku": "251763_1",
+      "name": "Fita Demarcação Solo Adelbras 48x14m Zebrada 803050003",
+      "stock_status": "IN_STOCK",
+      "url_key": "fita-demarcac-o-solo-adelbras-48x14m-zebrada-803050003-251763",
+      "small_image": {
+        "url": "https://backoffice.matconcasa.com.br/static/version1761251783/frontend/Matcon/matcon/pt_BR/Magento_Catalog/images/product/placeholder/small_image.jpg",
+        "label": "Fita Demarcação Solo Adelbras 48x14m Zebrada 803050003"
+      },
+      "categories": [
+        {
+          "id": 1994,
+          "name": "Decoração e Iluminação",
+          "url_key": "decoracao-e-iluminacao"
+        },
+        {
+          "id": 2065,
+          "name": "Adesivos, Fitas e Colas",
+          "url_key": "adesivos-fitas-e-colas"
+        },
+        {
+          "id": 2066,
+          "name": "Papelaria",
+          "url_key": "papelaria"
+        },
+        {
+          "id": 3421,
+          "name": "Produtos Mais Vendidos - Vitrine",
+          "url_key": "produtos-mais-vendidos"
+        }
+      ],
+      "price_range": {
+        "minimum_price": {
+          "discount": {
+            "percent_off": 0,
+            "amount_off": 0
+          },
+          "regular_price": {
+            "value": 20.01
+          },
+          "final_price": {
+            "value": 20.01,
+            "currency": "BRL"
+          }
+        }
+      },
+      "__typename": "ConfigurableProduct",
+      "variants": [
+        {
+          "product": {
+            "sku": "251763",
+            "small_image": {
+              "url": "https://backoffice.matconcasa.com.br/media/catalog/product/cache/263d3b7f14768baaeafe0b82c213dc1f/7/8/7896603850264.jpg"
+            },
+            "options": [
+              {
+                "option_id": 854647,
+                "title": "Vendor",
+                "required": false,
+                "radioValue": [
+                  {
+                    "sku": "1",
+                    "title": "Matcon.casa",
+                    "price": 0,
+                    "option_type_id": 20546127
+                  },
+                  {
+                    "sku": "2",
+                    "title": "Casa da Lavoura",
+                    "price": 0,
+                    "option_type_id": 20546128
+                  },
+                  {
+                    "sku": "3",
+                    "title": "Casa Safira",
+                    "price": 0,
+                    "option_type_id": 20546129
+                  },
+                  {
+                    "sku": "4",
+                    "title": "Santos Comercial",
+                    "price": 0,
+                    "option_type_id": 20546130
+                  },
+                  {
+                    "sku": "5",
+                    "title": "Claumar Materiais",
+                    "price": 0,
+                    "option_type_id": 20546131
+                  },
+                  {
+                    "sku": "6",
+                    "title": "Estrutural de Bauru",
+                    "price": 0,
+                    "option_type_id": 20546132
+                  },
+                  {
+                    "sku": "8",
+                    "title": "Okinalar Nordestina",
+                    "price": 0,
+                    "option_type_id": 20546133
+                  },
+                  {
+                    "sku": "9",
+                    "title": "Okinalar Águia de Haia",
+                    "price": 0,
+                    "option_type_id": 20546134
+                  },
+                  {
+                    "sku": "10",
+                    "title": "Elétrica ON",
+                    "price": 0,
+                    "option_type_id": 20546135
+                  },
+                  {
+                    "sku": "11",
+                    "title": "Gilfer",
+                    "price": 0,
+                    "option_type_id": 20546136
+                  },
+                  {
+                    "sku": "12",
+                    "title": "Okinalar Inoue",
+                    "price": 0,
+                    "option_type_id": 20546137
+                  },
+                  {
+                    "sku": "13",
+                    "title": "Cafer Comercial",
+                    "price": 0,
+                    "option_type_id": 20546138
+                  },
+                  {
+                    "sku": "14",
+                    "title": "Okinalar Tokusey ",
+                    "price": 0,
+                    "option_type_id": 20546139
+                  },
+                  {
+                    "sku": "15",
+                    "title": "Irmãos Yogui",
+                    "price": 0,
+                    "option_type_id": 20546140
+                  },
+                  {
+                    "sku": "16",
+                    "title": "R.T Comércio",
+                    "price": 0,
+                    "option_type_id": 20546142
+                  },
+                  {
+                    "sku": "17",
+                    "title": "Okinalar S.Komesu",
+                    "price": 0,
+                    "option_type_id": 20546145
+                  },
+                  {
+                    "sku": "18",
+                    "title": "Okinalar Claker",
+                    "price": 0,
+                    "option_type_id": 20546148
+                  },
+                  {
+                    "sku": "19",
+                    "title": "Construpratika",
+                    "price": 0,
+                    "option_type_id": 20546151
+                  },
+                  {
+                    "sku": "20",
+                    "title": "Okinalar Yervant",
+                    "price": 0,
+                    "option_type_id": 20546154
+                  },
+                  {
+                    "sku": "21",
+                    "title": "Okinalar Uehara",
+                    "price": 0,
+                    "option_type_id": 20546157
+                  },
+                  {
+                    "sku": "22",
+                    "title": "Okinalar Largo 13",
+                    "price": 0,
+                    "option_type_id": 20546161
+                  },
+                  {
+                    "sku": "23",
+                    "title": "Kiyodai",
+                    "price": 0,
+                    "option_type_id": 20546164
+                  },
+                  {
+                    "sku": "24",
+                    "title": "Okinalar Brás",
+                    "price": 0,
+                    "option_type_id": 20546167
+                  },
+                  {
+                    "sku": "25",
+                    "title": "Okinalar Eldorado",
+                    "price": 0,
+                    "option_type_id": 20546172
+                  },
+                  {
+                    "sku": "26",
+                    "title": "Okinalar Santo Amaro",
+                    "price": 0,
+                    "option_type_id": 20546176
+                  },
+                  {
+                    "sku": "27",
+                    "title": "Okinalar Inamar",
+                    "price": 0,
+                    "option_type_id": 20546180
+                  },
+                  {
+                    "sku": "28",
+                    "title": "Palhoça Materiais",
+                    "price": 0,
+                    "option_type_id": 20546183
+                  },
+                  {
+                    "sku": "29",
+                    "title": "FOX - EPIs",
+                    "price": 0,
+                    "option_type_id": 20546188
+                  },
+                  {
+                    "sku": "30",
+                    "title": "Sátiro",
+                    "price": 0,
+                    "option_type_id": 20546192
+                  },
+                  {
+                    "sku": "31",
+                    "title": "Okinalar São Gonçalo",
+                    "price": 0,
+                    "option_type_id": 20546196
+                  },
+                  {
+                    "sku": "32",
+                    "title": "Okinalar Itaquá",
+                    "price": 0,
+                    "option_type_id": 20546199
+                  },
+                  {
+                    "sku": "33",
+                    "title": "Casa Amarela",
+                    "price": 0,
+                    "option_type_id": 20546204
+                  },
+                  {
+                    "sku": "34",
+                    "title": "São Bento lar",
+                    "price": 0,
+                    "option_type_id": 20546207
+                  },
+                  {
+                    "sku": "35",
+                    "title": "Casa de Ferragens Paulista",
+                    "price": 0,
+                    "option_type_id": 20546211
+                  },
+                  {
+                    "sku": "36",
+                    "title": "Okinalar Ekodama",
+                    "price": 0,
+                    "option_type_id": 20546215
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": 74223,
+      "sku": "401270_1",
+      "name": "Receptaculo Morumbi Latão E-27 451 Blister 9030006267400",
+      "stock_status": "IN_STOCK",
+      "url_key": "receptaculo-morumbi-lat-o-e-27-451-blister-9030006267400-401270",
+      "small_image": {
+        "url": "https://backoffice.matconcasa.com.br/static/version1761251783/frontend/Matcon/matcon/pt_BR/Magento_Catalog/images/product/placeholder/small_image.jpg",
+        "label": "Receptaculo Morumbi Latão E-27 451 Blister 9030006267400"
+      },
+      "categories": [
+        {
+          "id": 1994,
+          "name": "Decoração e Iluminação",
+          "url_key": "decoracao-e-iluminacao"
+        },
+        {
+          "id": 2029,
+          "name": "Iluminação",
+          "url_key": "iluminacao"
+        },
+        {
+          "id": 2045,
+          "name": "Receptaculo",
+          "url_key": "receptaculo"
+        },
+        {
+          "id": 3421,
+          "name": "Produtos Mais Vendidos - Vitrine",
+          "url_key": "produtos-mais-vendidos"
+        }
+      ],
+      "price_range": {
+        "minimum_price": {
+          "discount": {
+            "percent_off": 0,
+            "amount_off": 0
+          },
+          "regular_price": {
+            "value": 4.18
+          },
+          "final_price": {
+            "value": 4.18,
+            "currency": "BRL"
+          }
+        }
+      },
+      "__typename": "ConfigurableProduct",
+      "variants": [
+        {
+          "product": {
+            "sku": "401270",
+            "small_image": {
+              "url": "https://backoffice.matconcasa.com.br/media/catalog/product/cache/263d3b7f14768baaeafe0b82c213dc1f/7/8/7898361840198.jpg"
+            },
+            "options": [
+              {
+                "option_id": 861574,
+                "title": "Vendor",
+                "required": false,
+                "radioValue": [
+                  {
+                    "sku": "1",
+                    "title": "Matcon.casa",
+                    "price": 0,
+                    "option_type_id": 20788515
+                  },
+                  {
+                    "sku": "2",
+                    "title": "Casa da Lavoura",
+                    "price": 0,
+                    "option_type_id": 20788518
+                  },
+                  {
+                    "sku": "3",
+                    "title": "Casa Safira",
+                    "price": 0,
+                    "option_type_id": 20788520
+                  },
+                  {
+                    "sku": "4",
+                    "title": "Santos Comercial",
+                    "price": 0,
+                    "option_type_id": 20788523
+                  },
+                  {
+                    "sku": "5",
+                    "title": "Claumar Materiais",
+                    "price": 0,
+                    "option_type_id": 20788526
+                  },
+                  {
+                    "sku": "6",
+                    "title": "Estrutural de Bauru",
+                    "price": 0,
+                    "option_type_id": 20788529
+                  },
+                  {
+                    "sku": "8",
+                    "title": "Okinalar Nordestina",
+                    "price": 0,
+                    "option_type_id": 20788532
+                  },
+                  {
+                    "sku": "9",
+                    "title": "Okinalar Águia de Haia",
+                    "price": 0,
+                    "option_type_id": 20788534
+                  },
+                  {
+                    "sku": "10",
+                    "title": "Elétrica ON",
+                    "price": 0,
+                    "option_type_id": 20788537
+                  },
+                  {
+                    "sku": "11",
+                    "title": "Gilfer",
+                    "price": 0,
+                    "option_type_id": 20788540
+                  },
+                  {
+                    "sku": "12",
+                    "title": "Okinalar Inoue",
+                    "price": 0,
+                    "option_type_id": 20788544
+                  },
+                  {
+                    "sku": "13",
+                    "title": "Cafer Comercial",
+                    "price": 0,
+                    "option_type_id": 20788547
+                  },
+                  {
+                    "sku": "14",
+                    "title": "Okinalar Tokusey ",
+                    "price": 0,
+                    "option_type_id": 20788550
+                  },
+                  {
+                    "sku": "15",
+                    "title": "Irmãos Yogui",
+                    "price": 0,
+                    "option_type_id": 20788553
+                  },
+                  {
+                    "sku": "16",
+                    "title": "R.T Comércio",
+                    "price": 0,
+                    "option_type_id": 20788557
+                  },
+                  {
+                    "sku": "17",
+                    "title": "Okinalar S.Komesu",
+                    "price": 0,
+                    "option_type_id": 20788560
+                  },
+                  {
+                    "sku": "18",
+                    "title": "Okinalar Claker",
+                    "price": 0,
+                    "option_type_id": 20788563
+                  },
+                  {
+                    "sku": "19",
+                    "title": "Construpratika",
+                    "price": 0,
+                    "option_type_id": 20788566
+                  },
+                  {
+                    "sku": "20",
+                    "title": "Okinalar Yervant",
+                    "price": 0,
+                    "option_type_id": 20788569
+                  },
+                  {
+                    "sku": "21",
+                    "title": "Okinalar Uehara",
+                    "price": 0,
+                    "option_type_id": 20788572
+                  },
+                  {
+                    "sku": "22",
+                    "title": "Okinalar Largo 13",
+                    "price": 0,
+                    "option_type_id": 20788575
+                  },
+                  {
+                    "sku": "23",
+                    "title": "Kiyodai",
+                    "price": 0,
+                    "option_type_id": 20788578
+                  },
+                  {
+                    "sku": "24",
+                    "title": "Okinalar Brás",
+                    "price": 0,
+                    "option_type_id": 20788581
+                  },
+                  {
+                    "sku": "25",
+                    "title": "Okinalar Eldorado",
+                    "price": 0,
+                    "option_type_id": 20788584
+                  },
+                  {
+                    "sku": "26",
+                    "title": "Okinalar Santo Amaro",
+                    "price": 0,
+                    "option_type_id": 20788586
+                  },
+                  {
+                    "sku": "27",
+                    "title": "Okinalar Inamar",
+                    "price": 0,
+                    "option_type_id": 20788588
+                  },
+                  {
+                    "sku": "28",
+                    "title": "Palhoça Materiais",
+                    "price": 0,
+                    "option_type_id": 20788591
+                  },
+                  {
+                    "sku": "29",
+                    "title": "FOX - EPIs",
+                    "price": 0,
+                    "option_type_id": 20788593
+                  },
+                  {
+                    "sku": "30",
+                    "title": "Sátiro",
+                    "price": 0,
+                    "option_type_id": 20788595
+                  },
+                  {
+                    "sku": "31",
+                    "title": "Okinalar São Gonçalo",
+                    "price": 0,
+                    "option_type_id": 20788598
+                  },
+                  {
+                    "sku": "32",
+                    "title": "Okinalar Itaquá",
+                    "price": 0,
+                    "option_type_id": 20788601
+                  },
+                  {
+                    "sku": "33",
+                    "title": "Casa Amarela",
+                    "price": 0,
+                    "option_type_id": 20788604
+                  },
+                  {
+                    "sku": "34",
+                    "title": "São Bento lar",
+                    "price": 0,
+                    "option_type_id": 20788607
+                  },
+                  {
+                    "sku": "35",
+                    "title": "Casa de Ferragens Paulista",
+                    "price": 0,
+                    "option_type_id": 20788610
+                  },
+                  {
+                    "sku": "36",
+                    "title": "Okinalar Ekodama",
+                    "price": 0,
+                    "option_type_id": 20788612
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": 73963,
+      "sku": "397806_1",
+      "name": "Serra Tico-Tico Hammer 127V 500W | GYST500",
+      "stock_status": "IN_STOCK",
+      "url_key": "serra-tico-tico-hammer-127v-500w-gyst500-397806",
+      "small_image": {
+        "url": "https://backoffice.matconcasa.com.br/static/version1761251783/frontend/Matcon/matcon/pt_BR/Magento_Catalog/images/product/placeholder/small_image.jpg",
+        "label": "Serra Tico-Tico Hammer 127V 500W | GYST500"
+      },
+      "categories": [
+        {
+          "id": 2321,
+          "name": "Ferramentas Elétricas",
+          "url_key": "ferramentas-eletricas-e-pecas"
+        },
+        {
+          "id": 2896,
+          "name": "Ferramentas",
+          "url_key": "ferramentas"
+        },
+        {
+          "id": 3013,
+          "name": "Serra",
+          "url_key": "serra"
+        },
+        {
+          "id": 3421,
+          "name": "Produtos Mais Vendidos - Vitrine",
+          "url_key": "produtos-mais-vendidos"
+        }
+      ],
+      "price_range": {
+        "minimum_price": {
+          "discount": {
+            "percent_off": 0,
+            "amount_off": 0
+          },
+          "regular_price": {
+            "value": 128.52
+          },
+          "final_price": {
+            "value": 128.52,
+            "currency": "BRL"
+          }
+        }
+      },
+      "__typename": "ConfigurableProduct",
+      "variants": [
+        {
+          "product": {
+            "sku": "397806",
+            "small_image": {
+              "url": "https://backoffice.matconcasa.com.br/media/catalog/product/cache/263d3b7f14768baaeafe0b82c213dc1f/7/8/7897181960659.jpg"
+            },
+            "options": [
+              {
+                "option_id": 849835,
+                "title": "Vendor",
+                "required": false,
+                "radioValue": [
+                  {
+                    "sku": "1",
+                    "title": "Matcon.casa",
+                    "price": 0,
+                    "option_type_id": 20377707
+                  },
+                  {
+                    "sku": "2",
+                    "title": "Casa da Lavoura",
+                    "price": 0,
+                    "option_type_id": 20377708
+                  },
+                  {
+                    "sku": "3",
+                    "title": "Casa Safira",
+                    "price": 0,
+                    "option_type_id": 20377709
+                  },
+                  {
+                    "sku": "4",
+                    "title": "Santos Comercial",
+                    "price": 0,
+                    "option_type_id": 20377710
+                  },
+                  {
+                    "sku": "5",
+                    "title": "Claumar Materiais",
+                    "price": 0,
+                    "option_type_id": 20377711
+                  },
+                  {
+                    "sku": "6",
+                    "title": "Estrutural de Bauru",
+                    "price": 0,
+                    "option_type_id": 20377712
+                  },
+                  {
+                    "sku": "8",
+                    "title": "Okinalar Nordestina",
+                    "price": 0,
+                    "option_type_id": 20377713
+                  },
+                  {
+                    "sku": "9",
+                    "title": "Okinalar Águia de Haia",
+                    "price": 0,
+                    "option_type_id": 20377714
+                  },
+                  {
+                    "sku": "10",
+                    "title": "Elétrica ON",
+                    "price": 0,
+                    "option_type_id": 20377715
+                  },
+                  {
+                    "sku": "11",
+                    "title": "Gilfer",
+                    "price": 0,
+                    "option_type_id": 20377716
+                  },
+                  {
+                    "sku": "12",
+                    "title": "Okinalar Inoue",
+                    "price": 0,
+                    "option_type_id": 20377717
+                  },
+                  {
+                    "sku": "13",
+                    "title": "Cafer Comercial",
+                    "price": 0,
+                    "option_type_id": 20377718
+                  },
+                  {
+                    "sku": "14",
+                    "title": "Okinalar Tokusey ",
+                    "price": 0,
+                    "option_type_id": 20377719
+                  },
+                  {
+                    "sku": "15",
+                    "title": "Irmãos Yogui",
+                    "price": 0,
+                    "option_type_id": 20377720
+                  },
+                  {
+                    "sku": "16",
+                    "title": "R.T Comércio",
+                    "price": 0,
+                    "option_type_id": 20377721
+                  },
+                  {
+                    "sku": "17",
+                    "title": "Okinalar S.Komesu",
+                    "price": 0,
+                    "option_type_id": 20377722
+                  },
+                  {
+                    "sku": "18",
+                    "title": "Okinalar Claker",
+                    "price": 0,
+                    "option_type_id": 20377723
+                  },
+                  {
+                    "sku": "19",
+                    "title": "Construpratika",
+                    "price": 0,
+                    "option_type_id": 20377724
+                  },
+                  {
+                    "sku": "20",
+                    "title": "Okinalar Yervant",
+                    "price": 0,
+                    "option_type_id": 20377726
+                  },
+                  {
+                    "sku": "21",
+                    "title": "Okinalar Uehara",
+                    "price": 0,
+                    "option_type_id": 20377727
+                  },
+                  {
+                    "sku": "22",
+                    "title": "Okinalar Largo 13",
+                    "price": 0,
+                    "option_type_id": 20377729
+                  },
+                  {
+                    "sku": "23",
+                    "title": "Kiyodai",
+                    "price": 0,
+                    "option_type_id": 20377731
+                  },
+                  {
+                    "sku": "24",
+                    "title": "Okinalar Brás",
+                    "price": 0,
+                    "option_type_id": 20377733
+                  },
+                  {
+                    "sku": "25",
+                    "title": "Okinalar Eldorado",
+                    "price": 0,
+                    "option_type_id": 20377735
+                  },
+                  {
+                    "sku": "26",
+                    "title": "Okinalar Santo Amaro",
+                    "price": 0,
+                    "option_type_id": 20377737
+                  },
+                  {
+                    "sku": "27",
+                    "title": "Okinalar Inamar",
+                    "price": 0,
+                    "option_type_id": 20377739
+                  },
+                  {
+                    "sku": "28",
+                    "title": "Palhoça Materiais",
+                    "price": 0,
+                    "option_type_id": 20377741
+                  },
+                  {
+                    "sku": "29",
+                    "title": "FOX - EPIs",
+                    "price": 0,
+                    "option_type_id": 20377743
+                  },
+                  {
+                    "sku": "30",
+                    "title": "Sátiro",
+                    "price": 0,
+                    "option_type_id": 20377745
+                  },
+                  {
+                    "sku": "31",
+                    "title": "Okinalar São Gonçalo",
+                    "price": 0,
+                    "option_type_id": 20377747
+                  },
+                  {
+                    "sku": "32",
+                    "title": "Okinalar Itaquá",
+                    "price": 0,
+                    "option_type_id": 20377749
+                  },
+                  {
+                    "sku": "33",
+                    "title": "Casa Amarela",
+                    "price": 0,
+                    "option_type_id": 20377751
+                  },
+                  {
+                    "sku": "34",
+                    "title": "São Bento lar",
+                    "price": 0,
+                    "option_type_id": 20377753
+                  },
+                  {
+                    "sku": "35",
+                    "title": "Casa de Ferragens Paulista",
+                    "price": 0,
+                    "option_type_id": 20377755
+                  },
+                  {
+                    "sku": "36",
+                    "title": "Okinalar Ekodama",
+                    "price": 0,
+                    "option_type_id": 20377757
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": 67522,
+      "sku": "146617_1",
+      "name": "Grafite em Pó Emavi Bisnaga 25grs Cartelada G25E",
+      "stock_status": "IN_STOCK",
+      "url_key": "grafite-em-po-emavi-bisnaga-25grs-cartelada-g25e-146617",
+      "small_image": {
+        "url": "https://backoffice.matconcasa.com.br/static/version1761251783/frontend/Matcon/matcon/pt_BR/Magento_Catalog/images/product/placeholder/small_image.jpg",
+        "label": "Grafite em Pó Emavi Bisnaga 25grs Cartelada G25E"
+      },
+      "categories": [
+        {
+          "id": 1796,
+          "name": "Lubrificação",
+          "url_key": "lubrificacao"
+        },
+        {
+          "id": 1798,
+          "name": "Grafite",
+          "url_key": "grafite"
+        },
+        {
+          "id": 2893,
+          "name": "Automotivo",
+          "url_key": "automotivo"
+        },
+        {
+          "id": 3421,
+          "name": "Produtos Mais Vendidos - Vitrine",
+          "url_key": "produtos-mais-vendidos"
+        }
+      ],
+      "price_range": {
+        "minimum_price": {
+          "discount": {
+            "percent_off": 0,
+            "amount_off": 0
+          },
+          "regular_price": {
+            "value": 3.35
+          },
+          "final_price": {
+            "value": 3.35,
+            "currency": "BRL"
+          }
+        }
+      },
+      "__typename": "ConfigurableProduct",
+      "variants": [
+        {
+          "product": {
+            "sku": "146617",
+            "small_image": {
+              "url": "https://backoffice.matconcasa.com.br/media/catalog/product/cache/263d3b7f14768baaeafe0b82c213dc1f/7/8/7898315312566.jpg"
+            },
+            "options": [
+              {
+                "option_id": 851844,
+                "title": "Vendor",
+                "required": false,
+                "radioValue": [
+                  {
+                    "sku": "1",
+                    "title": "Matcon.casa",
+                    "price": 0,
+                    "option_type_id": 20448003
+                  },
+                  {
+                    "sku": "2",
+                    "title": "Casa da Lavoura",
+                    "price": 0,
+                    "option_type_id": 20448006
+                  },
+                  {
+                    "sku": "3",
+                    "title": "Casa Safira",
+                    "price": 0,
+                    "option_type_id": 20448008
+                  },
+                  {
+                    "sku": "4",
+                    "title": "Santos Comercial",
+                    "price": 0,
+                    "option_type_id": 20448011
+                  },
+                  {
+                    "sku": "5",
+                    "title": "Claumar Materiais",
+                    "price": 0,
+                    "option_type_id": 20448013
+                  },
+                  {
+                    "sku": "6",
+                    "title": "Estrutural de Bauru",
+                    "price": 0,
+                    "option_type_id": 20448015
+                  },
+                  {
+                    "sku": "8",
+                    "title": "Okinalar Nordestina",
+                    "price": 0,
+                    "option_type_id": 20448017
+                  },
+                  {
+                    "sku": "9",
+                    "title": "Okinalar Águia de Haia",
+                    "price": 0,
+                    "option_type_id": 20448022
+                  },
+                  {
+                    "sku": "10",
+                    "title": "Elétrica ON",
+                    "price": 0,
+                    "option_type_id": 20448024
+                  },
+                  {
+                    "sku": "11",
+                    "title": "Gilfer",
+                    "price": 0,
+                    "option_type_id": 20448027
+                  },
+                  {
+                    "sku": "12",
+                    "title": "Okinalar Inoue",
+                    "price": 0,
+                    "option_type_id": 20448031
+                  },
+                  {
+                    "sku": "13",
+                    "title": "Cafer Comercial",
+                    "price": 0,
+                    "option_type_id": 20448034
+                  },
+                  {
+                    "sku": "14",
+                    "title": "Okinalar Tokusey ",
+                    "price": 0,
+                    "option_type_id": 20448037
+                  },
+                  {
+                    "sku": "15",
+                    "title": "Irmãos Yogui",
+                    "price": 0,
+                    "option_type_id": 20448041
+                  },
+                  {
+                    "sku": "16",
+                    "title": "R.T Comércio",
+                    "price": 0,
+                    "option_type_id": 20448043
+                  },
+                  {
+                    "sku": "17",
+                    "title": "Okinalar S.Komesu",
+                    "price": 0,
+                    "option_type_id": 20448048
+                  },
+                  {
+                    "sku": "18",
+                    "title": "Okinalar Claker",
+                    "price": 0,
+                    "option_type_id": 20448050
+                  },
+                  {
+                    "sku": "19",
+                    "title": "Construpratika",
+                    "price": 0,
+                    "option_type_id": 20448052
+                  },
+                  {
+                    "sku": "20",
+                    "title": "Okinalar Yervant",
+                    "price": 0,
+                    "option_type_id": 20448054
+                  },
+                  {
+                    "sku": "21",
+                    "title": "Okinalar Uehara",
+                    "price": 0,
+                    "option_type_id": 20448057
+                  },
+                  {
+                    "sku": "22",
+                    "title": "Okinalar Largo 13",
+                    "price": 0,
+                    "option_type_id": 20448060
+                  },
+                  {
+                    "sku": "23",
+                    "title": "Kiyodai",
+                    "price": 0,
+                    "option_type_id": 20448063
+                  },
+                  {
+                    "sku": "24",
+                    "title": "Okinalar Brás",
+                    "price": 0,
+                    "option_type_id": 20448066
+                  },
+                  {
+                    "sku": "25",
+                    "title": "Okinalar Eldorado",
+                    "price": 0,
+                    "option_type_id": 20448069
+                  },
+                  {
+                    "sku": "26",
+                    "title": "Okinalar Santo Amaro",
+                    "price": 0,
+                    "option_type_id": 20448072
+                  },
+                  {
+                    "sku": "27",
+                    "title": "Okinalar Inamar",
+                    "price": 0,
+                    "option_type_id": 20448075
+                  },
+                  {
+                    "sku": "28",
+                    "title": "Palhoça Materiais",
+                    "price": 0,
+                    "option_type_id": 20448078
+                  },
+                  {
+                    "sku": "29",
+                    "title": "FOX - EPIs",
+                    "price": 0,
+                    "option_type_id": 20448081
+                  },
+                  {
+                    "sku": "30",
+                    "title": "Sátiro",
+                    "price": 0,
+                    "option_type_id": 20448084
+                  },
+                  {
+                    "sku": "31",
+                    "title": "Okinalar São Gonçalo",
+                    "price": 0,
+                    "option_type_id": 20448087
+                  },
+                  {
+                    "sku": "32",
+                    "title": "Okinalar Itaquá",
+                    "price": 0,
+                    "option_type_id": 20448089
+                  },
+                  {
+                    "sku": "33",
+                    "title": "Casa Amarela",
+                    "price": 0,
+                    "option_type_id": 20448092
+                  },
+                  {
+                    "sku": "34",
+                    "title": "São Bento lar",
+                    "price": 0,
+                    "option_type_id": 20448095
+                  },
+                  {
+                    "sku": "35",
+                    "title": "Casa de Ferragens Paulista",
+                    "price": 0,
+                    "option_type_id": 20448099
+                  },
+                  {
+                    "sku": "36",
+                    "title": "Okinalar Ekodama",
+                    "price": 0,
+                    "option_type_id": 20448102
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": 75945,
+      "sku": "224421_1",
+      "name": "Chave Nh Cebel Seccionadora com Carga 03/630A 100014",
+      "stock_status": "IN_STOCK",
+      "url_key": "chave-nh-cebel-seccionadora-com-carga-03-630a-100014-224421",
+      "small_image": {
+        "url": "https://backoffice.matconcasa.com.br/static/version1761251783/frontend/Matcon/matcon/pt_BR/Magento_Catalog/images/product/placeholder/small_image.jpg",
+        "label": "Chave Nh Cebel Seccionadora com Carga 03/630A 100014"
+      },
+      "categories": [
+        {
+          "id": 2462,
+          "name": "Materiais de Construção",
+          "url_key": "materiais-de-construcao"
+        },
+        {
+          "id": 2647,
+          "name": "Elétrica",
+          "url_key": "eletrica"
+        },
+        {
+          "id": 3289,
+          "name": "Chave",
+          "url_key": "chave"
+        },
+        {
+          "id": 3421,
+          "name": "Produtos Mais Vendidos - Vitrine",
+          "url_key": "produtos-mais-vendidos"
+        }
+      ],
+      "price_range": {
+        "minimum_price": {
+          "discount": {
+            "percent_off": 0,
+            "amount_off": 0
+          },
+          "regular_price": {
+            "value": 2934.54
+          },
+          "final_price": {
+            "value": 2934.54,
+            "currency": "BRL"
+          }
+        }
+      },
+      "__typename": "ConfigurableProduct",
+      "variants": [
+        {
+          "product": {
+            "sku": "224421",
+            "small_image": {
+              "url": "https://backoffice.matconcasa.com.br/media/catalog/product/cache/263d3b7f14768baaeafe0b82c213dc1f/7/8/7898552829117.jpg"
+            },
+            "options": [
+              {
+                "option_id": 854168,
+                "title": "Vendor",
+                "required": false,
+                "radioValue": [
+                  {
+                    "sku": "1",
+                    "title": "Matcon.casa",
+                    "price": 0,
+                    "option_type_id": 20529308
+                  },
+                  {
+                    "sku": "2",
+                    "title": "Casa da Lavoura",
+                    "price": 0,
+                    "option_type_id": 20529313
+                  },
+                  {
+                    "sku": "3",
+                    "title": "Casa Safira",
+                    "price": 0,
+                    "option_type_id": 20529316
+                  },
+                  {
+                    "sku": "4",
+                    "title": "Santos Comercial",
+                    "price": 0,
+                    "option_type_id": 20529319
+                  },
+                  {
+                    "sku": "5",
+                    "title": "Claumar Materiais",
+                    "price": 0,
+                    "option_type_id": 20529322
+                  },
+                  {
+                    "sku": "6",
+                    "title": "Estrutural de Bauru",
+                    "price": 0,
+                    "option_type_id": 20529329
+                  },
+                  {
+                    "sku": "8",
+                    "title": "Okinalar Nordestina",
+                    "price": 0,
+                    "option_type_id": 20529334
+                  },
+                  {
+                    "sku": "9",
+                    "title": "Okinalar Águia de Haia",
+                    "price": 0,
+                    "option_type_id": 20529337
+                  },
+                  {
+                    "sku": "10",
+                    "title": "Elétrica ON",
+                    "price": 0,
+                    "option_type_id": 20529340
+                  },
+                  {
+                    "sku": "11",
+                    "title": "Gilfer",
+                    "price": 0,
+                    "option_type_id": 20529343
+                  },
+                  {
+                    "sku": "12",
+                    "title": "Okinalar Inoue",
+                    "price": 0,
+                    "option_type_id": 20529346
+                  },
+                  {
+                    "sku": "13",
+                    "title": "Cafer Comercial",
+                    "price": 0,
+                    "option_type_id": 20529349
+                  },
+                  {
+                    "sku": "14",
+                    "title": "Okinalar Tokusey ",
+                    "price": 0,
+                    "option_type_id": 20529352
+                  },
+                  {
+                    "sku": "15",
+                    "title": "Irmãos Yogui",
+                    "price": 0,
+                    "option_type_id": 20529355
+                  },
+                  {
+                    "sku": "16",
+                    "title": "R.T Comércio",
+                    "price": 0,
+                    "option_type_id": 20529358
+                  },
+                  {
+                    "sku": "17",
+                    "title": "Okinalar S.Komesu",
+                    "price": 0,
+                    "option_type_id": 20529361
+                  },
+                  {
+                    "sku": "18",
+                    "title": "Okinalar Claker",
+                    "price": 0,
+                    "option_type_id": 20529364
+                  },
+                  {
+                    "sku": "19",
+                    "title": "Construpratika",
+                    "price": 0,
+                    "option_type_id": 20529367
+                  },
+                  {
+                    "sku": "20",
+                    "title": "Okinalar Yervant",
+                    "price": 0,
+                    "option_type_id": 20529370
+                  },
+                  {
+                    "sku": "21",
+                    "title": "Okinalar Uehara",
+                    "price": 0,
+                    "option_type_id": 20529373
+                  },
+                  {
+                    "sku": "22",
+                    "title": "Okinalar Largo 13",
+                    "price": 0,
+                    "option_type_id": 20529376
+                  },
+                  {
+                    "sku": "23",
+                    "title": "Kiyodai",
+                    "price": 0,
+                    "option_type_id": 20529377
+                  },
+                  {
+                    "sku": "24",
+                    "title": "Okinalar Brás",
+                    "price": 0,
+                    "option_type_id": 20529380
+                  },
+                  {
+                    "sku": "25",
+                    "title": "Okinalar Eldorado",
+                    "price": 0,
+                    "option_type_id": 20529382
+                  },
+                  {
+                    "sku": "26",
+                    "title": "Okinalar Santo Amaro",
+                    "price": 0,
+                    "option_type_id": 20529384
+                  },
+                  {
+                    "sku": "27",
+                    "title": "Okinalar Inamar",
+                    "price": 0,
+                    "option_type_id": 20529386
+                  },
+                  {
+                    "sku": "28",
+                    "title": "Palhoça Materiais",
+                    "price": 0,
+                    "option_type_id": 20529388
+                  },
+                  {
+                    "sku": "29",
+                    "title": "FOX - EPIs",
+                    "price": 0,
+                    "option_type_id": 20529389
+                  },
+                  {
+                    "sku": "30",
+                    "title": "Sátiro",
+                    "price": 0,
+                    "option_type_id": 20529390
+                  },
+                  {
+                    "sku": "31",
+                    "title": "Okinalar São Gonçalo",
+                    "price": 0,
+                    "option_type_id": 20529391
+                  },
+                  {
+                    "sku": "32",
+                    "title": "Okinalar Itaquá",
+                    "price": 0,
+                    "option_type_id": 20529392
+                  },
+                  {
+                    "sku": "33",
+                    "title": "Casa Amarela",
+                    "price": 0,
+                    "option_type_id": 20529393
+                  },
+                  {
+                    "sku": "34",
+                    "title": "São Bento lar",
+                    "price": 0,
+                    "option_type_id": 20529394
+                  },
+                  {
+                    "sku": "35",
+                    "title": "Casa de Ferragens Paulista",
+                    "price": 0,
+                    "option_type_id": 20529395
+                  },
+                  {
+                    "sku": "36",
+                    "title": "Okinalar Ekodama",
+                    "price": 0,
+                    "option_type_id": 20529396
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": 90964,
+      "sku": "309907_1",
+      "name": "Torneira Boia Garden 1/2\" Boia Latão 11350LE",
+      "stock_status": "IN_STOCK",
+      "url_key": "torneira-boia-garden-1-2-boia-lat-o-11350le-309907",
+      "small_image": {
+        "url": "https://backoffice.matconcasa.com.br/static/version1761251783/frontend/Matcon/matcon/pt_BR/Magento_Catalog/images/product/placeholder/small_image.jpg",
+        "label": "Torneira Boia Garden 1/2\" Boia Latão 11350LE"
+      },
+      "categories": [
+        {
+          "id": 1835,
+          "name": "Torneira",
+          "url_key": "torneira"
+        },
+        {
+          "id": 1837,
+          "name": "Torneira Boia",
+          "url_key": "torneira-boia"
+        },
+        {
+          "id": 2895,
+          "name": "Banheiro",
+          "url_key": "banheiro"
+        },
+        {
+          "id": 3421,
+          "name": "Produtos Mais Vendidos - Vitrine",
+          "url_key": "produtos-mais-vendidos"
+        }
+      ],
+      "price_range": {
+        "minimum_price": {
+          "discount": {
+            "percent_off": 0,
+            "amount_off": 0
+          },
+          "regular_price": {
+            "value": 109.42
+          },
+          "final_price": {
+            "value": 109.42,
+            "currency": "BRL"
+          }
+        }
+      },
+      "__typename": "ConfigurableProduct",
+      "variants": [
+        {
+          "product": {
+            "sku": "309907",
+            "small_image": {
+              "url": "https://backoffice.matconcasa.com.br/media/catalog/product/cache/263d3b7f14768baaeafe0b82c213dc1f/7/8/7893308000109.jpg"
+            },
+            "options": [
+              {
+                "option_id": 856950,
+                "title": "Vendor",
+                "required": false,
+                "radioValue": [
+                  {
+                    "sku": "1",
+                    "title": "Matcon.casa",
+                    "price": 0,
+                    "option_type_id": 20626678
+                  },
+                  {
+                    "sku": "2",
+                    "title": "Casa da Lavoura",
+                    "price": 0,
+                    "option_type_id": 20626681
+                  },
+                  {
+                    "sku": "3",
+                    "title": "Casa Safira",
+                    "price": 0,
+                    "option_type_id": 20626684
+                  },
+                  {
+                    "sku": "4",
+                    "title": "Santos Comercial",
+                    "price": 0,
+                    "option_type_id": 20626687
+                  },
+                  {
+                    "sku": "5",
+                    "title": "Claumar Materiais",
+                    "price": 0,
+                    "option_type_id": 20626690
+                  },
+                  {
+                    "sku": "6",
+                    "title": "Estrutural de Bauru",
+                    "price": 0,
+                    "option_type_id": 20626692
+                  },
+                  {
+                    "sku": "8",
+                    "title": "Okinalar Nordestina",
+                    "price": 0,
+                    "option_type_id": 20626695
+                  },
+                  {
+                    "sku": "9",
+                    "title": "Okinalar Águia de Haia",
+                    "price": 0,
+                    "option_type_id": 20626699
+                  },
+                  {
+                    "sku": "10",
+                    "title": "Elétrica ON",
+                    "price": 0,
+                    "option_type_id": 20626701
+                  },
+                  {
+                    "sku": "11",
+                    "title": "Gilfer",
+                    "price": 0,
+                    "option_type_id": 20626705
+                  },
+                  {
+                    "sku": "12",
+                    "title": "Okinalar Inoue",
+                    "price": 0,
+                    "option_type_id": 20626707
+                  },
+                  {
+                    "sku": "13",
+                    "title": "Cafer Comercial",
+                    "price": 0,
+                    "option_type_id": 20626710
+                  },
+                  {
+                    "sku": "14",
+                    "title": "Okinalar Tokusey ",
+                    "price": 0,
+                    "option_type_id": 20626712
+                  },
+                  {
+                    "sku": "15",
+                    "title": "Irmãos Yogui",
+                    "price": 0,
+                    "option_type_id": 20626715
+                  },
+                  {
+                    "sku": "16",
+                    "title": "R.T Comércio",
+                    "price": 0,
+                    "option_type_id": 20626719
+                  },
+                  {
+                    "sku": "17",
+                    "title": "Okinalar S.Komesu",
+                    "price": 0,
+                    "option_type_id": 20626722
+                  },
+                  {
+                    "sku": "18",
+                    "title": "Okinalar Claker",
+                    "price": 0,
+                    "option_type_id": 20626725
+                  },
+                  {
+                    "sku": "19",
+                    "title": "Construpratika",
+                    "price": 0,
+                    "option_type_id": 20626728
+                  },
+                  {
+                    "sku": "20",
+                    "title": "Okinalar Yervant",
+                    "price": 0,
+                    "option_type_id": 20626730
+                  },
+                  {
+                    "sku": "21",
+                    "title": "Okinalar Uehara",
+                    "price": 0,
+                    "option_type_id": 20626733
+                  },
+                  {
+                    "sku": "22",
+                    "title": "Okinalar Largo 13",
+                    "price": 0,
+                    "option_type_id": 20626735
+                  },
+                  {
+                    "sku": "23",
+                    "title": "Kiyodai",
+                    "price": 0,
+                    "option_type_id": 20626738
+                  },
+                  {
+                    "sku": "24",
+                    "title": "Okinalar Brás",
+                    "price": 0,
+                    "option_type_id": 20626742
+                  },
+                  {
+                    "sku": "25",
+                    "title": "Okinalar Eldorado",
+                    "price": 0,
+                    "option_type_id": 20626745
+                  },
+                  {
+                    "sku": "26",
+                    "title": "Okinalar Santo Amaro",
+                    "price": 0,
+                    "option_type_id": 20626748
+                  },
+                  {
+                    "sku": "27",
+                    "title": "Okinalar Inamar",
+                    "price": 0,
+                    "option_type_id": 20626751
+                  },
+                  {
+                    "sku": "28",
+                    "title": "Palhoça Materiais",
+                    "price": 0,
+                    "option_type_id": 20626754
+                  },
+                  {
+                    "sku": "29",
+                    "title": "FOX - EPIs",
+                    "price": 0,
+                    "option_type_id": 20626757
+                  },
+                  {
+                    "sku": "30",
+                    "title": "Sátiro",
+                    "price": 0,
+                    "option_type_id": 20626759
+                  },
+                  {
+                    "sku": "31",
+                    "title": "Okinalar São Gonçalo",
+                    "price": 0,
+                    "option_type_id": 20626761
+                  },
+                  {
+                    "sku": "32",
+                    "title": "Okinalar Itaquá",
+                    "price": 0,
+                    "option_type_id": 20626762
+                  },
+                  {
+                    "sku": "33",
+                    "title": "Casa Amarela",
+                    "price": 0,
+                    "option_type_id": 20626763
+                  },
+                  {
+                    "sku": "34",
+                    "title": "São Bento lar",
+                    "price": 0,
+                    "option_type_id": 20626764
+                  },
+                  {
+                    "sku": "35",
+                    "title": "Casa de Ferragens Paulista",
+                    "price": 0,
+                    "option_type_id": 20626765
+                  },
+                  {
+                    "sku": "36",
+                    "title": "Okinalar Ekodama",
+                    "price": 0,
+                    "option_type_id": 20626766
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": 73960,
+      "sku": "397792_1",
+      "name": "Serra Tico-Tico Hammer 220V 400W | GYST400",
+      "stock_status": "IN_STOCK",
+      "url_key": "serra-tico-tico-hammer-220v-400w-gyst400-397792",
+      "small_image": {
+        "url": "https://backoffice.matconcasa.com.br/static/version1761251783/frontend/Matcon/matcon/pt_BR/Magento_Catalog/images/product/placeholder/small_image.jpg",
+        "label": "Serra Tico-Tico Hammer 220V 400W | GYST400"
+      },
+      "categories": [
+        {
+          "id": 2321,
+          "name": "Ferramentas Elétricas",
+          "url_key": "ferramentas-eletricas-e-pecas"
+        },
+        {
+          "id": 2896,
+          "name": "Ferramentas",
+          "url_key": "ferramentas"
+        },
+        {
+          "id": 3013,
+          "name": "Serra",
+          "url_key": "serra"
+        },
+        {
+          "id": 3421,
+          "name": "Produtos Mais Vendidos - Vitrine",
+          "url_key": "produtos-mais-vendidos"
+        },
+        {
+          "id": 3694,
+          "name": "Ofertas da semana",
+          "url_key": "ofertas-da-semana"
+        }
+      ],
+      "price_range": {
+        "minimum_price": {
+          "discount": {
+            "percent_off": 0,
+            "amount_off": 0
+          },
+          "regular_price": {
+            "value": 128.52
+          },
+          "final_price": {
+            "value": 128.52,
+            "currency": "BRL"
+          }
+        }
+      },
+      "__typename": "ConfigurableProduct",
+      "variants": [
+        {
+          "product": {
+            "sku": "397792",
+            "small_image": {
+              "url": "https://backoffice.matconcasa.com.br/media/catalog/product/cache/263d3b7f14768baaeafe0b82c213dc1f/7/8/7897181961137_1.jpg"
+            },
+            "options": [
+              {
+                "option_id": 850245,
+                "title": "Vendor",
+                "required": false,
+                "radioValue": [
+                  {
+                    "sku": "1",
+                    "title": "Matcon.casa",
+                    "price": 0,
+                    "option_type_id": 20392057
+                  },
+                  {
+                    "sku": "2",
+                    "title": "Casa da Lavoura",
+                    "price": 0,
+                    "option_type_id": 20392058
+                  },
+                  {
+                    "sku": "3",
+                    "title": "Casa Safira",
+                    "price": 0,
+                    "option_type_id": 20392059
+                  },
+                  {
+                    "sku": "4",
+                    "title": "Santos Comercial",
+                    "price": 0,
+                    "option_type_id": 20392060
+                  },
+                  {
+                    "sku": "5",
+                    "title": "Claumar Materiais",
+                    "price": 0,
+                    "option_type_id": 20392061
+                  },
+                  {
+                    "sku": "6",
+                    "title": "Estrutural de Bauru",
+                    "price": 0,
+                    "option_type_id": 20392062
+                  },
+                  {
+                    "sku": "8",
+                    "title": "Okinalar Nordestina",
+                    "price": 0,
+                    "option_type_id": 20392063
+                  },
+                  {
+                    "sku": "9",
+                    "title": "Okinalar Águia de Haia",
+                    "price": 0,
+                    "option_type_id": 20392064
+                  },
+                  {
+                    "sku": "10",
+                    "title": "Elétrica ON",
+                    "price": 0,
+                    "option_type_id": 20392065
+                  },
+                  {
+                    "sku": "11",
+                    "title": "Gilfer",
+                    "price": 0,
+                    "option_type_id": 20392066
+                  },
+                  {
+                    "sku": "12",
+                    "title": "Okinalar Inoue",
+                    "price": 0,
+                    "option_type_id": 20392067
+                  },
+                  {
+                    "sku": "13",
+                    "title": "Cafer Comercial",
+                    "price": 0,
+                    "option_type_id": 20392068
+                  },
+                  {
+                    "sku": "14",
+                    "title": "Okinalar Tokusey ",
+                    "price": 0,
+                    "option_type_id": 20392069
+                  },
+                  {
+                    "sku": "15",
+                    "title": "Irmãos Yogui",
+                    "price": 0,
+                    "option_type_id": 20392070
+                  },
+                  {
+                    "sku": "16",
+                    "title": "R.T Comércio",
+                    "price": 0,
+                    "option_type_id": 20392071
+                  },
+                  {
+                    "sku": "17",
+                    "title": "Okinalar S.Komesu",
+                    "price": 0,
+                    "option_type_id": 20392072
+                  },
+                  {
+                    "sku": "18",
+                    "title": "Okinalar Claker",
+                    "price": 0,
+                    "option_type_id": 20392073
+                  },
+                  {
+                    "sku": "19",
+                    "title": "Construpratika",
+                    "price": 0,
+                    "option_type_id": 20392074
+                  },
+                  {
+                    "sku": "20",
+                    "title": "Okinalar Yervant",
+                    "price": 0,
+                    "option_type_id": 20392075
+                  },
+                  {
+                    "sku": "21",
+                    "title": "Okinalar Uehara",
+                    "price": 0,
+                    "option_type_id": 20392076
+                  },
+                  {
+                    "sku": "22",
+                    "title": "Okinalar Largo 13",
+                    "price": 0,
+                    "option_type_id": 20392077
+                  },
+                  {
+                    "sku": "23",
+                    "title": "Kiyodai",
+                    "price": 0,
+                    "option_type_id": 20392078
+                  },
+                  {
+                    "sku": "24",
+                    "title": "Okinalar Brás",
+                    "price": 0,
+                    "option_type_id": 20392079
+                  },
+                  {
+                    "sku": "25",
+                    "title": "Okinalar Eldorado",
+                    "price": 0,
+                    "option_type_id": 20392080
+                  },
+                  {
+                    "sku": "26",
+                    "title": "Okinalar Santo Amaro",
+                    "price": 0,
+                    "option_type_id": 20392081
+                  },
+                  {
+                    "sku": "27",
+                    "title": "Okinalar Inamar",
+                    "price": 0,
+                    "option_type_id": 20392082
+                  },
+                  {
+                    "sku": "28",
+                    "title": "Palhoça Materiais",
+                    "price": 0,
+                    "option_type_id": 20392083
+                  },
+                  {
+                    "sku": "29",
+                    "title": "FOX - EPIs",
+                    "price": 0,
+                    "option_type_id": 20392084
+                  },
+                  {
+                    "sku": "30",
+                    "title": "Sátiro",
+                    "price": 0,
+                    "option_type_id": 20392085
+                  },
+                  {
+                    "sku": "31",
+                    "title": "Okinalar São Gonçalo",
+                    "price": 0,
+                    "option_type_id": 20392086
+                  },
+                  {
+                    "sku": "32",
+                    "title": "Okinalar Itaquá",
+                    "price": 0,
+                    "option_type_id": 20392087
+                  },
+                  {
+                    "sku": "33",
+                    "title": "Casa Amarela",
+                    "price": 0,
+                    "option_type_id": 20392088
+                  },
+                  {
+                    "sku": "34",
+                    "title": "São Bento lar",
+                    "price": 0,
+                    "option_type_id": 20392089
+                  },
+                  {
+                    "sku": "35",
+                    "title": "Casa de Ferragens Paulista",
+                    "price": 0,
+                    "option_type_id": 20392090
+                  },
+                  {
+                    "sku": "36",
+                    "title": "Okinalar Ekodama",
+                    "price": 0,
+                    "option_type_id": 20392091
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

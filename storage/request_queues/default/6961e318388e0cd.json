@@ -1,0 +1,17 @@
+{
+  "unique_key": "https://www.matconcasa.com.br/produto/cuba-embutir-quadrada-deca-louca-40cm-branco-l3104017-413318",
+  "url": "https://www.matconcasa.com.br/produto/cuba-embutir-quadrada-deca-louca-40cm-branco-l3104017-413318",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 3,
+      "sessionRotationCount": 3
+    }
+  },
+  "retry_count": 2,
+  "no_retry": false,
+  "loaded_url": "https://www.matconcasa.com.br/produto/cuba-embutir-quadrada-deca-louca-40cm-branco-l3104017-413318",
+  "handled_at": "2025-10-30 12:42:35.043919+00:00"
+}

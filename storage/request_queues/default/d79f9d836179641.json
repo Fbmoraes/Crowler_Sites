@@ -1,0 +1,16 @@
+{
+  "unique_key": "https://www.matconcasa.com.br/produto/esmerilhadeira-black-decker-angular-4-1-2-g650-220v-560w-g650-b2-403658",
+  "url": "https://www.matconcasa.com.br/produto/esmerilhadeira-black-decker-angular-4-1-2-g650-220v-560w-g650-b2-403658",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 3
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": "https://www.matconcasa.com.br/produto/esmerilhadeira-black-decker-angular-4-1-2-g650-220v-560w-g650-b2-403658",
+  "handled_at": "2025-10-30 12:41:30.696371+00:00"
+}

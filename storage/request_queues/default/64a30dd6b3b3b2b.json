@@ -1,0 +1,16 @@
+{
+  "unique_key": "https://www.matconcasa.com.br/produto/compressor-mini-ferrari-turbo-12v-aec2010002-318930",
+  "url": "https://www.matconcasa.com.br/produto/compressor-mini-ferrari-turbo-12v-aec2010002-318930",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    }
+  },
+  "retry_count": 2,
+  "no_retry": false,
+  "loaded_url": "https://www.matconcasa.com.br/produto/compressor-mini-ferrari-turbo-12v-aec2010002-318930",
+  "handled_at": "2025-10-30 12:42:17.378462+00:00"
+}

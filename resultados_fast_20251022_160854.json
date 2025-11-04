@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "abortado": true,
+    "razao_abort": "Performance: 1.399s/produto > 0.300s.\n800 produtos: 18.6min (meta: 2min).\nABORTANDO para otimizar.",
+    "total": 17,
+    "sucesso": 17,
+    "tempo_total": 20.380406,
+    "avg_tempo": 1.1988474117647059
+  },
+  "produtos": [
+    {
+      "url": "https://www.matconcasa.com.br/produto/soquete-excellent-bits-com-catraca-encaixe-1-4-e-3-8-com-40-pecas-8zi-402602",
+      "tempo": 0.5603702068328857,
+      "nome": "Soquete Excellent Bits com Catraca Encaixe 1/4 e 3/8 com 40 Peças 8ZI",
+      "preco": "61.72",
+      "preco_original": "74.29",
+      "imagens": 3
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/plaina-makita-220v-620w-kp0800-220v-kp0800-220v-86037",
+      "tempo": 0.5798678398132324,
+      "nome": "Plaina Makita 220V 620W KP0800-220V | KP0800-220V",
+      "preco": "1045.56",
+      "preco_original": null,
+      "imagens": 3
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/compressor-de-ar-ferrari-megajet-3-2l-bivolt-aac1020007-251658",
+      "tempo": 0.868297815322876,
+      "nome": "Compressor de Ar FERRARI Megajet 3.2L Bivolt | AAC1020007",
+      "preco": "838.18",
+      "preco_original": null,
+      "imagens": 3
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/torques-berg-armador-12-5648512-91073",
+      "tempo": 0.911414623260498,
+      "nome": "Torques Berg Armador 12\" 5648512",
+      "preco": "49.37",
+      "preco_original": "61.71",
+      "imagens": 3
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/furadeira-makita-de-impacto-1-2-1010w-220v-hp2070-220v-281700",
+      "tempo": 0.5898149013519287,
+      "nome": "Furadeira Makita de Impacto 1/2\" 1010W 220V | HP2070-220V",
+      "preco": "2463.73",
+      "preco_original": "2706.38",
+      "imagens": 3
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/chave-nh-cebel-seccionadora-sem-carga-02-400a-100010-41769",
+      "tempo": 0.8662159442901611,
+      "nome": "Chave Nh Cebel Seccionadora sem Carga 02/400A 100010",
+      "preco": "1830.63",
+      "preco_original": "2086.70",
+      "imagens": 3
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/tupia-laminadora-makita-1-4-530w-127v-3709127v-250228",
+      "tempo": 0.8926150798797607,
+      "nome": "Tupia Laminadora Makita 1/4\" 530W 127V | 3709127V",
+      "preco": "510.19",
+      "preco_original": null,
+      "imagens": 3
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/fio-solido-sil-6-0mm-preto-100m-00001020002106-37583",
+      "tempo": 0.8041274547576904,
+      "nome": "Fio Sólido SIL 6.0mm Preto 100m | 00001020002106",
+      "preco": "861.50",
+      "preco_original": null,
+      "imagens": 3
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/furadeira-dewalt-impacto-1-2-220v-710w-dwd502b2-403672",
+      "tempo": 0.5996065139770508,
+      "nome": "Furadeira Dewalt Impacto 1/2\" 220V 710W DWD502B2",
+      "preco": "399.00",
+      "preco_original": "486.18",
+      "imagens": 3
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/ventilador-parede-ventisol-60cm-preto-127v-147w-490-333336",
+      "tempo": 0.6048476696014404,
+      "nome": "Ventilador Parede Ventisol 60cm Preto 127V 147W | 490",
+      "preco": "259.40",
+      "preco_original": "324.25",
+      "imagens": 3
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/ventilador-de-teto-ventidelta-new-light-led-3-pas-preto-220v-38-3223-412511",
+      "tempo": 0.6122233867645264,
+      "nome": "Ventilador de Teto Ventidelta New Light LED 3 Pás Preto 220V | 38-3223",
+      "preco": "340.99",
+      "preco_original": null,
+      "imagens": 3
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/ferro-soldar-hikari-machadinha-250x220v-21k023-283940",
+      "tempo": 0.616229772567749,
+      "nome": "Ferro Soldar Hikari Machadinha 250x220V 21K023",
+      "preco": "329.55",
+      "preco_original": null,
+      "imagens": 3
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/bateria-makita-universal-12v-4-0ah-li-ion-1974070-404929",
+      "tempo": 0.6089572906494141,
+      "nome": "Bateria Makita Universal 12V 4.0Ah Li-Ion | 1974070",
+      "preco": "559.67",
+      "preco_original": null,
+      "imagens": 3
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/aquecedor-de-agua-lorenzetti-maxi-ultra-220v-5500w-7560046-407933",
+      "tempo": 0.616828203201294,
+      "nome": "Aquecedor de Água Lorenzetti - Maxi Ultra 220V 5500W | 7560046",
+      "preco": "218.70",
+      "preco_original": "266.49",
+      "imagens": 3
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/fio-cabo-pp-sil-4x-6-00mm-1kv-100m-00049039002106-179051",
+      "tempo": 0.6312029361724854,
+      "nome": "Fio Cabo PP Sil 4X 6.00MM 1KV 100M | 00049039002106",
+      "preco": "3484.76",
+      "preco_original": null,
+      "imagens": 3
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/furadeira-parafusadeira-black-decker-3-8-12v-bateria-com-13-acessorios-ld12s-br-403644",
+      "tempo": 0.7948806285858154,
+      "nome": "Furadeira/Parafusadeira Black & Decker 3/8\"12V Bateria com 13 Acessórios | LD12S-BR",
+      "preco": "266.30",
+      "preco_original": "324.49",
+      "imagens": 3
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/serra-marmore-makita-220v-1300w-sem-maleta-4100nh3z-220v-344516",
+      "tempo": 2.856163740158081,
+      "nome": "Serra Marmore Makita 220V 1300W sem Maleta 4100NH3Z-220V",
+      "preco": "633.62",
+      "preco_original": null,
+      "imagens": 3
+    }
+  ]
+}

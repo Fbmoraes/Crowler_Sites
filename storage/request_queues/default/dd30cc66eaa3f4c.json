@@ -1,0 +1,17 @@
+{
+  "unique_key": "https://www.matconcasa.com.br/produto/cadeado-segredo-stam-25mm-zamac-3-digitos-501-44385",
+  "url": "https://www.matconcasa.com.br/produto/cadeado-segredo-stam-25mm-zamac-3-digitos-501-44385",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 3,
+      "sessionRotationCount": 1
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": "https://www.matconcasa.com.br/produto/cadeado-segredo-stam-25mm-zamac-3-digitos-501-44385",
+  "handled_at": "2025-10-30 12:42:02.430956+00:00"
+}

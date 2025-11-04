@@ -1,0 +1,9 @@
+{
+  "id": 44,
+  "identifier": "site-barra-frete-topo",
+  "title": "site-barra-frete-topo",
+  "content": "<table style=\"border-collapse: collapse; width: 100%; height: 108px;\" border=\"1\">\r\n<tbody>\r\n<tr style=\"height: 18px; background: black; color: white;\">\r\n<td style=\"width: 25.016%; height: 18px;\">Nome</td>\r\n<td style=\"width: 74.984%; height: 18px;\">Valor</td>\r\n</tr>\r\n<tr style=\"height: 18px;\">\r\n<td style=\"width: 25.016%; height: 18px;\">valor</td>\r\n<td style=\"width: 74.984%; height: 18px;\">0</td>\r\n</tr>\r\n<tr style=\"height: 18px;\">\r\n<td style=\"width: 25.016%; height: 18px;\">cor_de_fundo</td>\r\n<td style=\"width: 74.984%; height: 18px;\">#00785C</td>\r\n</tr>\r\n<tr style=\"height: 18px;\">\r\n<td style=\"width: 25.016%; height: 18px;\">cor_texto</td>\r\n<td style=\"width: 74.984%; height: 18px;\">#FFFFFF</td>\r\n</tr>\r\n<tr style=\"height: 18px;\">\r\n<td style=\"width: 25.016%; height: 18px;\">cor_de_fundo_barra_progresso</td>\r\n<td style=\"width: 74.984%; height: 18px;\">#ededed</td>\r\n</tr>\r\n<tr style=\"height: 18px;\">\r\n<td style=\"width: 25.016%; height: 18px;\">cor_texto_barra_progresso</td>\r\n<td style=\"width: 74.984%; height: 18px;\">#9fbe43</td>\r\n</tr>\r\n</tbody>\r\n</table>",
+  "creation_time": "2025-09-01 13:23:52",
+  "update_time": "2025-10-02 12:11:49",
+  "active": true
+}

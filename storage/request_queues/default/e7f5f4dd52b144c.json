@@ -1,0 +1,16 @@
+{
+  "unique_key": "https://www.matconcasa.com.br/produto/protec-o-para-piso-salvabras-salva-piso-porcelanato-1-00m-x-25m-p00001-411853",
+  "url": "https://www.matconcasa.com.br/produto/protec-o-para-piso-salvabras-salva-piso-porcelanato-1-00m-x-25m-p00001-411853",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 3
+    }
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.matconcasa.com.br/produto/protec-o-para-piso-salvabras-salva-piso-porcelanato-1-00m-x-25m-p00001-411853",
+  "handled_at": "2025-10-30 12:42:02.410837+00:00"
+}

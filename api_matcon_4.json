@@ -1,0 +1,18 @@
+[
+  {
+    "status": "success",
+    "country": "Brazil",
+    "countryCode": "BR",
+    "region": "RJ",
+    "regionName": "Rio de Janeiro",
+    "city": "Rio de Janeiro",
+    "zip": "24000",
+    "lat": -22.9201,
+    "lon": -43.0811,
+    "timezone": "America/Sao_Paulo",
+    "isp": "Claro NXT Telecomunicacoes Ltda",
+    "org": "Claro NXT Telecomunicacoes Ltda",
+    "as": "AS28573 Claro NXT Telecomunicacoes Ltda",
+    "query": "2804:14d:5c54:60d5:4c93:b0c5:212e:2bc1"
+  }
+]

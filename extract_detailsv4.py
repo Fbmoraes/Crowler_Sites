@@ -89,6 +89,122 @@ def _http_get(url, *, timeout=15, referer=None, max_retries=5):
 
     raise RuntimeError(f"Falha ao obter URL: {url}")
 
+# ==== FALLBACK LEVE PARA SPA/NEXT.JS (sem Selenium) ====
+import json as _json
+import re as _re
+from urllib.parse import urlparse as _urlparse
+
+def _pick_first(*vals):
+    for v in vals:
+        if isinstance(v, str) and v.strip():
+            return v.strip()
+        if v is not None and v != "":
+            return v
+    return None
+
+def _normalize_product_fields(obj):
+    try:
+        if not isinstance(obj, dict):
+            return None
+        nome = _pick_first(obj.get('name'), obj.get('title'))
+        preco = _pick_first(
+            obj.get('price'), obj.get('lowPrice'), obj.get('bestPrice'),
+            obj.get('sellingPrice'), obj.get('preco'), obj.get('amount'),
+        )
+        preco_original = _pick_first(obj.get('listPrice'), obj.get('highPrice'), obj.get('precoOriginal'))
+        sku = _pick_first(obj.get('sku'), obj.get('id'), obj.get('code'))
+        marca = obj.get('brand')
+        if isinstance(marca, dict):
+            marca = _pick_first(marca.get('name'), marca.get('brand'))
+        imgs = obj.get('images') or obj.get('image') or obj.get('fotos')
+        if isinstance(imgs, str):
+            imagens = [imgs]
+        elif isinstance(imgs, list):
+            imagens = [x for x in imgs if isinstance(x, str) and x]
+        elif isinstance(imgs, dict):
+            imagens = [v for v in imgs.values() if isinstance(v, str)]
+        else:
+            imagens = None
+        if not any([nome, preco, sku, (imagens and len(imagens) > 0)]):
+            return None
+        out = {}
+        if nome: out['nome'] = nome
+        if preco: out['preco'] = preco
+        if preco_original: out['preco_original'] = preco_original
+        if sku: out['sku'] = sku
+        if marca: out['marca'] = marca
+        if imagens: out['imagens'] = imagens[:5]
+        return out
+    except Exception:
+        return None
+
+def _find_product_in_obj(obj, max_depth=3):
+    if max_depth < 0:
+        return None
+    norm = _normalize_product_fields(obj)
+    if norm:
+        return norm
+    if isinstance(obj, dict):
+        for v in obj.values():
+            res = _find_product_in_obj(v, max_depth - 1)
+            if res:
+                return res
+    elif isinstance(obj, list):
+        for it in obj:
+            res = _find_product_in_obj(it, max_depth - 1)
+            if res:
+                return res
+    return None
+
+def _spa_nextdata_inline(html):
+    try:
+        m = _re.search(r'<script[^>]*id=["\']__NEXT_DATA__["\'][^>]*>(.*?)</script>', html, _re.S | _re.I)
+        if not m:
+            return None, None
+        data = _json.loads(m.group(1))
+        build_id = data.get('buildId')
+        props = data.get('props') or {}
+        page_props = props.get('pageProps') or props
+        produto = _find_product_in_obj(page_props)
+        return produto, build_id
+    except Exception:
+        return None, None
+
+def _spa_nextdata_fetch(url, html, client):
+    try:
+        _, build_id = _spa_nextdata_inline(html)
+        if not build_id:
+            return None
+        p = _urlparse(url)
+        path = p.path.rstrip('/')
+        if not path:
+            path = '/index'
+        json_path = f"/_next/data/{build_id}{path}.json"
+        base = f"{p.scheme}://{p.netloc}"
+        resp = client.get(base + json_path, headers=DEFAULT_HEADERS, timeout=10)
+        if resp.status_code != 200:
+            return None
+        data = resp.json()
+        props = data.get('pageProps') or data.get('props') or data
+        return _find_product_in_obj(props)
+    except Exception:
+        return None
+
+def _spa_apollo_state(html):
+    try:
+        m = _re.search(r'__APOLLO_STATE__\s*=\s*(\{.*?\});', html, _re.S)
+        if not m:
+            return None
+        data = _json.loads(m.group(1))
+        if isinstance(data, dict):
+            for v in data.values():
+                res = _find_product_in_obj(v)
+                if res:
+                    return res
+        return None
+    except Exception:
+        return None
+
 def _coletar_produtos_jsonld(data):
     produtos = []
 
@@ -339,15 +455,26 @@ def extrair_dados_estruturados(html, url):
     
     # 3. Breadcrumb rápido - separa categoria, subcategoria e tags completas
     if not dados.get('categoria'):
-        breadcrumb = soup.find(attrs={"class": re.compile(r"breadcrumb", re.I)})
+        # Tenta múltiplas formas de encontrar breadcrumb
+        breadcrumb = (
+            soup.find(attrs={"class": re.compile(r"breadcrumb", re.I)}) or
+            soup.find(attrs={"itemtype": "http://schema.org/BreadcrumbList"}) or
+            soup.find(attrs={"typeof": "BreadcrumbList"}) or
+            soup.find("nav", attrs={"aria-label": re.compile(r"breadcrumb", re.I)}) or
+            soup.find("ol", attrs={"class": re.compile(r"breadcrumb", re.I)}) or
+            soup.find("ul", attrs={"class": re.compile(r"breadcrumb", re.I)})
+        )
+        
         if breadcrumb:
-            links = breadcrumb.find_all('a')
+            # Tenta pegar links ou spans
+            items = breadcrumb.find_all(['a', 'span', 'li'])
             # Filtra palavras que não são categorias reais
-            categorias = [
-                link.get_text(strip=True) 
-                for link in links 
-                if link.get_text(strip=True) not in ['Início', 'Home', 'OFF', 'Shop', '']
-            ]
+            categorias = []
+            for item in items:
+                texto = item.get_text(strip=True)
+                # Remove itens vazios e palavras comuns de navegação
+                if texto and texto not in ['Início', 'Home', 'OFF', 'Shop', '', '>', '»', '/']:
+                    categorias.append(texto)
             if categorias:
                 # Categorias completas: todas as tags separadas por |
                 dados['categorias_completas'] = ' | '.join(categorias)
@@ -362,6 +489,35 @@ def extrair_dados_estruturados(html, url):
     if dados.get('nome'):
         dados['nome_limpo'] = re.sub(r'\s*\(\s*\d+\s*\)', '', dados['nome']).strip()
     
+    # Fallback SPA/Next.js (sem Selenium): tenta __NEXT_DATA__, rota _next/data e Apollo State
+    # Ativa se: não tem preço OU (tem nome genérico E não tem produto real)
+    nome_generico = dados.get('nome', '').lower()
+    eh_site_spa = 'matcon' in nome_generico or 'materiais' in nome_generico or 'ferramentas' in nome_generico
+    precisa_fallback = not dados.get('preco') or (eh_site_spa and not dados.get('marca'))
+    
+    if precisa_fallback:
+        produto_inline, _build = _spa_nextdata_inline(html)
+        produto = produto_inline or _spa_nextdata_fetch(url, html, _shared_client) or _spa_apollo_state(html)
+        if produto:
+            # Mescla dados, priorizando o que veio do fallback
+            for k, v in produto.items():
+                if v and (not dados.get(k) or k == 'nome'):  # Sobrescreve nome genérico
+                    dados[k] = v
+        
+        # Fallback adicional: extrai do título da página se for Next.js App Router
+        if not dados.get('preco') and 'self.__next_f' in html:
+            # Next.js 13+ App Router - extrai do title
+            title_tag = soup.find('title')
+            if title_tag:
+                title_text = title_tag.get_text()
+                # Remove nome da loja do título
+                title_limpo = re.sub(r'^.*?\|\s*', '', title_text)
+                title_limpo = re.sub(r'\s*\|\s*.*?$', '', title_limpo)
+                if title_limpo and len(title_limpo) > 10:
+                    dados['nome'] = title_limpo.strip()
+                    dados['disponivel'] = False  # Marca como indisponível já que não conseguiu extrair detalhes
+                    dados['erro'] = 'Next.js App Router - dados carregados via streaming (não scrapeável)'
+
     dados['url'] = url
     
     return dados
@@ -369,6 +525,7 @@ def extrair_dados_estruturados(html, url):
 def processar_produto_individual(url, index, total):
     """
     Processa um produto individual - RÁPIDO
+    Tenta sem /p automaticamente se der 404 (fix para VTEX)
     """
     try:
         # Verifica cache
@@ -378,10 +535,22 @@ def processar_produto_individual(url, index, total):
         # Request
         parsed = urlparse(url)
         referer = f"{parsed.scheme}://{parsed.netloc}/"
-        response = _http_get(url, timeout=15, referer=referer)
         
-        # Registra o status HTTP
-        status_code = response.status_code
+        try:
+            response = _http_get(url, timeout=15, referer=referer)
+            status_code = response.status_code
+        except httpx.HTTPStatusError as e:
+            # Se deu 404 e URL termina com /p, tenta sem o /p
+            if e.response.status_code == 404 and url.endswith('/p'):
+                url_sem_p = url[:-2]
+                try:
+                    response = _http_get(url_sem_p, timeout=15, referer=referer)
+                    status_code = response.status_code
+                    url = url_sem_p  # Usa a URL corrigida
+                except:
+                    raise e  # Se falhar novamente, propaga o erro original
+            else:
+                raise e
         
         # Pausa curta para evitar gatilho de rate-limit em massa
         time.sleep(random.uniform(0.05, 0.2))
@@ -396,6 +565,12 @@ def processar_produto_individual(url, index, total):
             dados['nome'] = dados.get('nome') or 'Produto removido/não existe'
         elif status_code >= 400:
             dados['erro'] = f'Erro HTTP {status_code}'
+        
+        # Se status 200 mas não extraiu dados básicos, pode ser site SPA/React
+        if status_code == 200 and not dados.get('nome'):
+            dados['nome'] = 'Matcon.casa | Materiais de Construção e Ferramentas Online'
+            dados['erro'] = 'Site React/SPA - conteúdo carregado via JavaScript (não scrapeável com HTTP simples)'
+            dados['disponivel'] = None
         
         # Salva no cache
         cache_produtos[url] = dados

@@ -1,0 +1,16 @@
+{
+  "unique_key": "https://www.matconcasa.com.br/produto/camera-externa-inteligente-wi-fi-full-hd-intelbras-im5sc-branca-4565511-410419",
+  "url": "https://www.matconcasa.com.br/produto/camera-externa-inteligente-wi-fi-full-hd-intelbras-im5sc-branca-4565511-410419",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 3
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": "https://www.matconcasa.com.br/produto/camera-externa-inteligente-wi-fi-full-hd-intelbras-im5sc-branca-4565511-410419",
+  "handled_at": "2025-10-30 12:41:30.829006+00:00"
+}

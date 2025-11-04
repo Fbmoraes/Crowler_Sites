@@ -1,0 +1,50 @@
+{
+  "url": "https://www.matconcasa.com.br/produto/furadeira-makita-de-impacto-1-2-1010w-220v-hp2070-220v-281700",
+  "timestamp": "2025-10-22T19:08:31.489496",
+  "arquitetura": {},
+  "network": {
+    "requests": [],
+    "apis": [],
+    "endpoints_json": [],
+    "headers_importantes": {},
+    "cookies": [],
+    "dominios": []
+  },
+  "dados_estruturados": {
+    "jsonld": [],
+    "opengraph": {},
+    "meta_tags": {},
+    "microdata": []
+  },
+  "protecoes": {
+    "cloudflare": false,
+    "captcha": false,
+    "fingerprinting": [],
+    "rate_limit_headers": [],
+    "user_agent_check": false
+  },
+  "dom": {
+    "seletores_produto": {},
+    "seletores_preco": [],
+    "seletores_imagem": [],
+    "estrutura_html": {}
+  },
+  "performance": {
+    "tempo_first_paint": 0,
+    "tempo_dom_ready": 0,
+    "tempo_load": 0,
+    "recursos_bloqueantes": [],
+    "scripts_pesados": []
+  },
+  "javascript": {
+    "frameworks": [],
+    "scripts_externos": [],
+    "window_objects": []
+  },
+  "storage": {
+    "cookies": [],
+    "localStorage": {},
+    "sessionStorage": {}
+  },
+  "recomendacoes": []
+}

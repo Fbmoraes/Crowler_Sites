@@ -1,0 +1,16 @@
+{
+  "unique_key": "https://www.matconcasa.com.br/produto/chave-de-impacto-pneumatica-waft-6183-1-2-67kgf-14-pecas-6183-270660",
+  "url": "https://www.matconcasa.com.br/produto/chave-de-impacto-pneumatica-waft-6183-1-2-67kgf-14-pecas-6183-270660",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 3
+    }
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.matconcasa.com.br/produto/chave-de-impacto-pneumatica-waft-6183-1-2-67kgf-14-pecas-6183-270660",
+  "handled_at": "2025-10-30 12:41:47.888060+00:00"
+}

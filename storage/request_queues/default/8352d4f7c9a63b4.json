@@ -1,0 +1,16 @@
+{
+  "unique_key": "https://www.matconcasa.com.br/produto/rodo-mop-flashlimp-giratorio-com-balde-mop8209-va-404019",
+  "url": "https://www.matconcasa.com.br/produto/rodo-mop-flashlimp-giratorio-com-balde-mop8209-va-404019",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 3
+    }
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.matconcasa.com.br/produto/rodo-mop-flashlimp-giratorio-com-balde-mop8209-va-404019",
+  "handled_at": "2025-10-30 12:41:50.484473+00:00"
+}

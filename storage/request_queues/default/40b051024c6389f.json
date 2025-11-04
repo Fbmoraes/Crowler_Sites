@@ -1,0 +1,16 @@
+{
+  "unique_key": "https://www.matconcasa.com.br/produto/serra-tico-tico-black-decker-127v-400w-js10-br-404144",
+  "url": "https://www.matconcasa.com.br/produto/serra-tico-tico-black-decker-127v-400w-js10-br-404144",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 3
+    }
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.matconcasa.com.br/produto/serra-tico-tico-black-decker-127v-400w-js10-br-404144",
+  "handled_at": "2025-10-30 12:42:02.313932+00:00"
+}

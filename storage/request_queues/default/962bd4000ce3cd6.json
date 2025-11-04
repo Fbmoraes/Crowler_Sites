@@ -1,0 +1,17 @@
+{
+  "unique_key": "https://www.matconcasa.com.br/produto/furadeira-parafusadeira-makita-10-8v-bivolt-df330dwe-299995",
+  "url": "https://www.matconcasa.com.br/produto/furadeira-parafusadeira-makita-10-8v-bivolt-df330dwe-299995",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 3,
+      "sessionRotationCount": 6
+    }
+  },
+  "retry_count": 2,
+  "no_retry": false,
+  "loaded_url": "https://www.matconcasa.com.br/produto/furadeira-parafusadeira-makita-10-8v-bivolt-df330dwe-299995",
+  "handled_at": "2025-10-30 12:42:48.857293+00:00"
+}

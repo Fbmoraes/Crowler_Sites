@@ -1,0 +1,16 @@
+{
+  "unique_key": "https://www.matconcasa.com.br/produto/macaco-jacare-portatil-waft-2-toneladas-com-maleta-6535-340910",
+  "url": "https://www.matconcasa.com.br/produto/macaco-jacare-portatil-waft-2-toneladas-com-maleta-6535-340910",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 3
+    }
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.matconcasa.com.br/produto/macaco-jacare-portatil-waft-2-toneladas-com-maleta-6535-340910",
+  "handled_at": "2025-10-30 12:42:02.689235+00:00"
+}

@@ -1,0 +1,598 @@
+{
+  "metadata": {
+    "metodo": "httpx_puro",
+    "abortado": true,
+    "razao_abort": "httpx também lento: 0.771s/item",
+    "total": 82,
+    "sucesso": 31,
+    "tempo_total": 23.155344,
+    "avg_tempo": 0.28238224390243905
+  },
+  "produtos": [
+    {
+      "url": "https://www.matconcasa.com.br/produto/fio-cabo-pp-sil-4x-6-00mm-1kv-100m-00049039002106-179051",
+      "nome": "Fio Cabo PP Sil 4X 6.00MM 1KV 100M | 00049039002106",
+      "preco": "3484.761",
+      "preco_original": null,
+      "imagens": 12,
+      "tempo": 6.293941497802734,
+      "metodo": "httpx"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/lixadeira-makita-industrial-7-2200w-127v-sa7021127v-299650",
+      "nome": "Lixadeira Makita Industrial 7\" 2200W 127V | SA7021127V",
+      "preco": "1212.761",
+      "preco_original": null,
+      "imagens": 16,
+      "tempo": 8.47080659866333,
+      "metodo": "httpx"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/kit-ferramenta-eda-maleta-com-117-pecas-8sh-403725",
+      "erro": "",
+      "tempo": 10.08984088897705,
+      "metodo": "httpx"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/chave-nh-cebel-seccionadora-sem-carga-02-400a-100010-41769",
+      "erro": "",
+      "tempo": 10.09005069732666,
+      "metodo": "httpx"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/ventilador-parede-ventisol-60cm-preto-127v-147w-490-333336",
+      "erro": "",
+      "tempo": 10.10676622390747,
+      "metodo": "httpx"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/plaina-makita-220v-620w-kp0800-220v-kp0800-220v-86037",
+      "erro": "",
+      "tempo": 10.107783555984497,
+      "metodo": "httpx"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/inversora-de-solda-intech-compacta-com-acessorios-160a-bivolt-7898632332698-405435",
+      "erro": "",
+      "tempo": 10.108747005462646,
+      "metodo": "httpx"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/soquete-excellent-bits-com-catraca-encaixe-1-4-e-3-8-com-40-pecas-8zi-402602",
+      "erro": "",
+      "tempo": 10.10866904258728,
+      "metodo": "httpx"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/estilete-irwin-retratil-standard-2082101-233129",
+      "erro": "",
+      "tempo": 10.106805324554443,
+      "metodo": "httpx"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/esmerilhadeira-makita-4-5-127v-720w-ga4530-127v-85820",
+      "erro": "",
+      "tempo": 10.14694094657898,
+      "metodo": "httpx"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/fio-solido-sil-6-0mm-preto-100m-00001020002106-37583",
+      "erro": "",
+      "tempo": 10.17724609375,
+      "metodo": "httpx"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/furadeira-parafusadeira-black-decker-3-8-20v-bateria-com-80-acessorios-bcd704c1ka-br-412561",
+      "erro": "",
+      "tempo": 10.176451683044434,
+      "metodo": "httpx"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/mangueira-alta-press-o-preta-b-5-16-raiada-pt300-50m-1167-22217",
+      "erro": "",
+      "tempo": 10.176710605621338,
+      "metodo": "httpx"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/pistola-arprex-modelo-alfa-4-aerografo-bico-3-0mm-10133000-140368",
+      "erro": "",
+      "tempo": 10.179736614227295,
+      "metodo": "httpx"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/alicate-universal-belzer-isolado-8-219022bbr-411707",
+      "erro": "",
+      "tempo": 10.179553031921387,
+      "metodo": "httpx"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/compressor-schulz-csi-8-5-25l-127v-1500w-1-5hp-9150399-0-404980",
+      "erro": "",
+      "tempo": 10.177699327468872,
+      "metodo": "httpx"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/manta-liquida-vedapren-parede-branca-20kg-lata-112860-410411",
+      "erro": "",
+      "tempo": 10.178009271621704,
+      "metodo": "httpx"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/ventilador-de-parede-ventidelta-ventura-50cm-preto-bivolt-79-5425-412505",
+      "erro": "",
+      "tempo": 10.18028450012207,
+      "metodo": "httpx"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/arame-farpado-gerdau-1-60-gir-rl250m-111001231-20818",
+      "erro": "",
+      "tempo": 10.180344581604004,
+      "metodo": "httpx"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/churrasqueira-dalben-nobre-inox-30x50x87cm-73218900-406215",
+      "erro": "",
+      "tempo": 10.17885446548462,
+      "metodo": "httpx"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/ducha-lorenzetti-relax-branca-cromada-3t-220v-5500w-7540115-240389",
+      "erro": "",
+      "tempo": 10.181406021118164,
+      "metodo": "httpx"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/camera-de-seguranca-intelbras-wi-fi-hd-im1-4560021-411094",
+      "erro": "",
+      "tempo": 10.178832530975342,
+      "metodo": "httpx"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/ducha-lorenzetti-acqua-duo-ultra-pr-cr-127v-5500w-preto-com-cromado-7510106-402398",
+      "erro": "",
+      "tempo": 10.18044376373291,
+      "metodo": "httpx"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/torneira-eletrica-sintex-teb144-mesa-alta-branca-127v-4400w-bica-360-3-temperaturas-10713415-389595",
+      "erro": "",
+      "tempo": 10.18471908569336,
+      "metodo": "httpx"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/martelete-makita-sds-220v-800w-hr2470-220v-257443",
+      "erro": "",
+      "tempo": 10.183672189712524,
+      "metodo": "httpx"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/aquecedor-de-agua-lorenzetti-maxi-ultra-220v-5500w-7560046-407933",
+      "erro": "",
+      "tempo": 10.185745239257812,
+      "metodo": "httpx"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/mangueira-polietileno-majestic-ponta-azul-com-faixa-branca-a-1-2-x-2-5-100m-0080250001-412156",
+      "erro": "",
+      "tempo": 10.18428349494934,
+      "metodo": "httpx"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/esmerilhadeira-bosch-41-2-gws850-220v-850w-06013775e0-147699",
+      "erro": "",
+      "tempo": 10.184750080108643,
+      "metodo": "httpx"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/serra-marmore-makita-220v-1300w-sem-maleta-4100nh3z-220v-344516",
+      "erro": "",
+      "tempo": 10.186723709106445,
+      "metodo": "httpx"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/alicate-descascador-irwin-descfio-8-2078300-307777",
+      "erro": "",
+      "tempo": 10.18567943572998,
+      "metodo": "httpx"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/porta-shampoo-retangular-10595-358266",
+      "erro": "",
+      "tempo": 10.185356855392456,
+      "metodo": "httpx"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/aspirador-de-po-para-carro-western-12v-60w-branco-azul-ap-13-401025",
+      "erro": "",
+      "tempo": 10.18516993522644,
+      "metodo": "httpx"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/torneira-lorenzetti-acquabela-abs-bica-movel-com-filtro-de-parede-1-4-de-volta-cromada-7411812-331040",
+      "erro": "",
+      "tempo": 10.185195207595825,
+      "metodo": "httpx"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/torques-berg-armador-12-5648512-91073",
+      "erro": "",
+      "tempo": 10.188693761825562,
+      "metodo": "httpx"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/furadeira-parafusadeira-makita-12v-compacta-com-kit-e-carregador-clx228sax-404931",
+      "erro": "",
+      "tempo": 10.186503887176514,
+      "metodo": "httpx"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/esmerilhadeira-dewalt-angular-4-1-2-220v-900w-dwe4120b2b-412611",
+      "erro": "",
+      "tempo": 10.185919046401978,
+      "metodo": "httpx"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/compressor-de-ar-ferrari-megajet-3-2l-bivolt-aac1020007-251658",
+      "nome": "Compressor de Ar FERRARI Megajet 3.2L Bivolt | AAC1020007",
+      "preco": "838.181",
+      "preco_original": null,
+      "imagens": 18,
+      "tempo": 11.25944709777832,
+      "metodo": "httpx"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/soprador-termico-hikari-hk-510-2000w-127v-21d001-412973",
+      "nome": "Soprador Térmico Hikari HK-510 2000W 127V | 21D001",
+      "preco": "191.061",
+      "preco_original": null,
+      "imagens": 12,
+      "tempo": 11.636548519134521,
+      "metodo": "httpx"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/furadeira-dewalt-impacto-1-2-220v-710w-dwd502b2-403672",
+      "nome": "Furadeira Dewalt Impacto 1/2\" 220V 710W DWD502B2",
+      "preco": "399.001",
+      "preco_original": "486.18",
+      "imagens": 18,
+      "tempo": 12.408551216125488,
+      "metodo": "httpx"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/martelete-dewalt-sds-plus-rompedor-220v-800w-d25133kb2-412615",
+      "nome": "Martelete Dewalt - SDS Plus Rompedor 220V 800W | D25133KB2",
+      "preco": "899.001",
+      "preco_original": "987.54",
+      "imagens": 14,
+      "tempo": 12.989105939865112,
+      "metodo": "httpx"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/tupia-laminadora-makita-1-4-530w-127v-3709127v-250228",
+      "nome": "Tupia Laminadora Makita 1/4\" 530W 127V | 3709127V",
+      "preco": "510.191",
+      "preco_original": null,
+      "imagens": 14,
+      "tempo": 13.236757278442383,
+      "metodo": "httpx"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/bateria-makita-universal-12v-4-0ah-li-ion-1974070-404929",
+      "nome": "Bateria Makita Universal 12V 4.0Ah Li-Ion | 1974070",
+      "preco": "559.671",
+      "preco_original": null,
+      "imagens": 10,
+      "tempo": 13.32040524482727,
+      "metodo": "httpx"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/ventilador-de-teto-ventisol-flow-led-branco-com-controle-remoto-bivolt-14224-410460",
+      "nome": "Ventilador de Teto Ventisol Flow LED Branco com Controle Remoto Bivolt | 14224",
+      "preco": "444.881",
+      "preco_original": "556.10",
+      "imagens": 12,
+      "tempo": 13.40587854385376,
+      "metodo": "httpx"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/ferro-soldar-hikari-machadinha-250x220v-21k023-283940",
+      "nome": "Ferro Soldar Hikari Machadinha 250x220V 21K023",
+      "preco": "329.551",
+      "preco_original": null,
+      "imagens": 12,
+      "tempo": 13.476431369781494,
+      "metodo": "httpx"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/martelete-makita-rotativo-rompedor-2-bateria-bivolt-dhr202rfe-401360",
+      "nome": "Martelete Makita Rotativo Rompedor 2 Bateria Bivolt | DHR202RFE",
+      "preco": "4665.301",
+      "preco_original": null,
+      "imagens": 14,
+      "tempo": 13.565694570541382,
+      "metodo": "httpx"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/motosserra-gasolina-intech-machine-saw5200-405433",
+      "nome": "Motosserra Gasolina Intech Machine SAW5200",
+      "preco": "891.461",
+      "preco_original": "1115.37",
+      "imagens": 12,
+      "tempo": 13.622803688049316,
+      "metodo": "httpx"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/kit-churrasco-simonaggio-3-pecas-caixa-3503039055400-368440",
+      "nome": "Kit Churrasco Simonaggio - 3 Peças Caixa | 3503039055400",
+      "preco": "110.721",
+      "preco_original": "170.34",
+      "imagens": 14,
+      "tempo": 13.859943389892578,
+      "metodo": "httpx"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/furadeira-parafusadeira-black-decker-3-8-12v-bateria-com-13-acessorios-ld12s-br-403644",
+      "nome": "Furadeira/Parafusadeira Black & Decker 3/8\"12V Bateria com 13 Acessórios | LD12S-BR",
+      "preco": "266.301",
+      "preco_original": "324.49",
+      "imagens": 12,
+      "tempo": 14.021547317504883,
+      "metodo": "httpx"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/furadeira-makita-de-impacto-1-2-1010w-220v-hp2070-220v-281700",
+      "nome": "Furadeira Makita de Impacto 1/2\" 1010W 220V | HP2070-220V",
+      "preco": "2463.731",
+      "preco_original": "2706.38",
+      "imagens": 16,
+      "tempo": 14.198015451431274,
+      "metodo": "httpx"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/ventilador-de-teto-ventidelta-new-light-led-3-pas-preto-220v-38-3223-412511",
+      "nome": "Ventilador de Teto Ventidelta New Light LED 3 Pás Preto 220V | 38-3223",
+      "preco": "340.991",
+      "preco_original": null,
+      "imagens": 12,
+      "tempo": 14.30898904800415,
+      "metodo": "httpx"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/kit-ferramenta-eda-maleta-com-78-pecas-9gd-403723",
+      "erro": "",
+      "tempo": 10.012760639190674,
+      "metodo": "httpx"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/serra-tico-tico-hammer-220v-500w-gyst500-220-397814",
+      "erro": "",
+      "tempo": 10.001725196838379,
+      "metodo": "httpx"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/martelete-dewalt-sds-max-combinado-220v-1050w-d25481k-b2-412605",
+      "erro": "",
+      "tempo": 10.106933832168579,
+      "metodo": "httpx"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/serra-circular-makita-9-220v-2000w-5902b-220v-85995",
+      "erro": "",
+      "tempo": 10.10708236694336,
+      "metodo": "httpx"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/ducha-hydra-optima-8-temperaturas-5500w-127v-dpop-8-551br-362905",
+      "erro": "",
+      "tempo": 10.10195517539978,
+      "metodo": "httpx"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/lavadora-karcher-k3-alta-press-o-force-turbo-220v-1815-libras-19941930-411234",
+      "erro": "",
+      "tempo": 10.103752851486206,
+      "metodo": "httpx"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/ducha-lorenzetti-maxi-ducha-ultra-3t-220v-5500w-7530115-149861",
+      "erro": "",
+      "tempo": 10.101986408233643,
+      "metodo": "httpx"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/pulverizador-brudden-agricola-dupla-ac-o-das-5l-75-401636",
+      "erro": "",
+      "tempo": 10.107476711273193,
+      "metodo": "httpx"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/politriz-stanley-sstgp612k-b2-5-220v-600w-com-maleta-10713441-410360",
+      "erro": "",
+      "tempo": 10.108335733413696,
+      "metodo": "httpx"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/ducha-lorenzetti-duo-black-cromada-220v-7800w-7510104-402400",
+      "erro": "",
+      "tempo": 10.102840900421143,
+      "metodo": "httpx"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/furadeira-parafusadeira-black-decker-3-8-8v-bateria-litio-ld008-br-403643",
+      "erro": "",
+      "tempo": 10.108248710632324,
+      "metodo": "httpx"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/esmerilhadeira-black-decker-angular-4-1-2-g650-220v-560w-g650-b2-403658",
+      "erro": "",
+      "tempo": 10.109262228012085,
+      "metodo": "httpx"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/cuba-embutir-quadrada-deca-louca-30cm-branco-l3103017-413319",
+      "erro": "",
+      "tempo": 10.108813762664795,
+      "metodo": "httpx"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/serra-marmore-makita-220v-1450w-sem-maleta-4100nh2z-220v-292508",
+      "erro": "",
+      "tempo": 10.105239152908325,
+      "metodo": "httpx"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/lampada-led-bulbo-taschibra-50w-6500k-e27-bivolt-11080397-a-lampada-led-bulbo-taschibra-50w-6500k-e27-e-perfeita-para-quem-busca-iluminac-o-intensa-economica-e-duravel-com-potencia-de-50w-e-temperatura-de-cor-6500k-branco-frio-oferece-excelente-claridade-",
+      "erro": "",
+      "tempo": 10.105767488479614,
+      "metodo": "httpx"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/chave-de-impacto-pneumatica-waft-6183-1-2-67kgf-14-pecas-6183-270660",
+      "erro": "",
+      "tempo": 10.103657722473145,
+      "metodo": "httpx"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/cadeado-segredo-stam-25mm-zamac-3-digitos-501-44385",
+      "erro": "",
+      "tempo": 10.109792470932007,
+      "metodo": "httpx"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/esmerilhadeira-black-decker-angular-41-2-g720-220v-820w-g720-b2-403660",
+      "nome": "Esmerilhadeira Black & Decker Angular 41/2\"G720 220V 820W | G720-B2",
+      "preco": "329.971",
+      "preco_original": "358.13",
+      "imagens": 18,
+      "tempo": 12.429140567779541,
+      "metodo": "httpx"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/jogo-chave-combinada-robust-6-32mm-25-pecas-profissional-412808",
+      "nome": "Jogo Chave Combinada Robust 6-32mm - 25 Peças Profissional",
+      "preco": "559.891",
+      "preco_original": "615.03",
+      "imagens": 16,
+      "tempo": 12.436913967132568,
+      "metodo": "httpx"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/chave-combinada-brasfort-6a22mm-12-pecas-6034-267538",
+      "nome": "Chave Combinada Brasfort 6a22mm 12 Peças 6034",
+      "preco": "119.991",
+      "preco_original": "145.18",
+      "imagens": 12,
+      "tempo": 12.47636079788208,
+      "metodo": "httpx"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/piscina-infantil-mor-3000-litros-estruturada-com-lona-pvc-azul-1005-375349",
+      "nome": "Piscina Infantil Mor 3000 Litros Estruturada com Lona PVC Azul | 1005",
+      "preco": "904.501",
+      "preco_original": null,
+      "imagens": 12,
+      "tempo": 12.479737520217896,
+      "metodo": "httpx"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/multimetro-digital-hikari-display-grande-hm-1002b-21n278-412971",
+      "nome": "Multimetro Digital Hikari Display Grande HM-1002B 21N278",
+      "preco": "55.821",
+      "preco_original": "93.03",
+      "imagens": 12,
+      "tempo": 12.433200120925903,
+      "metodo": "httpx"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/pistola-arprex-milenium-5-alta-press-o-bico-1-8mm-10197000-200093",
+      "nome": "Pistola Arprex \"Milenium 5\"ALTA Pressão Bico 1.8mm 10197000",
+      "preco": "997.001",
+      "preco_original": "1172.94",
+      "imagens": 12,
+      "tempo": 12.445409536361694,
+      "metodo": "httpx"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/serra-sabre-makita-1010w-220v-jr3051tk-220v-407998",
+      "nome": "Serra Sabre Makita 1010W 220V | JR3051TK-220V",
+      "preco": "2340.291",
+      "preco_original": "2570.79",
+      "imagens": 18,
+      "tempo": 12.545221090316772,
+      "metodo": "httpx"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/fio-cabo-rede-megatron-cat5e-4-pares-100m-azul-2579-281255",
+      "nome": "Fio Cabo Rede Megatron Cat5e 4 Pares - 100m Azul | 2579",
+      "preco": "344.591",
+      "preco_original": null,
+      "imagens": 14,
+      "tempo": 12.564750671386719,
+      "metodo": "httpx"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/cloro-genco-granulado-3x1-multipla-ac-o-10kg-405248a-405271",
+      "nome": "Cloro Genco Granulado 3X1 Múltipla Ação 10KG | 405248A",
+      "preco": "210.001",
+      "preco_original": "233.43",
+      "imagens": 12,
+      "tempo": 12.584733247756958,
+      "metodo": "httpx"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/fio-cabo-pp-megatron-4x-4-00mm-500v-100m-9785-404281",
+      "nome": "Fio Cabo PP Megatron 4X 4.00MM 500V 100M | 9785",
+      "preco": "2491.521",
+      "preco_original": null,
+      "imagens": 12,
+      "tempo": 12.563431978225708,
+      "metodo": "httpx"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/fio-cabo-rede-megatron-cat6-4-pares-100m-cinza-2421-410948",
+      "nome": "Fio Cabo Rede Megatron CAT6 4 Pares 100M Cinza | 2421",
+      "preco": "497.151",
+      "preco_original": null,
+      "imagens": 12,
+      "tempo": 12.540407657623291,
+      "metodo": "httpx"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/serra-marmore-makita-127v-1300w-4100nh3z-127v-344508",
+      "nome": "Serra Mármore Makita 127V 1300W | 4100NH3Z-127V",
+      "preco": "583.671",
+      "preco_original": "937.69",
+      "imagens": 16,
+      "tempo": 12.563723802566528,
+      "metodo": "httpx"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/trava-papaiz-quadrupla-140-cromada-300767cr-39675",
+      "nome": "Trava Papaiz Quadrupla 140 Cromada | 300767CR",
+      "preco": "99.901",
+      "preco_original": "118.57",
+      "imagens": 12,
+      "tempo": 12.589359045028687,
+      "metodo": "httpx"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/cuba-embutir-quadrada-deca-louca-40cm-branco-l3104017-413318",
+      "nome": "Cuba Embutir Quadrada Deca Louça - 40cm Branco | L3104017",
+      "preco": "528.831",
+      "preco_original": null,
+      "imagens": 16,
+      "tempo": 12.62264633178711,
+      "metodo": "httpx"
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/camera-externa-inteligente-wi-fi-full-hd-intelbras-im5sc-branca-4565511-410419",
+      "nome": "Câmera Externa Inteligente Wi-Fi Full HD Intelbras iM5SC Branca | 4565511",
+      "preco": "546.961",
+      "preco_original": "631.95",
+      "imagens": 16,
+      "tempo": 12.640860557556152,
+      "metodo": "httpx"
+    }
+  ]
+}

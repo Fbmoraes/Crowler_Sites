@@ -1,0 +1,439 @@
+{
+  "advertisement": null,
+  "cacheId": "blusa-malha-amarracao-01041624-0002",
+  "productId": "724515",
+  "description": "A Blusa Malha Amarração apresenta design com amarração frontal que dá um charme extra à peça, permitindo que você crie diferentes looks de acordo com o seu estilo pessoal. A malha macia e leve garante uma sensação agradável ao vestir, mantendo você confortável o dia todo.",
+  "productName": "Blusa Malha Amarração - Preto",
+  "productReference": "010416240002",
+  "linkText": "blusa-malha-amarracao-01041624-0002",
+  "brand": "Sacada",
+  "brandId": 2000001,
+  "link": "https://portal.vtexcommercestable.com.br/blusa-malha-amarracao-01041624-0002/p",
+  "categories": {
+    "type": "json",
+    "json": [
+      "/OFF/Roupas/Blusas e Camisas/",
+      "/OFF/Roupas/",
+      "/OFF/"
+    ]
+  },
+  "categoryId": "3",
+  "releaseDate": "2025-12-15T00:00:00Z",
+  "priceRange": {
+    "type": "id",
+    "generated": true,
+    "id": "$Product:blusa-malha-amarracao-01041624-0002.priceRange",
+    "typename": "ProductPriceRange"
+  },
+  "specificationGroups": [
+    {
+      "type": "id",
+      "generated": true,
+      "id": "Product:blusa-malha-amarracao-01041624-0002.specificationGroups.0",
+      "typename": "SpecificationGroup"
+    },
+    {
+      "type": "id",
+      "generated": true,
+      "id": "Product:blusa-malha-amarracao-01041624-0002.specificationGroups.1",
+      "typename": "SpecificationGroup"
+    }
+  ],
+  "skuSpecifications": [
+    {
+      "type": "id",
+      "generated": true,
+      "id": "Product:blusa-malha-amarracao-01041624-0002.skuSpecifications.0",
+      "typename": "SkuSpecification"
+    },
+    {
+      "type": "id",
+      "generated": true,
+      "id": "Product:blusa-malha-amarracao-01041624-0002.skuSpecifications.1",
+      "typename": "SkuSpecification"
+    }
+  ],
+  "productClusters": [
+    {
+      "type": "id",
+      "generated": true,
+      "id": "Product:blusa-malha-amarracao-01041624-0002.productClusters.0",
+      "typename": "ProductClusters"
+    },
+    {
+      "type": "id",
+      "generated": true,
+      "id": "Product:blusa-malha-amarracao-01041624-0002.productClusters.1",
+      "typename": "ProductClusters"
+    },
+    {
+      "type": "id",
+      "generated": true,
+      "id": "Product:blusa-malha-amarracao-01041624-0002.productClusters.2",
+      "typename": "ProductClusters"
+    },
+    {
+      "type": "id",
+      "generated": true,
+      "id": "Product:blusa-malha-amarracao-01041624-0002.productClusters.3",
+      "typename": "ProductClusters"
+    },
+    {
+      "type": "id",
+      "generated": true,
+      "id": "Product:blusa-malha-amarracao-01041624-0002.productClusters.4",
+      "typename": "ProductClusters"
+    },
+    {
+      "type": "id",
+      "generated": true,
+      "id": "Product:blusa-malha-amarracao-01041624-0002.productClusters.5",
+      "typename": "ProductClusters"
+    },
+    {
+      "type": "id",
+      "generated": true,
+      "id": "Product:blusa-malha-amarracao-01041624-0002.productClusters.6",
+      "typename": "ProductClusters"
+    },
+    {
+      "type": "id",
+      "generated": true,
+      "id": "Product:blusa-malha-amarracao-01041624-0002.productClusters.7",
+      "typename": "ProductClusters"
+    },
+    {
+      "type": "id",
+      "generated": true,
+      "id": "Product:blusa-malha-amarracao-01041624-0002.productClusters.8",
+      "typename": "ProductClusters"
+    },
+    {
+      "type": "id",
+      "generated": true,
+      "id": "Product:blusa-malha-amarracao-01041624-0002.productClusters.9",
+      "typename": "ProductClusters"
+    },
+    {
+      "type": "id",
+      "generated": true,
+      "id": "Product:blusa-malha-amarracao-01041624-0002.productClusters.10",
+      "typename": "ProductClusters"
+    },
+    {
+      "type": "id",
+      "generated": true,
+      "id": "Product:blusa-malha-amarracao-01041624-0002.productClusters.11",
+      "typename": "ProductClusters"
+    },
+    {
+      "type": "id",
+      "generated": true,
+      "id": "Product:blusa-malha-amarracao-01041624-0002.productClusters.12",
+      "typename": "ProductClusters"
+    },
+    {
+      "type": "id",
+      "generated": true,
+      "id": "Product:blusa-malha-amarracao-01041624-0002.productClusters.13",
+      "typename": "ProductClusters"
+    },
+    {
+      "type": "id",
+      "generated": true,
+      "id": "Product:blusa-malha-amarracao-01041624-0002.productClusters.14",
+      "typename": "ProductClusters"
+    },
+    {
+      "type": "id",
+      "generated": true,
+      "id": "Product:blusa-malha-amarracao-01041624-0002.productClusters.15",
+      "typename": "ProductClusters"
+    },
+    {
+      "type": "id",
+      "generated": true,
+      "id": "Product:blusa-malha-amarracao-01041624-0002.productClusters.16",
+      "typename": "ProductClusters"
+    },
+    {
+      "type": "id",
+      "generated": true,
+      "id": "Product:blusa-malha-amarracao-01041624-0002.productClusters.17",
+      "typename": "ProductClusters"
+    },
+    {
+      "type": "id",
+      "generated": true,
+      "id": "Product:blusa-malha-amarracao-01041624-0002.productClusters.18",
+      "typename": "ProductClusters"
+    },
+    {
+      "type": "id",
+      "generated": true,
+      "id": "Product:blusa-malha-amarracao-01041624-0002.productClusters.19",
+      "typename": "ProductClusters"
+    },
+    {
+      "type": "id",
+      "generated": true,
+      "id": "Product:blusa-malha-amarracao-01041624-0002.productClusters.20",
+      "typename": "ProductClusters"
+    },
+    {
+      "type": "id",
+      "generated": true,
+      "id": "Product:blusa-malha-amarracao-01041624-0002.productClusters.21",
+      "typename": "ProductClusters"
+    },
+    {
+      "type": "id",
+      "generated": true,
+      "id": "Product:blusa-malha-amarracao-01041624-0002.productClusters.22",
+      "typename": "ProductClusters"
+    },
+    {
+      "type": "id",
+      "generated": true,
+      "id": "Product:blusa-malha-amarracao-01041624-0002.productClusters.23",
+      "typename": "ProductClusters"
+    },
+    {
+      "type": "id",
+      "generated": true,
+      "id": "Product:blusa-malha-amarracao-01041624-0002.productClusters.24",
+      "typename": "ProductClusters"
+    },
+    {
+      "type": "id",
+      "generated": true,
+      "id": "Product:blusa-malha-amarracao-01041624-0002.productClusters.25",
+      "typename": "ProductClusters"
+    },
+    {
+      "type": "id",
+      "generated": true,
+      "id": "Product:blusa-malha-amarracao-01041624-0002.productClusters.26",
+      "typename": "ProductClusters"
+    },
+    {
+      "type": "id",
+      "generated": true,
+      "id": "Product:blusa-malha-amarracao-01041624-0002.productClusters.27",
+      "typename": "ProductClusters"
+    },
+    {
+      "type": "id",
+      "generated": true,
+      "id": "Product:blusa-malha-amarracao-01041624-0002.productClusters.28",
+      "typename": "ProductClusters"
+    },
+    {
+      "type": "id",
+      "generated": true,
+      "id": "Product:blusa-malha-amarracao-01041624-0002.productClusters.29",
+      "typename": "ProductClusters"
+    },
+    {
+      "type": "id",
+      "generated": true,
+      "id": "Product:blusa-malha-amarracao-01041624-0002.productClusters.30",
+      "typename": "ProductClusters"
+    },
+    {
+      "type": "id",
+      "generated": true,
+      "id": "Product:blusa-malha-amarracao-01041624-0002.productClusters.31",
+      "typename": "ProductClusters"
+    },
+    {
+      "type": "id",
+      "generated": true,
+      "id": "Product:blusa-malha-amarracao-01041624-0002.productClusters.32",
+      "typename": "ProductClusters"
+    },
+    {
+      "type": "id",
+      "generated": true,
+      "id": "Product:blusa-malha-amarracao-01041624-0002.productClusters.33",
+      "typename": "ProductClusters"
+    },
+    {
+      "type": "id",
+      "generated": true,
+      "id": "Product:blusa-malha-amarracao-01041624-0002.productClusters.34",
+      "typename": "ProductClusters"
+    },
+    {
+      "type": "id",
+      "generated": true,
+      "id": "Product:blusa-malha-amarracao-01041624-0002.productClusters.35",
+      "typename": "ProductClusters"
+    },
+    {
+      "type": "id",
+      "generated": true,
+      "id": "Product:blusa-malha-amarracao-01041624-0002.productClusters.36",
+      "typename": "ProductClusters"
+    },
+    {
+      "type": "id",
+      "generated": true,
+      "id": "Product:blusa-malha-amarracao-01041624-0002.productClusters.37",
+      "typename": "ProductClusters"
+    },
+    {
+      "type": "id",
+      "generated": true,
+      "id": "Product:blusa-malha-amarracao-01041624-0002.productClusters.38",
+      "typename": "ProductClusters"
+    },
+    {
+      "type": "id",
+      "generated": true,
+      "id": "Product:blusa-malha-amarracao-01041624-0002.productClusters.39",
+      "typename": "ProductClusters"
+    },
+    {
+      "type": "id",
+      "generated": true,
+      "id": "Product:blusa-malha-amarracao-01041624-0002.productClusters.40",
+      "typename": "ProductClusters"
+    },
+    {
+      "type": "id",
+      "generated": true,
+      "id": "Product:blusa-malha-amarracao-01041624-0002.productClusters.41",
+      "typename": "ProductClusters"
+    },
+    {
+      "type": "id",
+      "generated": true,
+      "id": "Product:blusa-malha-amarracao-01041624-0002.productClusters.42",
+      "typename": "ProductClusters"
+    },
+    {
+      "type": "id",
+      "generated": true,
+      "id": "Product:blusa-malha-amarracao-01041624-0002.productClusters.43",
+      "typename": "ProductClusters"
+    },
+    {
+      "type": "id",
+      "generated": true,
+      "id": "Product:blusa-malha-amarracao-01041624-0002.productClusters.44",
+      "typename": "ProductClusters"
+    },
+    {
+      "type": "id",
+      "generated": true,
+      "id": "Product:blusa-malha-amarracao-01041624-0002.productClusters.45",
+      "typename": "ProductClusters"
+    },
+    {
+      "type": "id",
+      "generated": true,
+      "id": "Product:blusa-malha-amarracao-01041624-0002.productClusters.46",
+      "typename": "ProductClusters"
+    },
+    {
+      "type": "id",
+      "generated": true,
+      "id": "Product:blusa-malha-amarracao-01041624-0002.productClusters.47",
+      "typename": "ProductClusters"
+    },
+    {
+      "type": "id",
+      "generated": true,
+      "id": "Product:blusa-malha-amarracao-01041624-0002.productClusters.48",
+      "typename": "ProductClusters"
+    },
+    {
+      "type": "id",
+      "generated": true,
+      "id": "Product:blusa-malha-amarracao-01041624-0002.productClusters.49",
+      "typename": "ProductClusters"
+    },
+    {
+      "type": "id",
+      "generated": true,
+      "id": "Product:blusa-malha-amarracao-01041624-0002.productClusters.50",
+      "typename": "ProductClusters"
+    },
+    {
+      "type": "id",
+      "generated": true,
+      "id": "Product:blusa-malha-amarracao-01041624-0002.productClusters.51",
+      "typename": "ProductClusters"
+    },
+    {
+      "type": "id",
+      "generated": true,
+      "id": "Product:blusa-malha-amarracao-01041624-0002.productClusters.52",
+      "typename": "ProductClusters"
+    },
+    {
+      "type": "id",
+      "generated": true,
+      "id": "Product:blusa-malha-amarracao-01041624-0002.productClusters.53",
+      "typename": "ProductClusters"
+    },
+    {
+      "type": "id",
+      "generated": true,
+      "id": "Product:blusa-malha-amarracao-01041624-0002.productClusters.54",
+      "typename": "ProductClusters"
+    }
+  ],
+  "clusterHighlights": [],
+  "properties": [
+    {
+      "type": "id",
+      "generated": true,
+      "id": "Product:blusa-malha-amarracao-01041624-0002.properties.0",
+      "typename": "Property"
+    },
+    {
+      "type": "id",
+      "generated": true,
+      "id": "Product:blusa-malha-amarracao-01041624-0002.properties.1",
+      "typename": "Property"
+    },
+    {
+      "type": "id",
+      "generated": true,
+      "id": "Product:blusa-malha-amarracao-01041624-0002.properties.2",
+      "typename": "Property"
+    },
+    {
+      "type": "id",
+      "generated": true,
+      "id": "Product:blusa-malha-amarracao-01041624-0002.properties.3",
+      "typename": "Property"
+    }
+  ],
+  "__typename": "Product",
+  "titleTag": "Blusa Malha Amarração - 01041624",
+  "metaTagDescription": "Compre Blusa Malha Amarração SACADA, a loja que reflete as grandes tendências e desejos atuais e ainda pague em até 6X com primeira troca grátis!",
+  "items": [
+    {
+      "type": "id",
+      "generated": true,
+      "id": "Product:blusa-malha-amarracao-01041624-0002.items.0",
+      "typename": "SKU"
+    },
+    {
+      "type": "id",
+      "generated": true,
+      "id": "Product:blusa-malha-amarracao-01041624-0002.items.1",
+      "typename": "SKU"
+    },
+    {
+      "type": "id",
+      "generated": true,
+      "id": "Product:blusa-malha-amarracao-01041624-0002.items.2",
+      "typename": "SKU"
+    }
+  ],
+  "itemMetadata": null
+}

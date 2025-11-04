@@ -1,0 +1,16 @@
+{
+  "unique_key": "https://www.matconcasa.com.br/produto/torneira-boia-garden-1-2-boia-lat-o-11350le-309907",
+  "url": "https://www.matconcasa.com.br/produto/torneira-boia-garden-1-2-boia-lat-o-11350le-309907",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 3
+    }
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.matconcasa.com.br/produto/torneira-boia-garden-1-2-boia-lat-o-11350le-309907",
+  "handled_at": "2025-10-30 12:41:56.013135+00:00"
+}

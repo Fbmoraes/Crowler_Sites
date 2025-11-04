@@ -1,0 +1,17 @@
+{
+  "unique_key": "https://www.matconcasa.com.br/produto/estilete-starrett-reforcado-larga-18mm-kux025-s-224952",
+  "url": "https://www.matconcasa.com.br/produto/estilete-starrett-reforcado-larga-18mm-kux025-s-224952",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 3,
+      "sessionRotationCount": 3
+    }
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.matconcasa.com.br/produto/estilete-starrett-reforcado-larga-18mm-kux025-s-224952",
+  "handled_at": "2025-10-30 12:42:35.050799+00:00"
+}

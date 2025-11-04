@@ -1,0 +1,17 @@
+{
+  "unique_key": "https://www.matconcasa.com.br/produto/prumo-aco-cromado-ramada-centro-300g-1682-319058",
+  "url": "https://www.matconcasa.com.br/produto/prumo-aco-cromado-ramada-centro-300g-1682-319058",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 3,
+      "sessionRotationCount": 3
+    }
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.matconcasa.com.br/produto/prumo-aco-cromado-ramada-centro-300g-1682-319058",
+  "handled_at": "2025-10-30 12:42:35.039645+00:00"
+}

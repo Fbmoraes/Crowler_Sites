@@ -1,0 +1,16 @@
+{
+  "unique_key": "https://www.matconcasa.com.br/produto/mata-mato-dexter-termifin-glifosato-1-litro-991217003-408284",
+  "url": "https://www.matconcasa.com.br/produto/mata-mato-dexter-termifin-glifosato-1-litro-991217003-408284",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    }
+  },
+  "retry_count": 2,
+  "no_retry": false,
+  "loaded_url": "https://www.matconcasa.com.br/produto/mata-mato-dexter-termifin-glifosato-1-litro-991217003-408284",
+  "handled_at": "2025-10-30 12:42:17.779014+00:00"
+}

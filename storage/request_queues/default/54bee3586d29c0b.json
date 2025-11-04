@@ -1,0 +1,16 @@
+{
+  "unique_key": "https://www.matconcasa.com.br/produto/serra-circular-black-decker-7-1-4-127v-1350w-cs1350p-br-403657",
+  "url": "https://www.matconcasa.com.br/produto/serra-circular-black-decker-7-1-4-127v-1350w-cs1350p-br-403657",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 3
+    }
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.matconcasa.com.br/produto/serra-circular-black-decker-7-1-4-127v-1350w-cs1350p-br-403657",
+  "handled_at": "2025-10-30 12:41:48.826081+00:00"
+}

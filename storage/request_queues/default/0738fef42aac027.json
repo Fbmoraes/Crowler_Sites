@@ -1,0 +1,16 @@
+{
+  "unique_key": "https://www.matconcasa.com.br/produto/serra-marmore-makita-220v-1450w-sem-maleta-4100nh2z-220v-292508",
+  "url": "https://www.matconcasa.com.br/produto/serra-marmore-makita-220v-1450w-sem-maleta-4100nh2z-220v-292508",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 3
+    }
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.matconcasa.com.br/produto/serra-marmore-makita-220v-1450w-sem-maleta-4100nh2z-220v-292508",
+  "handled_at": "2025-10-30 12:41:50.521863+00:00"
+}

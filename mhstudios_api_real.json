@@ -1,0 +1,116 @@
+{
+  "product": {
+    "id": 9689740017983,
+    "title": "Cameron Album Ao Redor do Mundo",
+    "body_html": "<p><span>Álbum de fotografias para fotos reveladas e coladas, revestido em linho, com cores e gravações predefinidas que trazem à tona sua história em cada momento.<br></span></p>\n<p><span>Gravação: \"AO REDOR DO MUNDO\".</span></p>",
+    "vendor": "MHSTUDIOS",
+    "product_type": "",
+    "created_at": "2024-08-27T14:57:31-03:00",
+    "handle": "cameron-album-ao-redor-do-mundo",
+    "updated_at": "2025-10-30T08:33:46-03:00",
+    "published_at": "2024-08-27T14:57:31-03:00",
+    "template_suffix": "produto-sem-customizacao",
+    "published_scope": "global",
+    "tags": "30 x 30, Linho, Verde Jambu",
+    "variants": [
+      {
+        "id": 49674468327743,
+        "product_id": 9689740017983,
+        "title": "Default Title",
+        "price": "960.00",
+        "sku": "ALCAMMUNDO",
+        "position": 1,
+        "compare_at_price": "",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "created_at": "2024-08-27T14:57:32-03:00",
+        "updated_at": "2025-10-30T08:33:46-03:00",
+        "taxable": false,
+        "barcode": "",
+        "grams": 0,
+        "image_id": null,
+        "weight": 0.0,
+        "weight_unit": "kg",
+        "requires_shipping": true,
+        "price_currency": "BRL",
+        "compare_at_price_currency": ""
+      }
+    ],
+    "options": [
+      {
+        "id": 12326499221823,
+        "product_id": 9689740017983,
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "id": 46592549945663,
+        "product_id": 9689740017983,
+        "position": 1,
+        "created_at": "2024-08-27T14:57:23-03:00",
+        "updated_at": "2024-08-27T14:57:25-03:00",
+        "alt": null,
+        "width": 4500,
+        "height": 5500,
+        "src": "https://cdn.shopify.com/s/files/1/0893/3199/0847/files/CameronAlbumAoRedordoMundo.jpg?v=1724781445",
+        "variant_ids": []
+      },
+      {
+        "id": 51521245413695,
+        "product_id": 9689740017983,
+        "position": 2,
+        "created_at": "2025-10-26T17:59:50-03:00",
+        "updated_at": "2025-10-26T17:59:52-03:00",
+        "alt": null,
+        "width": 4000,
+        "height": 6000,
+        "src": "https://cdn.shopify.com/s/files/1/0893/3199/0847/files/47AEC54B-32AF-4557-9B73-16C3C1E40CA8_155e480e-78b8-44e7-93c0-65c7ec32ca06.jpg?v=1761512392",
+        "variant_ids": []
+      },
+      {
+        "id": 51521239384383,
+        "product_id": 9689740017983,
+        "position": 3,
+        "created_at": "2025-10-26T17:52:26-03:00",
+        "updated_at": "2025-10-26T18:00:22-03:00",
+        "alt": null,
+        "width": 4000,
+        "height": 6000,
+        "src": "https://cdn.shopify.com/s/files/1/0893/3199/0847/files/20240902_135518880_iOS_bfcd9db7-8c8a-47e6-a4b3-3229a696340a.jpg?v=1761512422",
+        "variant_ids": []
+      },
+      {
+        "id": 51521240138047,
+        "product_id": 9689740017983,
+        "position": 4,
+        "created_at": "2025-10-26T17:53:35-03:00",
+        "updated_at": "2025-10-26T17:53:44-03:00",
+        "alt": null,
+        "width": 4000,
+        "height": 6000,
+        "src": "https://cdn.shopify.com/s/files/1/0893/3199/0847/files/IMG_6887_VSCO_58eb1f7f-45e2-4f88-a44e-6788bbdb420f.jpg?v=1761512024",
+        "variant_ids": []
+      }
+    ],
+    "image": {
+      "id": 46592549945663,
+      "product_id": 9689740017983,
+      "position": 1,
+      "created_at": "2024-08-27T14:57:23-03:00",
+      "updated_at": "2024-08-27T14:57:25-03:00",
+      "alt": null,
+      "width": 4500,
+      "height": 5500,
+      "src": "https://cdn.shopify.com/s/files/1/0893/3199/0847/files/CameronAlbumAoRedordoMundo.jpg?v=1724781445",
+      "variant_ids": []
+    }
+  }
+}

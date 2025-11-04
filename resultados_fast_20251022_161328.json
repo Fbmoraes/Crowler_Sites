@@ -1,0 +1,180 @@
+{
+  "metadata": {
+    "abortado": true,
+    "razao_abort": "Performance: 1.037s/produto > 0.300s.\n800 produtos: 13.8min (meta: 2min).\nABORTANDO para otimizar.",
+    "total": 21,
+    "sucesso": 21,
+    "tempo_total": 21.20952,
+    "avg_tempo": 1.009977142857143
+  },
+  "produtos": [
+    {
+      "url": "https://www.matconcasa.com.br/produto/furadeira-parafusadeira-black-decker-3-8-12v-bateria-com-13-acessorios-ld12s-br-403644",
+      "tempo": 0.5930414199829102,
+      "nome": "Furadeira/Parafusadeira Black & Decker 3/8\"12V Bateria com 13 Acessórios | LD12S-BR",
+      "preco": "266.30",
+      "preco_original": "324.49",
+      "imagens": 3
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/furadeira-makita-de-impacto-1-2-1010w-220v-hp2070-220v-281700",
+      "tempo": 0.6549487113952637,
+      "nome": "Furadeira Makita de Impacto 1/2\" 1010W 220V | HP2070-220V",
+      "preco": "2463.73",
+      "preco_original": "2706.38",
+      "imagens": 3
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/soquete-excellent-bits-com-catraca-encaixe-1-4-e-3-8-com-40-pecas-8zi-402602",
+      "tempo": 0.9645752906799316,
+      "nome": "Soquete Excellent Bits com Catraca Encaixe 1/4 e 3/8 com 40 Peças 8ZI",
+      "preco": "61.72",
+      "preco_original": "74.29",
+      "imagens": 3
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/martelete-dewalt-sds-plus-rompedor-220v-800w-d25133kb2-412615",
+      "tempo": 0.7211489677429199,
+      "nome": "Martelete Dewalt - SDS Plus Rompedor 220V 800W | D25133KB2",
+      "preco": "899.00",
+      "preco_original": "987.54",
+      "imagens": 3
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/inversora-de-solda-intech-compacta-com-acessorios-160a-bivolt-7898632332698-405435",
+      "tempo": 0.7500653266906738,
+      "nome": "Inversora de Solda Intech Compacta com Acessórios 160A Bivolt | 7898632332698",
+      "preco": "684.34",
+      "preco_original": null,
+      "imagens": 3
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/motosserra-gasolina-intech-machine-saw5200-405433",
+      "tempo": 0.9886538982391357,
+      "nome": "Motosserra Gasolina Intech Machine SAW5200",
+      "preco": "891.46",
+      "preco_original": "1115.37",
+      "imagens": 3
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/soprador-termico-hikari-hk-510-2000w-127v-21d001-412973",
+      "tempo": 1.050809621810913,
+      "nome": "Soprador Térmico Hikari HK-510 2000W 127V | 21D001",
+      "preco": "191.06",
+      "preco_original": null,
+      "imagens": 3
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/torques-berg-armador-12-5648512-91073",
+      "tempo": 0.9443175792694092,
+      "nome": "Torques Berg Armador 12\" 5648512",
+      "preco": "49.37",
+      "preco_original": "61.71",
+      "imagens": 3
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/bateria-makita-universal-12v-4-0ah-li-ion-1974070-404929",
+      "tempo": 0.9786055088043213,
+      "nome": "Bateria Makita Universal 12V 4.0Ah Li-Ion | 1974070",
+      "preco": "559.67",
+      "preco_original": null,
+      "imagens": 3
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/lixadeira-makita-industrial-7-2200w-127v-sa7021127v-299650",
+      "tempo": 0.680490255355835,
+      "nome": "Lixadeira Makita Industrial 7\" 2200W 127V | SA7021127V",
+      "preco": "1212.76",
+      "preco_original": null,
+      "imagens": 3
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/pistola-arprex-modelo-alfa-4-aerografo-bico-3-0mm-10133000-140368",
+      "tempo": 0.845858097076416,
+      "nome": "Pistola Arprex Modelo Alfa 4 Aerógrafo \"Bico 3.0mm\" 10133000",
+      "preco": "899.72",
+      "preco_original": "1058.49",
+      "imagens": 3
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/serra-marmore-makita-220v-1300w-sem-maleta-4100nh3z-220v-344516",
+      "tempo": 0.8759868144989014,
+      "nome": "Serra Marmore Makita 220V 1300W sem Maleta 4100NH3Z-220V",
+      "preco": "633.62",
+      "preco_original": null,
+      "imagens": 3
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/furadeira-dewalt-impacto-1-2-220v-710w-dwd502b2-403672",
+      "tempo": 0.9007885456085205,
+      "nome": "Furadeira Dewalt Impacto 1/2\" 220V 710W DWD502B2",
+      "preco": "399.00",
+      "preco_original": "486.18",
+      "imagens": 3
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/furadeira-parafusadeira-black-decker-3-8-20v-bateria-com-80-acessorios-bcd704c1ka-br-412561",
+      "tempo": 0.5360660552978516,
+      "nome": "Furadeira/Parafusadeira Black & Decker - 3/8\" 20V Bateria com 80 Acessórios | BCD704C1KA-BR",
+      "preco": "741.70",
+      "preco_original": "1241.20",
+      "imagens": 3
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/arame-farpado-gerdau-1-60-gir-rl250m-111001231-20818",
+      "tempo": 0.5352821350097656,
+      "nome": "Arame Farpado Gerdau 1.60 \"Gir\" RL250m | 111001231",
+      "preco": "277.97",
+      "preco_original": "459.73",
+      "imagens": 3
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/torneira-eletrica-sintex-teb144-mesa-alta-branca-127v-4400w-bica-360-3-temperaturas-10713415-389595",
+      "tempo": 0.5409862995147705,
+      "nome": "Torneira Elétrica Sintex TEB144 Mesa Alta Branca 127V 4400W Bica 360° 3 Temperaturas | 10713415",
+      "preco": "119.90",
+      "preco_original": "131.70",
+      "imagens": 3
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/alicate-descascador-irwin-descfio-8-2078300-307777",
+      "tempo": 0.5415041446685791,
+      "nome": "Alicate Descascador Irwin Descfio - 8\" | 2078300",
+      "preco": "149.90",
+      "preco_original": "182.65",
+      "imagens": 3
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/estilete-irwin-retratil-standard-2082101-233129",
+      "tempo": 0.5415759086608887,
+      "nome": "Estilete Irwin Retrátil Standard 2082101",
+      "preco": "75.11",
+      "preco_original": "93.89",
+      "imagens": 3
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/furadeira-parafusadeira-makita-12v-compacta-com-kit-e-carregador-clx228sax-404931",
+      "tempo": 0.5661795139312744,
+      "nome": "Furadeira/Parafusadeira Makita 12V Compacta com Kit e Carregador | CLX228SAX",
+      "preco": "137.00",
+      "preco_original": "176.97",
+      "imagens": 3
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/ducha-lorenzetti-acqua-duo-ultra-pr-cr-127v-5500w-preto-com-cromado-7510106-402398",
+      "tempo": 0.5442924499511719,
+      "nome": "Ducha Lorenzetti Acqua Duo Ultra PR/CR 127V 5500W Preto com Cromado | 7510106",
+      "preco": "654.07",
+      "preco_original": "718.49",
+      "imagens": 3
+    },
+    {
+      "url": "https://www.matconcasa.com.br/produto/esmerilhadeira-makita-4-5-127v-720w-ga4530-127v-85820",
+      "tempo": 0.5500316619873047,
+      "nome": "Esmerilhadeira Makita 4.5\" 127V 720W | GA4530-127V",
+      "preco": "435.59",
+      "preco_original": "518.75",
+      "imagens": 3
+    }
+  ]
+}
